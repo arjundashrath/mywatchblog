@@ -1,11 +1,18 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import FormattedDate from "../components/FormattedDate.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+
+const posts = (await getCollection("blog"))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
@@ -13,37 +20,248 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<!-- Hero Section -->
+			<section class="hero">
+				<p class="hero-eyebrow">Welcome to</p>
+				<h1>The Wrist Journal</h1>
+				<p class="hero-subtitle">
+					Your everything guide to watches in India. Reviews, guides,
+					and stories for collectors who know great value doesn't need
+					a luxury price tag.
+				</p>
+				<a href="/blog" class="cta-button">Read the Blog →</a>
+			</section>
+
+			<!-- Latest Posts -->
+			{
+				posts.length > 0 && (
+					<section class="latest-posts">
+						<h2>Latest Posts</h2>
+						<div class="posts-grid">
+							{posts.map((post) => (
+								<a href={`/blog/${post.id}/`} class="post-card">
+									{post.data.heroImage && (
+										<div class="card-image">
+											<Image
+												width={600}
+												height={340}
+												src={post.data.heroImage}
+												alt={post.data.title}
+											/>
+										</div>
+									)}
+									<div class="card-content">
+										<time class="card-date">
+											<FormattedDate
+												date={post.data.pubDate}
+											/>
+										</time>
+										<h3>{post.data.title}</h3>
+										<p class="card-desc">
+											{post.data.description}
+										</p>
+									</div>
+								</a>
+							))}
+						</div>
+						<div class="view-all">
+							<a href="/blog">View all posts →</a>
+						</div>
+					</section>
+				)
+			}
+
+			<!-- About Snippet -->
+			<section class="about-snippet">
+				<h2>What's This About?</h2>
+				<p>
+					The Wrist Journal is a passion project by a watch enthusiast
+					who believes you don't need to spend a fortune to wear
+					something special. Watch collection is still a niche hobby
+					in India and we want to change that.
+				</p>
+				<a href="/about">Learn more about us →</a>
+			</section>
 		</main>
 		<Footer />
+		<style>
+			main {
+				width: 100%;
+				max-width: 960px;
+				padding: 0 1.5em 3em;
+			}
+
+			/* Hero */
+			.hero {
+				text-align: center;
+				padding: 4em 0 3em;
+			}
+
+			.hero-eyebrow {
+				font-size: 1rem;
+				color: var(--accent);
+				font-weight: 600;
+				margin-bottom: 0.5em;
+				letter-spacing: 0.05em;
+				text-transform: uppercase;
+			}
+
+			.hero h1 {
+				font-size: 3.5rem;
+				margin-bottom: 0.5em;
+				background: linear-gradient(135deg, var(--text), var(--accent));
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;
+				background-clip: text;
+			}
+
+			.hero-subtitle {
+				font-size: 1.2rem;
+				color: var(--text-secondary);
+				max-width: 560px;
+				margin: 0 auto 2em;
+				line-height: 1.6;
+			}
+
+			.cta-button {
+				display: inline-block;
+				padding: 0.85em 2em;
+				background-color: var(--accent);
+				color: white;
+				font-weight: 600;
+				font-size: 1rem;
+				border-radius: var(--radius);
+				text-decoration: none;
+				transition: background-color var(--transition),
+					transform var(--transition), box-shadow var(--transition);
+			}
+
+			.cta-button:hover {
+				background-color: var(--accent-hover);
+				color: white;
+				transform: translateY(-1px);
+				box-shadow: var(--shadow-md);
+			}
+
+			/* Latest Posts */
+			.latest-posts {
+				padding: 2em 0;
+			}
+
+			.latest-posts h2 {
+				margin-bottom: 1.5em;
+			}
+
+			.posts-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+				gap: 1.5em;
+			}
+
+			.post-card {
+				display: flex;
+				flex-direction: column;
+				background: var(--bg-card);
+				border: 1px solid var(--border);
+				border-radius: var(--radius);
+				overflow: hidden;
+				text-decoration: none;
+				color: inherit;
+				transition: border-color var(--transition),
+					box-shadow var(--transition), transform var(--transition);
+			}
+
+			.post-card:hover {
+				border-color: var(--border-hover);
+				box-shadow: var(--shadow-lg);
+				transform: translateY(-2px);
+				color: inherit;
+			}
+
+			.card-image {
+				overflow: hidden;
+				aspect-ratio: 16 / 9;
+			}
+
+			.card-image img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 0;
+				transition: transform 0.3s ease;
+			}
+
+			.post-card:hover .card-image img {
+				transform: scale(1.03);
+			}
+
+			.card-content {
+				padding: 1.25em;
+				flex: 1;
+			}
+
+			.card-date {
+				font-size: 0.8rem;
+				color: var(--text-muted);
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+			}
+
+			.card-content h3 {
+				font-size: 1.2rem;
+				margin: 0.4em 0;
+				line-height: 1.3;
+			}
+
+			.card-desc {
+				font-size: 0.9rem;
+				color: var(--text-secondary);
+				margin: 0;
+				line-height: 1.5;
+			}
+
+			.view-all {
+				text-align: center;
+				margin-top: 2em;
+			}
+
+			.view-all a {
+				font-weight: 600;
+				font-size: 0.95rem;
+			}
+
+			/* About Snippet */
+			.about-snippet {
+				padding: 3em 0 2em;
+				border-top: 1px solid var(--border);
+				margin-top: 2em;
+			}
+
+			.about-snippet p {
+				color: var(--text-secondary);
+				max-width: 600px;
+				line-height: 1.7;
+			}
+
+			.about-snippet a {
+				font-weight: 600;
+				font-size: 0.95rem;
+			}
+
+			@media (max-width: 720px) {
+				.hero {
+					padding: 3em 0 2em;
+				}
+				.hero h1 {
+					font-size: 2.5rem;
+				}
+				.hero-subtitle {
+					font-size: 1.05rem;
+				}
+				.posts-grid {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
 	</body>
 </html>

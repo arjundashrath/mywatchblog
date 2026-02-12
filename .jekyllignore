@@ -1,0 +1,8 @@
+src/
+node_modules/
+.github/
+astro.config.mjs
+package.json
+package-lock.json
+tsconfig.json
+public/

@@ -29,9 +29,7 @@ const posts = (await getCollection("blog"))
 					and stories for collectors who know great value doesn't need
 					a luxury price tag.
 				</p>
-				<a href="/mywatchblog/blog" class="cta-button"
-					>Read the Blog →</a
-				>
+				<a href="/blog" class="cta-button">Read the Blog →</a>
 			</section>
 
 			<!-- Latest Posts -->
@@ -41,10 +39,7 @@ const posts = (await getCollection("blog"))
 						<h2>Latest Posts</h2>
 						<div class="posts-grid">
 							{posts.map((post) => (
-								<a
-									href={`/mywatchblog/blog/${post.id}/`}
-									class="post-card"
-								>
+								<a href={`/blog/${post.id}/`} class="post-card">
 									{post.data.heroImage && (
 										<div class="card-image">
 											<Image
@@ -70,7 +65,7 @@ const posts = (await getCollection("blog"))
 							))}
 						</div>
 						<div class="view-all">
-							<a href="/mywatchblog/blog">View all posts →</a>
+							<a href="/blog">View all posts →</a>
 						</div>
 					</section>
 				)
@@ -85,7 +80,7 @@ const posts = (await getCollection("blog"))
 					something special. Watch collection is still a niche hobby
 					in India and we want to change that.
 				</p>
-				<a href="/mywatchblog/about">Learn more about us →</a>
+				<a href="/about">Learn more about us →</a>
 			</section>
 		</main>
 		<Footer />

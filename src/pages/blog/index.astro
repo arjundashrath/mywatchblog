@@ -34,7 +34,7 @@ const posts = (await getCollection("blog")).sort(
 				{
 					posts.map((post, i) => (
 						<a
-							href={`/mywatchblog/blog/${post.id}/`}
+							href={`/blog/${post.id}/`}
 							class:list={["post-card", { featured: i === 0 }]}
 						>
 							{post.data.heroImage && (

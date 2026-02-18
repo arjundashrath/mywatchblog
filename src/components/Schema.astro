@@ -1,0 +1,105 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
+interface Props {
+    type?: "Organization" | "BlogPosting" | "WebSite";
+    title?: string;
+    description?: string;
+    image?: string;
+    pubDate?: Date;
+    updatedDate?: Date;
+}
+
+const {
+    type = "WebSite",
+    title = SITE_TITLE,
+    description = SITE_DESCRIPTION,
+    image,
+    pubDate,
+    updatedDate,
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const siteUrl = Astro.site?.toString();
+
+// Base Organization Schema (Global)
+const organizationSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    url: siteUrl,
+    name: "The Wrist Journal",
+    logo: new URL("webicon.png", siteUrl).toString(),
+    sameAs: [
+        // Add social links here if available in consts
+    ],
+    contactPoint: {
+        "@type": "ContactPoint",
+        contactType: "customer support",
+        areaServed: "IN",
+        availableLanguage: "en",
+    },
+};
+
+// WebSite Schema (for Home)
+const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    url: siteUrl,
+    name: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    publisher: {
+        "@type": "Organization",
+        name: "The Wrist Journal",
+        logo: {
+            "@type": "ImageObject",
+            url: new URL("webicon.png", siteUrl).toString(),
+        },
+    },
+};
+
+// BlogPosting Schema (for Posts)
+const blogPostingSchema =
+    type === "BlogPosting"
+        ? {
+              "@context": "https://schema.org",
+              "@type": "BlogPosting",
+              mainEntityOfPage: {
+                  "@type": "WebPage",
+                  "@id": canonicalURL.toString(),
+              },
+              headline: title,
+              description: description,
+              image: image ? new URL(image, siteUrl).toString() : undefined,
+              author: {
+                  "@type": "Person",
+                  name: "The Wrist Journal Team", // Or dynamic author if available
+                  url: siteUrl,
+              },
+              publisher: {
+                  "@type": "Organization",
+                  name: "The Wrist Journal",
+                  logo: {
+                      "@type": "ImageObject",
+                      url: new URL("webicon.png", siteUrl).toString(),
+                  },
+              },
+              datePublished: pubDate?.toISOString(),
+              dateModified:
+                  updatedDate?.toISOString() || pubDate?.toISOString(),
+              inLanguage: "en-IN",
+              potentialAction: {
+                  "@type": "ReadAction",
+                  target: [canonicalURL.toString()],
+              },
+              areaServed: "IN",
+          }
+        : null;
+
+const schemaData =
+    type === "BlogPosting"
+        ? [organizationSchema, blogPostingSchema]
+        : [organizationSchema, websiteSchema];
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)}
+></script>

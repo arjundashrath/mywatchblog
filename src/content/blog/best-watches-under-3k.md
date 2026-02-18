@@ -2,7 +2,7 @@
 title: "Best Watches Under 3000 Rupees (2026 Edition)"
 description: "Discover the best budget watches under ₹3,000 in India. Featuring Casio, Timex, and HMT - from retro digitals to elegant dress watches."
 pubDate: "2026-02-12"
-tags: ["budget", "guide", "casio", "timex", "hmt"]
+tags: ["budget", "guide", "casio", "timex", "hmt", "india"]
 ---
 
 # Best Watches Under 3000 Rupees (2026 Edition)

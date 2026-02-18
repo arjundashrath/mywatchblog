@@ -13,30 +13,29 @@ const posts = (await getCollection("blog"))
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-IN">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<!-- Hero Section -->
 			<section class="hero">
-				<p class="hero-eyebrow">Welcome to</p>
-				<h1>The Wrist Journal</h1>
+				<p class="hero-eyebrow">The Premier Guide to</p>
+				<h1>The Wrist Journal: Watches in India</h1>
 				<p class="hero-subtitle">
-					Your everything guide to watches in India. Reviews, guides,
-					and stories for collectors who know great value doesn't need
-					a luxury price tag.
+					The ultimate destination for watch enthusiasts in India.
+					From the best budget everyday watches to luxury timepieces,
+					discover expert reviews, buying guides, and horology stories
+					tailored for the Indian collector.
 				</p>
-				<a href="/blog" class="cta-button">Read the Blog →</a>
+				<a href="/blog" class="cta-button">Explore Watch Reviews →</a>
 			</section>
 
-			<!-- Latest Posts -->
 			{
 				posts.length > 0 && (
 					<section class="latest-posts">
-						<h2>Latest Posts</h2>
+						<h2>Latest Watch Reviews & Guides</h2>
 						<div class="posts-grid">
 							{posts.map((post) => (
 								<a href={`/blog/${post.id}/`} class="post-card">
@@ -65,22 +64,22 @@ const posts = (await getCollection("blog"))
 							))}
 						</div>
 						<div class="view-all">
-							<a href="/blog">View all posts →</a>
+							<a href="/blog">View all watch articles →</a>
 						</div>
 					</section>
 				)
 			}
 
-			<!-- About Snippet -->
 			<section class="about-snippet">
-				<h2>What's This About?</h2>
+				<h2>Your Trusted Indian Watch Community</h2>
 				<p>
-					The Wrist Journal is a passion project by a watch enthusiast
-					who believes you don't need to spend a fortune to wear
-					something special. Watch collection is still a niche hobby
-					in India and we want to change that.
+					The Wrist Journal is dedicated to the growing community of
+					watch collectors in India. Whether you are hunting for the
+					best budget watches or researching your first luxury
+					automatic, we provide honest insights to help you build the
+					perfect collection.
 				</p>
-				<a href="/about">Learn more about us →</a>
+				<a href="/about">Learn more about our watch journey →</a>
 			</section>
 		</main>
 		<Footer />

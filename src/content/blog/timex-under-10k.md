@@ -2,7 +2,7 @@
 title: "Best Timex Watches Under 10,000 Rupees (2026 Edition)"
 description: "Discover the best Timex watches under 10,000 rupees in India. Our guide covers daily beaters, dress watches, sports models, and more — all under ₹10,000."
 pubDate: "2026-02-12"
-tags: ["budget", "guide", "timex"]
+tags: ["budget", "guide", "timex", "india"]
 ---
 
 # Best Timex Watches Under 10,000 Rupees (2026 Edition)

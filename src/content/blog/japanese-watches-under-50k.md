@@ -96,7 +96,7 @@ Through the transparent dial you can actually watch the English and Kanji day di
 
 Citizen Eco-Drive BM7637-81H Grey Dial
 
-![Citizen Eco-Drive BM7637-81H Gun Metal Textured Dial](../../assets/blog/japanese-50k/Citizen-28k.webp)
+![Citizen Eco-Drive BM7637-81H Gun Metal Textured Dial](../../assets/blog/japanese-50k/citizen-28k.webp)
 
 **Key Specifications:**
 - **Movement:** Eco-Drive (Solar-powered Quartz)

@@ -31,13 +31,15 @@ Bluetooth lets you sync with your phone for time adjustments and basic data logg
 
 **The one catch:** It is not the best looking watch in the world. The design is functional rather than fashionable. But honestly, if you are buying an outdoor watch for looks, you are doing it wrong.
 
-### Alternative: [Timex Capstone TW2Y18200UJ](https://shop.timexindia.com/collections/expedition/products/timex-capstone-blue-round-dial-analog-mens-watch-tw2y18200uj) – ₹9,995
+### Alternative: [Timex Capstone TW2Y18200UJ](https://amzn.to/4rZSg10) – ₹9,995
 
 Timex Capstone Blue Dial TW2Y18200UJ
 
 ![Timex Capstone Blue Dial Analog Outdoor Watch](../../assets/blog/Outdoors/Timex-under10k.webp)
 
 A blue-dial analog piece from Timex's Expedition lineup. It has a date complication and looks considerably better than the Pro Trek above — more of a watch you could wear casually after a hike. The trade-off? It lacks any real outdoor features beyond basic water resistance. No compass, no solar, no sensors. It is a good-looking watch that happens to be in the Expedition line rather than a true outdoor tool. If you are exploring Timex more broadly, check out our [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/) guide.
+
+<a href="https://amzn.to/4rZSg10" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 
@@ -64,7 +66,7 @@ The watch also looks genuinely great. The white colourway gives it a clean, mode
 
 **Cons:** Honestly, we struggled to find any. This is an exceptional watch for the money.
 
-### Alternative: [Timex Expedition North Field Post Mechanical](https://shop.timexindia.com/collections/expedition/products/timex-mechanical-hand-wind-blue-dial-men-watch-tw2v00700-tw2v00700) – ₹13,596 (Under offer)
+### Alternative: [Timex Expedition North Field Post Mechanical](https://amzn.to/3PAhl5i) – ₹13,596 (Under offer)
 
 Timex Expedition North Field Post Mechanical
 
@@ -74,11 +76,13 @@ Here is something completely different — a hand-wound mechanical watch with a 
 
 The sapphire crystal is a massive deal at this price — it is virtually scratch-proof, which is exactly what you want outdoors. The downside? It does not have any actual outdoor features. No compass, no sensors worth writing home about. It is more of a rugged field watch than a technical outdoor tool.
 
+<a href="https://amzn.to/3PAhl5i" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 3. Under ₹20,000 — The Sensor Master
 
-## Winner: [Timex Expedition North TW2V22100UJ](https://shop.timexindia.com/collections/expedition/products/timex-expedition-north-blue-round-dial-analog-mens-watch-tw2v22100uj) – ₹19,495
+## Winner: [Timex Expedition North TW2V22100UJ](https://amzn.to/4lYSm7I) – ₹19,495
 
 Timex Expedition North TW2V22100UJ
 
@@ -95,6 +99,8 @@ Timex pulls ahead in this bracket with a genuinely impressive sensor suite. Tide
 For coastal hikes, beach trips, or any outdoor activity where tidal data matters, this is incredibly useful. The compass alone makes it a worthy upgrade over watches twice this price that lack one.
 
 **The catches:** At 45mm, this thing runs big. If you have wrists under 7 inches, it might feel like a dinner plate. And the lack of sapphire crystal at nearly twenty thousand is a bit disappointing — mineral glass will pick up scratches over time.
+
+<a href="https://amzn.to/4lYSm7I" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ### Alternative: Just go for the PRW-35-7
 
@@ -123,7 +129,7 @@ This is the Team Land Cruiser Toyota Auto Body edition, and it looks absolutely 
 
 **Worth noting:** Like all G-Shocks, this runs big. If you prefer watches under 44mm, this will feel like you strapped a small computer to your wrist. Also, no Bluetooth connectivity, which means no phone syncing — surprising at nearly twenty-five thousand rupees.
 
-### Alternative: [Timex Expedition North TW2W78200UJ](https://shop.timexindia.com/collections/expedition/products/timex-expedition-north-gray-round-dial-analog-mens-watch-tw2w78200uj) – ₹22,995
+### Alternative: [Timex Expedition North TW2W78200UJ](https://amzn.to/41D5Dt3) – ₹22,995
 
 Timex Expedition North Gray Dial Titanium TW2W78200UJ
 
@@ -133,11 +139,13 @@ If you want something completely different from the Mudman's tactical aggression
 
 The problem? Titanium is essentially the only feature here. It is a quartz watch with no outdoor sensors, no solar, and nothing particularly technical. The automatic version exists but costs about ten thousand more. At ₹22,995, you are paying for the material and the looks, not the functionality.
 
+<a href="https://amzn.to/41D5Dt3" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 5. Under ₹30,000 — The Smart Upgrade
 
-## Winner: [Garmin Instinct 2](https://www.garmin-india.com/p/010-02626-00) – ₹32,990 (Regularly found under 30K)
+## Winner: [Garmin Instinct 2](https://amzn.to/4sNcz2T) – ₹32,990 (Regularly found under 30K)
 
 Garmin Instinct 2
 
@@ -157,6 +165,8 @@ The TracBack feature alone justifies this purchase for serious hikers — it rec
 
 **Worth noting:** This is an older model, but Garmin still actively supports it with software updates. If you can stretch the budget slightly, the Instinct 2X Solar is the next step up and offers nearly unlimited battery with solar charging.
 
+<a href="https://amzn.to/4sNcz2T" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ### Alternative: [Casio G-Shock Mudmaster GG-B100X-1A](https://www.casio.com/in/watches/gshock/product.GG-B100X-1A/) – ₹29,995
 
 Casio G-Shock Mudmaster GG-B100X-1A
@@ -171,7 +181,7 @@ It looks incredible too. The all-black colourway with subtle accents is genuinel
 
 # 6. Under ₹35,000 — The Solar Powerhouse
 
-## Winner: [Garmin Instinct 2X Solar](https://www.garmin-india.com/p/010-02805-00) – ₹35,290 (Available under 35K)
+## Winner: [Garmin Instinct 2X Solar](https://amzn.to/4sGAu46) – ₹35,290 (Available under 35K)
 
 Garmin Instinct 2X Solar
 
@@ -189,6 +199,8 @@ Take everything the Instinct 2 does and make it better. The 2X Solar adds solar 
 Every sensor and feature from the Instinct 2 is here, but refined. Better GPS accuracy, improved heart rate tracking, and enhanced sports profiles. If you are serious about outdoor activities — whether that is trekking in the Himalayas, running trails in the Western Ghats, or just weekend camping — this is the watch that will keep up with you.
 
 **The trade-off:** It is noticeably larger than the standard Instinct 2. If wrist size is a concern, try it on before committing.
+
+<a href="https://amzn.to/4sGAu46" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ### Alternatives: None worth noting.
 

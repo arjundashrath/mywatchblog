@@ -29,7 +29,7 @@ A daily beater is a watch you can wear without thinking twice — to work, erran
 
 ---
 
-## 1.1 [Timex Legacy 41mm Stainless Steel Bracelet Watch](https://shop.timexindia.com/collections/mens/products/timex-trend-men-brown-round-dial-analog-watch-tw2w42700uj?_gl=1*x7xudf*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹9,995
+## 1.1 [Timex Legacy 41mm Stainless Steel Bracelet Watch](https://amzn.to/4bP6uf1) – ₹9,995
 
 Timex Legacy 41mm Stainless Steel Bracelet Watch
 
@@ -49,9 +49,11 @@ The watch draws inspiration from classic day-date designs but maintains its own 
 
 If you prefer a different dial color, consider the green dial variant from the [Timex Trend lineup](https://shop.timexindia.com/collections/mens/products/timex-trend-green-round-dial-analog-men-s-watch-tweg27104?_gl=1*seyy0k*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn).
 
+<a href="https://amzn.to/4bP6uf1" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
-## 1.2 [TIMEX TREND Green Round Dial Analog Men’s Watch – TWEG27003](https://shop.timexindia.com/collections/mens/products/timex-trend-green-round-dial-analog-men-s-watch-tweg27003?_gl=1*ppju*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹9,495
+## 1.2 [TIMEX TREND Green Round Dial Analog Men’s Watch – TWEG27003](https://amzn.to/48c9Lnw) – ₹9,495
 
 TIMEX TREND Green Round Dial Analog Men's Watch TWEG27003
 
@@ -70,9 +72,11 @@ With 100m water resistance and a rotating bezel, it has the rugged aesthetic of 
 
 For someone wanting a bold daily watch with strong visual identity, this is an excellent option.
 
+<a href="https://amzn.to/48c9Lnw" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
-## 1.3 [TIMEX Classic Grey Square Dial Digital Watch – T78587UJ](https://shop.timexindia.com/collections/mens/products/timex-classic-grey-square-dial-digital-men-s-watch-t78587uj?_gl=1*zh2h9b*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹5,995
+## 1.3 [TIMEX Classic Grey Square Dial Digital Watch – T78587UJ](https://amzn.to/4dNzsyo) – ₹5,995
 
 TIMEX Classic Grey Square Dial Digital Men's Watch T78587UJ
 
@@ -89,6 +93,8 @@ TIMEX Classic Grey Square Dial Digital Men's Watch T78587UJ
 For fans of retro digital watches, this model offers a strong alternative to mainstream options. The brushed finish and classic square case give it authentic vintage appeal.
 
 Timex’s proprietary Indiglo electroluminescent backlight ensures excellent visibility in low light. Lightweight, practical, and understated — this is a reliable everyday companion.
+
+<a href="https://amzn.to/4dNzsyo" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 
@@ -118,7 +124,7 @@ The olive dial adds sophistication and depth, especially under formal lighting. 
 
 ---
 
-## 2.2 [TIMEX Orange Round Dial Analog Men’s Watch – TWEG27900](https://shop.timexindia.com/collections/mens/products/timex-orange-round-dial-analog-men-s-watch-tweg27900?_gl=1*1ezanad*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹8,295
+## 2.2 [TIMEX Orange Round Dial Analog Men’s Watch – TWEG27900](https://amzn.to/4lYRwYC) – ₹8,295
 
 TIMEX Orange Round Dial Analog Men's Watch TWEG27900
 
@@ -135,9 +141,11 @@ With a case thickness of just 5.15mm, this is one of the sleekest watches on thi
 
 Minimalist markers and a slim profile make it ideal for formal occasions. It slips easily under a shirt cuff and pairs well with tailored attire.
 
+<a href="https://amzn.to/4lYRwYC" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
-## 2.3 [TIMEX Men Blue Round Dial Analog Watch – TWEG23604](https://shop.timexindia.com/collections/mens/products/timex-men-blue-round-dial-analog-watch-tweg23604?_gl=1*jmdpm0*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹9,995
+## 2.3 [TIMEX Men Blue Round Dial Analog Watch – TWEG23604](https://amzn.to/4uXAC0r) – ₹9,995
 
 TIMEX Men Blue Round Dial Analog Watch TWEG23604
 
@@ -156,6 +164,8 @@ The light blue dial gives it a contemporary integrated-bracelet sports aesthetic
 
 For buyers seeking maximum feature value under 10,000 rupees, this is a standout.
 
+<a href="https://amzn.to/4uXAC0r" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 3. Best Outdoor / Sports Watches Under 10K
@@ -164,7 +174,7 @@ These watches are designed for rugged usage — travel, workouts, hiking, and da
 
 ---
 
-## 3.1 [TIMEX Capstone Black Round Dial Analog Watch – TW2Y18100UJ](https://shop.timexindia.com/collections/mens/products/timex-capstone-black-round-dial-analog-mens-watch-tw2y18100uj?_gl=1*not258*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹9,995
+## 3.1 [TIMEX Capstone Black Round Dial Analog Watch – TW2Y18100UJ](https://amzn.to/4teYYkJ) – ₹9,995
 
 TIMEX Capstone Black Round Dial Analog Men's Watch TW2Y18100UJ
 
@@ -182,9 +192,11 @@ The Capstone is a compact, rugged sports watch with a distinctive case shape. At
 
 The silicone strap makes it ideal for active use, and the luminescent hands improve visibility in low light conditions. A practical and versatile outdoor companion. For a deeper dive into outdoor-focused watches across all brands and budgets, check out our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide.
 
+<a href="https://amzn.to/4teYYkJ" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
-## 3.2 [Timex UFC Rematch 50mm Resin Strap Watch](https://shop.timexindia.com/collections/mens/products/timex-ufc-strength-collection-premium-quality-men-s-quartz-analog-digital-dial-coloured-watch-round-dial-with-50-mm-case-width-tw5m531000d?_gl=1*xhg1pe*_up*MQ..&gclid=Cj0KCQiA7rDMBhCjARIsAGDBuEACllGD_uyEHSLTDFEyii0iT4gwyAzRuNdU_2aXZglSsuJwAwQ0nRkaAmC2EALw_wcB&gbraid=0AAAAACFJAFn1x2KQ984IP_iHsTeKkWjdn) – ₹5,495
+## 3.2 [Timex UFC Rematch 50mm Resin Strap Watch](https://amzn.to/4uUDdYX) – ₹5,495
 
 Timex UFC Rematch 50mm Resin Strap Watch
 
@@ -201,6 +213,8 @@ Timex UFC Rematch 50mm Resin Strap Watch
 This is a bold, oversized sports watch with serious presence. The all-black aesthetic gives it a tough, athletic character.
 
 The digital features combined with analog styling make it highly functional. Ideal for larger wrists and users seeking a durable, high-visibility sports watch.
+
+<a href="https://amzn.to/4uUDdYX" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 

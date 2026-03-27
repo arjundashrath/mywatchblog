@@ -117,7 +117,7 @@ The real party trick is Citizen's Eco-Drive technology — this watch is powered
 
 # 5. The Stainless Steel Tank — ₹21,995
 
-## [Casio G-Shock Full Metal G1687](https://justintime.in/collections/casio/products/casio-g-shock-men-quartz-silver-dial-analog-stainless-steel-watch-g1687?variant=52100681990419) – ₹21,995
+## [Casio G-Shock Full Metal G1687](https://amzn.to/4bABPDs) – ₹21,995
 
 Casio G-Shock Full Metal Stainless Steel G1687
 
@@ -137,11 +137,13 @@ You still get all the classic features — world time for tracking multiple zone
 
 **Fair warning:** This thing runs big and it runs heavy. If you have smaller wrists or prefer lighter watches, this might feel like too much. Also, at this price point, the lack of Bluetooth connectivity is a bit surprising — most G-Shocks in this range offer app pairing. Looking for G-Shocks built specifically for the outdoors? Check out our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide where we cover the Mudman and Mudmaster.
 
+<a href="https://amzn.to/4bABPDs" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 6. The Koi Fish Stunner — ₹15,000
 
-## [Alba Chronograph AX7019X1](https://justintime.in/collections/alba/products/alba-men-quartz-light-blue-dial-chronograph-stainless-steel-watch-ax7019x1?variant=53920728252691) – ₹15,000
+## [Alba Chronograph AX7019X1](https://amzn.to/4caNJUD) – ₹15,000
 
 Alba Men Quartz Light Blue Dial Chronograph AX7019X1
 
@@ -161,11 +163,13 @@ At ₹15,000, this is one of the most visually striking watches you can get in I
 
 **Worth noting:** No sapphire crystal, but honestly — at fifteen grand, we are not going to hold that against it.
 
+<a href="https://amzn.to/4caNJUD" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 7. The Golden Classic — ₹14,500
 
-## [Citizen Hyperion BI5110-54B](https://www.citizenwatches.co.in/products/quartz/bi5110-54b) – ₹14,500
+## [Citizen Hyperion BI5110-54B](https://amzn.to/4bWSBM5) – ₹14,500
 
 Citizen Hyperion Men Quartz Gold Dial BI5110-54B
 
@@ -185,6 +189,8 @@ The yellow-golden dial is rich without being obnoxious, and the matching gold ho
 At 41mm, it sits perfectly on most wrists. It is the kind of watch that elevates a simple button-down-and-chinos outfit into something that looks put together. Citizen's build quality at this price is dependable as always.
 
 **Worth noting:** Date only — no day display. No sapphire crystal either, but at under fifteen thousand rupees, the overall package still feels like solid value.
+
+<a href="https://amzn.to/4bWSBM5" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 

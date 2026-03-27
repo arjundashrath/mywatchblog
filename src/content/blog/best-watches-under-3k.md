@@ -79,7 +79,7 @@ It’s a piece of Indian history on your wrist. The 40mm case size is a sweet sp
 
 # 4. The Utility Beast
 
-## [Casio W-96H-1BV](https://www.casio.com/in/watches/casio/product.W-96H-1AV/) – ₹1,495 - ₹1,995
+## [Casio W-96H-1BV](https://amzn.to/40ZKGIE) – ₹1,495 - ₹1,995
 
 Casio W-96H-1BV Dual Time
 
@@ -97,11 +97,13 @@ Often overshadowed by its siblings, the W-96H is a hidden gem. It features a lar
 **Why we love it:**
 The **10-year battery life** is a massive selling point. Combined with 50m water resistance and dual time capability, it is a fantastic travel companion or work watch. It’s slightly larger than the F-91W, giving it a more substantial feel without being bulky.
 
+<a href="https://amzn.to/40ZKGIE" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
 ---
 
 # 5. The Retro Icon
 
-## [Casio A158WA-1](https://www.casio.com/in/watches/casio/product.A158WA-1/) – ₹1,695
+## [Casio A158WA-1](https://amzn.to/4bQHcgq) – ₹1,695
 
 Casio Vintage A158WA-1 Silver
 
@@ -118,6 +120,8 @@ If the F-91W is the king of resin digital watches, the A158W is the king of retr
 
 **Why we love it:**
 It looks amazing with a denim jacket or a t-shirt. It has a charm that modern smartwatches simply cannot replicate. The adjustable clasp means you can get the perfect fit without visiting a watchmaker.
+
+<a href="https://amzn.to/4bQHcgq" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 
@@ -166,7 +170,7 @@ Ideally suited for formal wear, the black leather strap and black dial combo is 
 
 # 8. For Her
 
-## [Casio LTP-V007L-7B1](https://www.casio.com/in/watches/casio/product.LTP-V007L-7B1/) – ₹2,495
+## [Casio LTP-V007L-7B1](https://amzn.to/4bQ26MH) – ₹2,495
 
 Casio LTP-V007L-7B1 Rectangular
 
@@ -183,6 +187,8 @@ This is a beautiful "Tank" style watch that pays homage to legendary luxury desi
 
 **Why we love it:**
 It is versatile enough to be worn with a saree, a business suit, or jeans. The leather strap is comfortable right out of the box, and the chrome finish gives it a jewelry-like quality.
+
+<a href="https://amzn.to/4bQ26MH" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
 ---
 

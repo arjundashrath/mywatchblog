@@ -98,6 +98,43 @@ p {
 	margin-top: 2em;
 }
 
+/* Heading links — make them obviously clickable */
+.prose h2 a,
+.prose h3 a {
+	color: var(--text);
+	text-decoration: underline;
+	text-decoration-color: var(--accent);
+	text-underline-offset: 4px;
+	text-decoration-thickness: 2px;
+	transition: color var(--transition), text-decoration-color var(--transition);
+}
+
+.prose h2 a:hover,
+.prose h3 a:hover {
+	color: var(--accent);
+}
+
+/* Buy CTA button */
+.prose .buy-cta {
+	display: inline-block;
+	background: var(--accent);
+	color: #fff !important;
+	padding: 0.5em 1.25em;
+	border-radius: 999px;
+	font-size: 0.85rem;
+	font-weight: 600;
+	letter-spacing: 0.02em;
+	text-decoration: none !important;
+	transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
+	margin-top: 0.5em;
+}
+
+.prose .buy-cta:hover {
+	background: var(--accent-hover);
+	transform: translateY(-1px);
+	box-shadow: var(--shadow-md);
+}
+
 /* Form elements */
 textarea {
 	width: 100%;

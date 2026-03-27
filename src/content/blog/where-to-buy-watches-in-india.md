@@ -123,7 +123,7 @@ Here's the **full list of Casio-authorized sellers** on major Indian e-commerce 
 | **Helios** | Helios |
 | **Swiss Time House** | Swiss Time House |
 
-When buying Casio from any online marketplace, always check that the seller name matches this list. It takes two seconds and saves a lot of headache.
+When buying Casio from any online marketplace, always check that the seller name matches this list. It takes two seconds and saves a lot of headache. Looking for Casio recommendations? Check out our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide for budget Casio legends, or our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide for Pro Trek and G-Shock picks.
 
 ---
 
@@ -131,7 +131,7 @@ When buying Casio from any online marketplace, always check that the seller name
 
 **Website:** [shop.timexindia.com](https://shop.timexindia.com/)
 
-Timex runs its own official India store online. The experience is straightforward and the prices are at MRP — but they regularly have promotions.
+Timex runs its own official India store online. The experience is straightforward and the prices are at MRP — but they regularly have promotions. Need help picking a model? See our [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/) guide.
 
 **Promo code for new users:** Use **NEWUSER10** for 10% off your first purchase.
 
@@ -162,7 +162,7 @@ Other platform-specific authorized sellers include WS Retail, Retail Net, Winspi
 
 **Website:** [seikowatches.co.in](https://seikowatches.co.in/)
 
-Seiko has an official Indian website with their current catalog. For purchases, you can buy through their own physical stores, Helios, Ethos, or authorized sellers online. Seiko's India lineup is more limited than what's available in Japan, but the popular models (Presage, Seiko 5 Sports, Prospex) are usually well-stocked.
+Seiko has an official Indian website with their current catalog. For purchases, you can buy through their own physical stores, Helios, Ethos, or authorized sellers online. Seiko's India lineup is more limited than what's available in Japan, but the popular models (Presage, Seiko 5 Sports, Prospex) are usually well-stocked. We covered some of our favourite Seiko picks in our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide.
 
 ---
 
@@ -239,5 +239,7 @@ The Indian watch market has matured a lot over the past few years. Between Helio
 And if you're chasing a JDM model or want a deal from abroad, Amazon Japan and Jomashop (via a friend) are your best bets.
 
 **The golden rule:** Always buy from authorized sources. It protects your warranty, guarantees authenticity, and means you have someone to go to if something goes wrong.
+
+Now that you know *where* to buy, here is *what* to buy: [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) | [Best Timex Under ₹10,000](/blog/timex-under-10k/) | [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) | [Best Outdoor Watches](/blog/best-outdoor-watches/)
 
 Happy hunting.

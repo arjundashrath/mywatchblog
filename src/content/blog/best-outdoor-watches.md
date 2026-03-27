@@ -37,7 +37,7 @@ Timex Capstone Blue Dial TW2Y18200UJ
 
 ![Timex Capstone Blue Dial Analog Outdoor Watch](../../assets/blog/Outdoors/Timex-under10k.webp)
 
-A blue-dial analog piece from Timex's Expedition lineup. It has a date complication and looks considerably better than the Pro Trek above — more of a watch you could wear casually after a hike. The trade-off? It lacks any real outdoor features beyond basic water resistance. No compass, no solar, no sensors. It is a good-looking watch that happens to be in the Expedition line rather than a true outdoor tool.
+A blue-dial analog piece from Timex's Expedition lineup. It has a date complication and looks considerably better than the Pro Trek above — more of a watch you could wear casually after a hike. The trade-off? It lacks any real outdoor features beyond basic water resistance. No compass, no solar, no sensors. It is a good-looking watch that happens to be in the Expedition line rather than a true outdoor tool. If you are exploring Timex more broadly, check out our [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/) guide.
 
 ---
 
@@ -119,7 +119,7 @@ Casio G-Shock Mudman GW-9500TLC-1
 
 The Mudman is not just a name — it is a promise. This watch is engineered to survive environments that would kill most timepieces. Mud resistance, extreme shock protection, and a build quality that feels like it could survive being run over by the Land Cruiser it is named after.
 
-This is the Team Land Cruiser Toyota Auto Body edition, and it looks absolutely insane. The colourway and detailing set it apart from standard G-Shock fare — it has a rugged, purposeful aesthetic that screams "I have actually been places." Under the hood, you get the same Triple Sensor suite as the Pro Trek (compass, barometer, altimeter), plus Tough Solar charging.
+This is the Team Land Cruiser Toyota Auto Body edition, and it looks absolutely insane. The colourway and detailing set it apart from standard G-Shock fare — it has a rugged, purposeful aesthetic that screams "I have actually been places." Under the hood, you get the same Triple Sensor suite as the Pro Trek (compass, barometer, altimeter), plus Tough Solar charging. If you love G-Shocks, we also covered the Full Metal G-Shock in our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide.
 
 **Worth noting:** Like all G-Shocks, this runs big. If you prefer watches under 44mm, this will feel like you strapped a small computer to your wrist. Also, no Bluetooth connectivity, which means no phone syncing — surprising at nearly twenty-five thousand rupees.
 
@@ -233,4 +233,4 @@ The outdoor watch market in India has never been better. Whether you are spendin
 - **Best all-rounder:** The **Garmin Instinct 2X Solar** at ~₹35,000 gives you solar charging, GPS navigation, health tracking, and a flashlight. It is the complete outdoor package.
 - **Best for serious adventurers:** The **Garmin fenix 8** is simply the most capable outdoor watch on the planet. If you can afford it, nothing comes close.
 
-All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Happy trails.
+All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Not sure where to buy? Check out our complete [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide for every reliable retailer and authorized seller. Happy trails.

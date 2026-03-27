@@ -7,7 +7,7 @@ tags: ["japanese", "guide", "seiko", "citizen", "casio", "alba", "india"]
 
 Japanese watchmaking has earned its reputation the hard way — through decades of obsessive engineering, bold design, and giving you far more than what you pay for. Whether it is Seiko's legendary automatics, Citizen's solar-powered wizardry, or Casio's built-like-a-tank G-Shocks, you are getting heritage and innovation without the luxury tax.
 
-This list covers **one standout Japanese watch at every major price point under ₹50,000**, available right now in India. No filler — just watches we genuinely think are worth your money.
+This list covers **one standout Japanese watch at every major price point under ₹50,000**, available right now in India. No filler — just watches we genuinely think are worth your money. And if you are on a tighter budget, do not miss our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide — some absolute legends in there.
 
 ---
 
@@ -135,7 +135,7 @@ This is not your plastic playground G-Shock. It is a beast of a watch with real 
 
 You still get all the classic features — world time for tracking multiple zones, a countdown timer, and a stopwatch that is accurate down to a fraction. It is basically a toolkit on your wrist.
 
-**Fair warning:** This thing runs big and it runs heavy. If you have smaller wrists or prefer lighter watches, this might feel like too much. Also, at this price point, the lack of Bluetooth connectivity is a bit surprising — most G-Shocks in this range offer app pairing.
+**Fair warning:** This thing runs big and it runs heavy. If you have smaller wrists or prefer lighter watches, this might feel like too much. Also, at this price point, the lack of Bluetooth connectivity is a bit surprising — most G-Shocks in this range offer app pairing. Looking for G-Shocks built specifically for the outdoors? Check out our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide where we cover the Mudman and Mudmaster.
 
 ---
 
@@ -223,4 +223,4 @@ Japanese watchmaking punches harder than any other country at these price points
 - **Best daily wearer:** The **Citizen Eco-Drive BM7637-81H** — never change a battery, just strap it on and go.
 - **Best for enthusiasts:** The **Seiko 5 Skeleton** at ₹30,000. Watching the Kanji day disc rotate through that translucent dial never gets old.
 
-All prices are MRP. Many of these are available at lower prices during sales or through negotiation at authorized dealers. Happy hunting.
+All prices are MRP. Many of these are available at lower prices during sales or through negotiation at authorized dealers. Need help finding the right store? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has every reliable retailer covered. Happy hunting.

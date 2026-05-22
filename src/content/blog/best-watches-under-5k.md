@@ -9,7 +9,7 @@ Alright, this is the one everybody has been asking for. The under ₹5,000 guide
 
 And honestly? This might be the most fun price segment to shop in. You are past the bare-bones "just tell me the time" territory and into the zone where watches start developing real personality. G-Shocks with 200-metre ratings, field watches with military DNA, retro digitals that look like they time-traveled from 1978, an Indian micro-brand chronograph with Devanagari script? Yeah, this list gets weird in the best way.
 
-Prices are as of May 2026 and will fluctuate. If you want to go cheaper, we have already covered the [Best Watches Under ₹3,000](/blog/best-watches-under-3k/), some absolute icons in that guide. And if you are ready to stretch the budget, the [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/) and [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guides are waiting.
+Prices are as of May 2026 and will fluctuate. If you want to go cheaper, we have already covered the [Best Watches Under ₹3,000](/blog/best-watches-under-3k/), some absolute icons in that guide. And if you are ready to stretch the budget, the [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guide is the direct sequel to this one. For Timex-specific picks, see the [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/), and for Japanese horology the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide is waiting.
 
 Let's get into it.
 

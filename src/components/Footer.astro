@@ -5,6 +5,9 @@ const today = new Date();
 <footer>
 	<div class="footer-content">
 		<p class="tagline">All Things Watches in India</p>
+		<p class="footer-links">
+			<a href="/privacy">Privacy Policy</a>
+		</p>
 		<p class="copyright">
 			&copy; {today.getFullYear()} The Wrist Journal. All rights reserved.
 		</p>
@@ -33,6 +36,21 @@ const today = new Date();
 	}
 
 
+
+	.footer-links {
+		font-size: 0.85rem;
+		margin: 0.5em 0;
+	}
+
+	.footer-links a {
+		color: var(--text-muted);
+		text-decoration: none;
+		transition: color var(--transition);
+	}
+
+	.footer-links a:hover {
+		color: var(--accent);
+	}
 
 	.copyright {
 		font-size: 0.85rem;

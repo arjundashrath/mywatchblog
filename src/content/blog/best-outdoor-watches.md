@@ -245,4 +245,8 @@ The outdoor watch market in India has never been better. Whether you are spendin
 - **Best all-rounder:** The **Garmin Instinct 2X Solar** at ~₹35,000 gives you solar charging, GPS navigation, health tracking, and a flashlight. It is the complete outdoor package.
 - **Best for serious adventurers:** The **Garmin fenix 8** is simply the most capable outdoor watch on the planet. If you can afford it, nothing comes close.
 
-All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Not sure where to buy? Check out our complete [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide for every reliable retailer and authorized seller. Happy trails.
+All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Not sure where to buy? Check out our complete [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide for every reliable retailer and authorized seller.
+
+Taking any of these into the wild? Share your trail photos and adventure stories on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches for every occasion.
+
+Happy trails.

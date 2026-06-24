@@ -141,4 +141,6 @@ The MRW-200H comes in a surprisingly large number of colourways and dial configu
 
 If you are looking for more budget watch recommendations, our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide has some fantastic picks in a similar price bracket. And for the next step up, the [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) guide covers watches that pair perfectly alongside the MRW-200H in a growing collection. Want to know where to buy this same watch safely and about the trusted flipkart sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has you covered.
 
+Got opinions on the MRW-200H? Come argue about it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share wrist shots, and debate whether the seconds hand misalignment is a dealbreaker or adds character.
+
 Happy hunting.

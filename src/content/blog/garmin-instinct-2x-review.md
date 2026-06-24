@@ -127,3 +127,5 @@ If you are in the market for a rugged, capable, no-nonsense outdoor watch and yo
 ---
 
 Looking for more outdoor watch recommendations? Check out our [Best Watches for the Outdoors at Every Price Point](/blog/best-outdoor-watches/) guide — the Instinct 2X Solar is our pick in the under-₹35,000 bracket for good reason. And if you are curious about where to buy watches in India, we have a [complete guide](/blog/where-to-buy-watches-in-india/) for that too.
+
+Using a Garmin or thinking about getting one? Come chat with us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches of all kinds, from mechanical to smartwatches.

@@ -335,4 +335,6 @@ The under ₹5,000 segment is where budget watchmaking gets genuinely exciting. 
 
 Prices fluctuate constantly, so always shop around. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for rugged outdoor-specific picks? The [Best Outdoor Watches](/blog/best-outdoor-watches/) guide is your friend. And if Japanese horology is calling your name, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) deep-dive is waiting.
 
+Want to share your picks or argue about ours? Join us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share wrist shots, and help each other find the best deals.
+
 Happy hunting.

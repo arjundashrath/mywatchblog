@@ -291,4 +291,6 @@ The ₹5,000 to ₹10,000 segment is where the Indian watch market gets properly
 
 Prices fluctuate constantly, especially during Amazon and Flipkart sales. Always shop around. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for more in a similar budget? The [Best Timex Under ₹10,000](/blog/timex-under-10k/) guide has a Timex-only deep dive. And if Japanese watches are calling, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide awaits.
 
+Got a watch in this range that you think we missed? Come tell us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share collections, and hunt for deals together.
+
 Happy hunting.

@@ -260,4 +260,6 @@ Prices fluctuate constantly, so always shop around. If you want to see our full 
 
 Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. For more Japanese watches, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide has you covered. And if you are on a tighter budget, the [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) and [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) guides are right there.
 
+Own a Citizen that deserves more love? Come share it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, compare collections, and debate which Citizen has the best dial.
+
 Happy hunting.

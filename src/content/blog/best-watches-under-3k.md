@@ -199,3 +199,5 @@ Prices fluctuate, but the value these watches offer remains constant. Whether yo
 **Our Top Pick:** For pure utility, go for the **Casio Royale**. For style, grab the **Timex Green Dial**. And for a watch you can buy blindly, the **Casio F-91W** is the answer.
 
 Want to make sure you are buying from a trusted source? Read our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide. And if you need something rugged for the trail, our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide has picks at every price point.
+
+Picked up something from this list? Show it off on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we share wrist shots, swap recommendations, and celebrate budget watch wins.

@@ -242,4 +242,6 @@ And if you're chasing a JDM model or want a deal from abroad, Amazon Japan and J
 
 Now that you know *where* to buy, here is *what* to buy: [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) | [Best Timex Under ₹10,000](/blog/timex-under-10k/) | [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) | [Best Outdoor Watches](/blog/best-outdoor-watches/)
 
+Found a great deal or a dodgy seller? Share with the community on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we help each other buy smarter.
+
 Happy hunting.

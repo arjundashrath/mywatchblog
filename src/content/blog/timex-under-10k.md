@@ -274,3 +274,5 @@ There is a Timex model that fits the requirement without exceeding your budget.
 
 If purchased during sales, many of these watches offer even greater value, making them some of the best watch investments under 10,000 rupees in India. Need help finding authorized Timex retailers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide lists every official seller. And for Japanese alternatives in a similar range, see our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide.
 
+Got a favourite Timex we did not cover? Come tell us about it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we share collections, debate picks, and help each other find the best deals.
+

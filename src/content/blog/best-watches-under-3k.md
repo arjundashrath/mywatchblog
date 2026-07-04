@@ -7,7 +7,7 @@ tags: ["budget", "guide", "casio", "timex", "hmt", "india"]
 
 Finding a great watch doesn't always mean breaking the bank. In fact, the sub-₹3,000 category is home to some of the most iconic, durable, and stylish timepieces ever made. From legendary Casio digital workhorses to elegant Timex dress watches and Indian classics from HMT, this price segment offers incredible value.
 
-Whether you are looking for a rugged daily beater, a Retro statement piece, or a classy watch for office wear, we have curated the ultimate list of the **best watches under ₹3,000** available in India right now. Ready to step up your budget? Check out our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) and [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/) guides for the next level.
+Whether you are looking for a rugged daily beater, a Retro statement piece, or a classy watch for office wear, we have curated the ultimate list of the **best watches under ₹3,000** available in India right now. Ready to step up your budget? Our [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides are the next level. For Timex fans specifically, see [Best Timex Watches Under ₹10,000](/blog/timex-under-10k/), and for Japanese horology the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide is waiting.
 
 ---
 
@@ -198,6 +198,6 @@ Prices fluctuate, but the value these watches offer remains constant. Whether yo
 
 **Our Top Pick:** For pure utility, go for the **Casio Royale**. For style, grab the **Timex Green Dial**. And for a watch you can buy blindly, the **Casio F-91W** is the answer.
 
-Want to make sure you are buying from a trusted source? Read our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide. And if you need something rugged for the trail, our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide has picks at every price point.
+Want to make sure you are buying from a trusted source? Read our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide. If any of the Casio picks above caught your eye, our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide covers the full G-Shock lineup, and our [Casio MRW-200H review](/blog/casio-mrw-200h-review/) is worth reading if you want the full story on the internet's favourite budget watch. For something rugged and outdoorsy, check the [Best Outdoor Watches](/blog/best-outdoor-watches/) guide.
 
 Picked up something from this list? Show it off on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we share wrist shots, swap recommendations, and celebrate budget watch wins.

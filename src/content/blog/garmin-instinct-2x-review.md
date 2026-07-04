@@ -45,7 +45,7 @@ Before I go further, let me save some of you the trouble.
 
 **If you only care about body vitals** and do not need them on your wrist in real time, look at screenless wearables instead. Wear one on your non-watch wrist and sport your favourite timepiece on the other. The **Amazfit Helio Strap** is brilliant for this — lightweight, accurate, great value — but getting one in India is a nightmare because it is perpetually out of stock. **Whoop** is another option but comes with a subscription. The **Polar Loop** works too but is not the most accurate. Honestly, I would wait for Garmin or Fitbit to release a proper screenless tracker which is on the horizon.
 
-**If you want a field watch**, just get a field watch. The Instinct looks like a rugged tool, but it is fundamentally a smartwatch with a MIP display. It is not trying to be a Seiko Alpinist or a Hamilton Khaki.
+**If you want a field watch**, just get a field watch. The Instinct looks like a rugged tool, but it is fundamentally a smartwatch with a MIP display. It is not trying to be a Seiko Alpinist or a Hamilton Khaki. Our [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) and [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guides both have proper field and tool watch picks if that is what you are after.
 
 ---
 
@@ -126,6 +126,6 @@ If you are in the market for a rugged, capable, no-nonsense outdoor watch and yo
 
 ---
 
-Looking for more outdoor watch recommendations? Check out our [Best Watches for the Outdoors at Every Price Point](/blog/best-outdoor-watches/) guide — the Instinct 2X Solar is our pick in the under-₹35,000 bracket for good reason. And if you are curious about where to buy watches in India, we have a [complete guide](/blog/where-to-buy-watches-in-india/) for that too.
+Looking for more outdoor watch recommendations? Check out our [Best Watches for the Outdoors at Every Price Point](/blog/best-outdoor-watches/) guide — the Instinct 2X Solar is our pick in the under-₹35,000 bracket for good reason. If a smartwatch is not your thing and you want a tough analog beater instead, our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide covers the full G-Shock lineup under ₹15,000. And if you are curious about where to buy watches in India, we have a [complete guide](/blog/where-to-buy-watches-in-india/) for that too.
 
 Using a Garmin or thinking about getting one? Come chat with us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches of all kinds, from mechanical to smartwatches.

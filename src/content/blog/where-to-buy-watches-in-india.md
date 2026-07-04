@@ -123,7 +123,7 @@ Here's the **full list of Casio-authorized sellers** on major Indian e-commerce 
 | **Helios** | Helios |
 | **Swiss Time House** | Swiss Time House |
 
-When buying Casio from any online marketplace, always check that the seller name matches this list. It takes two seconds and saves a lot of headache. Looking for Casio recommendations? Check out our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide for budget Casio legends, or our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide for Pro Trek and G-Shock picks.
+When buying Casio from any online marketplace, always check that the seller name matches this list. It takes two seconds and saves a lot of headache. Looking for Casio recommendations? Check out our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide for budget Casio legends, our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide for the full G-Shock lineup, or our [Best Outdoor Watches](/blog/best-outdoor-watches/) guide for Pro Trek and G-Shock picks.
 
 ---
 
@@ -240,7 +240,7 @@ And if you're chasing a JDM model or want a deal from abroad, Amazon Japan and J
 
 **The golden rule:** Always buy from authorized sources. It protects your warranty, guarantees authenticity, and means you have someone to go to if something goes wrong.
 
-Now that you know *where* to buy, here is *what* to buy: [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) | [Best Timex Under ₹10,000](/blog/timex-under-10k/) | [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) | [Best Outdoor Watches](/blog/best-outdoor-watches/)
+Now that you know *where* to buy, here is *what* to buy: [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) | [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) | [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) | [Best Timex Under ₹10,000](/blog/timex-under-10k/) | [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) | [Seiko Alternatives: Citizen](/blog/seiko-alternatives-citizen/) | [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) | [Best Outdoor Watches](/blog/best-outdoor-watches/)
 
 Found a great deal or a dodgy seller? Share with the community on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we help each other buy smarter.
 

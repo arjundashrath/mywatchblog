@@ -49,7 +49,7 @@ If you do not care about the numbers, here is the short version: the dial sits w
 
 The MRW-200H first appeared in Casio's lineup around 2011, designed as a dead-simple analog sports watch that borrows heavily from the visual language of classic dive watches. Rotating bezel. Bold markers. High-contrast dial. 100 metres of water resistance. All the diver cues, none of the diver price.
 
-The watch community has since given it the nickname "Diet G-Shock," and it makes sense. The chunky resin case, the sporty aesthetic, the "throw it around and forget about it" attitude. It is essentially a G-Shock that went on a calorie deficit. You get the same Casio DNA, the same no-nonsense toughness, minus the shock-resistant architecture and the premium that comes with the G-Shock label. For most people who just want a reliable beater they genuinely do not need to worry about, the MRW-200H does the job for a fraction of the cost.
+The watch community has since given it the nickname "Diet G-Shock," and it makes sense. The chunky resin case, the sporty aesthetic, the "throw it around and forget about it" attitude. It is essentially a G-Shock that went on a calorie deficit. You get the same Casio DNA, the same no-nonsense toughness, minus the shock-resistant architecture and the premium that comes with the G-Shock label. If you want the real thing, our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide covers the full lineup starting under ₹5,000. But for most people who just want a reliable beater they genuinely do not need to worry about, the MRW-200H does the job for a fraction of the cost.
 
 ---
 
@@ -139,7 +139,7 @@ The MRW-200H comes in a surprisingly large number of colourways and dial configu
 
 ---
 
-If you are looking for more budget watch recommendations, our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide has some fantastic picks in a similar price bracket. And for the next step up, the [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) guide covers watches that pair perfectly alongside the MRW-200H in a growing collection. Want to know where to buy this same watch safely and about the trusted flipkart sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has you covered.
+If you are looking for more budget watch recommendations, our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide has some fantastic picks in a similar price bracket. For the next step up, the [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides cover watches that pair perfectly alongside the MRW-200H in a growing collection. If the "Diet G-Shock" nickname has you curious about the real thing, our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide has the full lineup. Want to know where to buy this same watch safely and about the trusted Flipkart sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has you covered.
 
 Got opinions on the MRW-200H? Come argue about it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share wrist shots, and debate whether the seconds hand misalignment is a dealbreaker or adds character.
 

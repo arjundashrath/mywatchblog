@@ -229,7 +229,9 @@ Japanese watchmaking punches harder than any other country at these price points
 - **Best daily wearer:** The **Citizen Eco-Drive BM7637-81H** — never change a battery, just strap it on and go.
 - **Best for enthusiasts:** The **Seiko 5 Skeleton** at ₹30,000. Watching the Kanji day disc rotate through that translucent dial never gets old.
 
-All prices are MRP. Many of these are available at lower prices during sales or through negotiation at authorized dealers. Need help finding the right store? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has every reliable retailer covered.
+All prices are MRP. Many of these are available at lower prices during sales or through negotiation at authorized dealers. Need help finding the right store? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide has every reliable retailer covered. If you want to see our full curated collection, check out **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02rgcsOR)**.
+
+Looking for more options? If you want to dive deeper into Citizen specifically, read our [Seiko Alternatives: Citizen](/blog/seiko-alternatives-citizen/) guide. For rugged outdoor pieces, the [Best Outdoor Watches](/blog/best-outdoor-watches/) guide and our dedicated [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide have you covered. And if you are shopping on a stricter budget, our [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides are the best places to start.
 
 Own a Japanese watch that you think deserves a spot on this list? Come make your case on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk Japanese horology, share wrist shots, and geek out over movements.
 

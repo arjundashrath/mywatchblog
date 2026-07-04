@@ -5,6 +5,13 @@ const today = new Date();
 <footer>
 	<div class="footer-content">
 		<p class="tagline">All Things Watches in India</p>
+		<p class="social-links">
+			<a href="https://www.reddit.com/r/thewristjournal/" target="_blank" rel="noopener noreferrer">r/thewristjournal</a>
+			<span class="sep">&middot;</span>
+			<a href="https://www.instagram.com/_thewristjournal_/" target="_blank" rel="noopener noreferrer">Instagram</a>
+			<span class="sep">&middot;</span>
+			<a href="https://amzn.in/d/02rgcsOR" target="_blank" rel="noopener noreferrer">Amazon Storefront</a>
+		</p>
 		<p class="footer-links">
 			<a href="/privacy">Privacy Policy</a>
 		</p>
@@ -35,7 +42,30 @@ const today = new Date();
 		margin: 0 0 0.5em 0;
 	}
 
+	.social-links {
+		font-size: 0.9rem;
+		margin: 0.75em 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.5em;
+		flex-wrap: wrap;
+	}
 
+	.social-links a {
+		color: var(--text-secondary);
+		text-decoration: none;
+		font-weight: 500;
+		transition: color var(--transition);
+	}
+
+	.social-links a:hover {
+		color: var(--accent);
+	}
+
+	.social-links .sep {
+		color: var(--text-muted);
+	}
 
 	.footer-links {
 		font-size: 0.85rem;

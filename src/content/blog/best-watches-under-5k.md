@@ -255,7 +255,7 @@ Finding a square chronograph at any price is rare. Finding one under five thousa
 
 The TWEG353SMU01 leans into its uniqueness hard. The square case combined with the chronograph subdials creates this motorsport-adjacent aesthetic. Think TAG Heuer Monaco vibes on a Timex budget. The metal casing gives it proper weight and wrist presence at 43mm, which is unusually big for a square case.
 
-It does not try to be subtle and that is exactly why it works. In a price category dominated by round, minimal designs, this thing stands out like a sore thumb. In the best possible way.
+It does not try to be subtle and that is exactly why it works. In a price category dominated by round, minimal designs, this thing stands out like a sore thumb. In the best possible way. Follow [@_thewristjournal_](https://www.instagram.com/_thewristjournal_/) on Instagram for daily recommendations, we love featuring unusual pieces like this.
 
 **Why we love it:**
 If you want to wear something that literally nobody else at your office or college will have, this is the one. Square chronographs are niche, they are cool, and this one costs less than a pair of mid-range running shoes.
@@ -333,7 +333,7 @@ The under ₹5,000 segment is where budget watchmaking gets genuinely exciting. 
 - **Best for small wrists:** The **Timex Easy Reader** at 35mm. 177 million people over five decades cannot be wrong.
 - **Best conversation starter:** Tie between the **Timex 80 Tonneau** (retro-futuristic gold) and the **DWC Devanagari** (cultural pride on your wrist).
 
-Prices fluctuate constantly, so always shop around. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for rugged outdoor-specific picks? The [Best Outdoor Watches](/blog/best-outdoor-watches/) guide is your friend. And if Japanese horology is calling your name, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) deep-dive is waiting.
+Prices fluctuate constantly, so always shop around. If you want to see our full list of curated favorites, check out **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02rgcsOR)**. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for rugged outdoor-specific picks? The [Best Outdoor Watches](/blog/best-outdoor-watches/) guide is your friend. And if Japanese horology is calling your name, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) deep-dive is waiting.
 
 Want to share your picks or argue about ours? Join us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share wrist shots, and help each other find the best deals.
 

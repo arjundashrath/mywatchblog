@@ -57,7 +57,7 @@ This is where the addiction usually starts. The GD-010 is one of the cheapest do
 
 At 52mm it sits big, like most G-Shocks do, and the plain single tone black case means it goes with absolutely everything you own. No flashy colourways to second guess, no finish to baby. The genuine headline here is the 10 year battery. Most watches in this price bracket need a battery swap every couple of years. This one, you buy, you wear, and you basically forget it exists until the decade is up.
 
-**The bottom line:** if your budget is firmly [under ₹5,000](/blog/best-watches-under-5k/), stop scrolling and just buy this. It's a fortress that doesn't ask anything of you.
+**The bottom line:** if your budget is firmly [under ₹5,000](/blog/best-watches-under-5k/), stop scrolling and just buy this. It is one of the most frequently recommended starter watches on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) for a reason. It's a fortress that doesn't ask anything of you.
 
 <a href="https://amzn.to/4wbjjZO" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
@@ -307,7 +307,9 @@ Here's the honest truth after going through all ten of these. Whether you spend 
 - **Most unique:** The **GA-100SHB-5A Shiba Inu** at ₹11,995. A genuinely well-executed novelty dial that earns its price instead of coasting on cuteness alone.
 - **Best tech:** The **GBD-300-7** at ₹12,215. A slim case, a sharp screen, and Bluetooth time sync that actually solves a real travel problem.
 
-If you're just starting out, check our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide for the absolute base-level legends. But if you want a watch that will genuinely outlive your grandchildren, you're looking at it right here.
+If you're just starting out, check our [Best Watches Under ₹3,000](/blog/best-watches-under-3k/) guide for the absolute base-level legends, and our [Casio MRW-200H review](/blog/casio-mrw-200h-review/) for the best non-G-Shock beater. For serious outdoor smartwatches, our [Garmin Instinct 2X review](/blog/garmin-instinct-2x-review/) is the next logical step. And if you are hunting for deals, keep an eye on our [Prime Day 2026](/blog/prime-day-2026-part-1/) coverage. 
+
+You can browse all our G-Shock picks on **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02rgcsOR)**.
 
 Got a G-Shock you think deserves the spotlight in Part 2? Come share it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, compare collections, and argue about which 5600 variant is the real one.
 

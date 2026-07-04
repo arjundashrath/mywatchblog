@@ -125,7 +125,7 @@ Casio G-Shock Mudman GW-9500TLC-1
 
 The Mudman is not just a name — it is a promise. This watch is engineered to survive environments that would kill most timepieces. Mud resistance, extreme shock protection, and a build quality that feels like it could survive being run over by the Land Cruiser it is named after.
 
-This is the Team Land Cruiser Toyota Auto Body edition, and it looks absolutely insane. The colourway and detailing set it apart from standard G-Shock fare — it has a rugged, purposeful aesthetic that screams "I have actually been places." Under the hood, you get the same Triple Sensor suite as the Pro Trek (compass, barometer, altimeter), plus Tough Solar charging. If you love G-Shocks, we also covered the Full Metal G-Shock in our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide.
+This is the Team Land Cruiser Toyota Auto Body edition, and it looks absolutely insane. The colourway and detailing set it apart from standard G-Shock fare — it has a rugged, purposeful aesthetic that screams "I have actually been places." Under the hood, you get the same Triple Sensor suite as the Pro Trek (compass, barometer, altimeter), plus Tough Solar charging. If you love G-Shocks, we covered the Full Metal G-Shock in our [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide, and our dedicated [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide covers budget picks under ₹15,000.
 
 **Worth noting:** Like all G-Shocks, this runs big. If you prefer watches under 44mm, this will feel like you strapped a small computer to your wrist. Also, no Bluetooth connectivity, which means no phone syncing — surprising at nearly twenty-five thousand rupees.
 
@@ -163,7 +163,7 @@ This is where the game changes completely. The Garmin Instinct 2 is not just a w
 
 The TracBack feature alone justifies this purchase for serious hikers — it records your route and navigates you back to your starting point along the exact same path. No more wondering if you missed a turn. The MIP display looks like a classic digital watch rather than a smartwatch screen, which is a deliberate design choice that massively extends battery life and is fully readable in direct sunlight.
 
-**Worth noting:** This is an older model, but Garmin still actively supports it with software updates. If you can stretch the budget slightly, the Instinct 2X Solar is the next step up and offers nearly unlimited battery with solar charging.
+**Worth noting:** This is an older model, but Garmin still actively supports it with software updates. If you can stretch the budget slightly, the Instinct 2X Solar is the next step up and offers nearly unlimited battery with solar charging — we put it through its paces in our [Garmin Instinct 2X review](/blog/garmin-instinct-2x-review/).
 
 <a href="https://amzn.to/4sNcz2T" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
@@ -245,7 +245,7 @@ The outdoor watch market in India has never been better. Whether you are spendin
 - **Best all-rounder:** The **Garmin Instinct 2X Solar** at ~₹35,000 gives you solar charging, GPS navigation, health tracking, and a flashlight. It is the complete outdoor package.
 - **Best for serious adventurers:** The **Garmin fenix 8** is simply the most capable outdoor watch on the planet. If you can afford it, nothing comes close.
 
-All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Not sure where to buy? Check out our complete [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide for every reliable retailer and authorized seller.
+All prices are MRP or listed retail prices. Many of these watches can be found at lower prices during festive sales, on Amazon and Flipkart deals, or through negotiation at authorized dealers. Not sure where to buy? Check out our complete [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide for every reliable retailer and authorized seller. Looking for budget analog watches to complement your outdoor piece? Our [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides have solid daily drivers, and our [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guide is the definitive G-Shock buyer's companion.
 
 Taking any of these into the wild? Share your trail photos and adventure stories on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches for every occasion.
 

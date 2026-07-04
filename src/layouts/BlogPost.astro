@@ -60,6 +60,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					<slot />
 				</div>
 			</article>
+			<div class="community-box">
+				<p class="community-heading">Stay in the Loop</p>
+				<p class="community-text">
+					Talk watches, get recommendations, and find the best deals with us on
+					<a href="https://www.reddit.com/r/thewristjournal/" target="_blank" rel="noopener noreferrer">r/thewristjournal</a>.
+					Follow
+					<a href="https://www.instagram.com/_thewristjournal_/" target="_blank" rel="noopener noreferrer">@_thewristjournal_</a> on Instagram for watch picks and recommendations.
+					Or browse all our curated favourites on the
+					<a href="https://amzn.in/d/02rgcsOR" target="_blank" rel="noopener noreferrer">Amazon Storefront</a>.
+				</p>
+			</div>
 		</main>
 		<p class="amazon-associate-disclosure">
 			As an Amazon Associate I earn from qualifying purchases.
@@ -126,6 +137,41 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				margin: 0 0 2em 0;
 				padding: 0;
 				line-height: 1.4;
+			}
+
+			.community-box {
+				max-width: 720px;
+				margin: 0 auto 2em;
+				padding: 1.5em 1.75em;
+				background: var(--bg-subtle);
+				border: 1px solid var(--border);
+				border-radius: var(--radius);
+			}
+
+			.community-heading {
+				font-family: "Space Grotesk", sans-serif;
+				font-size: 1rem;
+				font-weight: 600;
+				color: var(--text);
+				margin: 0 0 0.5em 0;
+			}
+
+			.community-text {
+				font-size: 0.9rem;
+				color: var(--text-secondary);
+				line-height: 1.6;
+				margin: 0;
+			}
+
+			.community-text a {
+				color: var(--accent);
+				font-weight: 500;
+				text-decoration: none;
+				transition: color var(--transition);
+			}
+
+			.community-text a:hover {
+				color: var(--accent-hover);
 			}
 
 			.amazon-associate-disclosure {

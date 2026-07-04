@@ -256,9 +256,9 @@ Citizen stepped into the gap with watches that match or beat Seiko on specs, mat
 
 This is Part 1 of our Seiko Alternatives series. Citizen was up first because, frankly, they had the most to say. Next up, we will be looking at other brands filling the same gap. Stay tuned.
 
-Prices fluctuate constantly, so always shop around. If you want to see our full list of curated favorites, check out **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02h4kG6d)**.
+Prices fluctuate constantly, so always shop around (especially during events like [Prime Day](/blog/prime-day-2026-part-1/)). If you want to see our full list of curated favorites, check out **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02rgcsOR)**.
 
-Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. For more Japanese watches, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide has you covered. And if you are on a tighter budget, the [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) and [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) guides are right there.
+Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. For more Japanese watches, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide has you covered. If you need something tougher, check out the [Best Outdoor Watches](/blog/best-outdoor-watches/) and [Which G-Shock to Buy](/blog/which-gshock-to-buy-part-1/) guides. And if you are on a tighter budget, the [Best Watches Under ₹3,000](/blog/best-watches-under-3k/), [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides are right there.
 
 Own a Citizen that deserves more love? Come share it on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, compare collections, and debate which Citizen has the best dial.
 

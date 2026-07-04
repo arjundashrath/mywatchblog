@@ -241,7 +241,7 @@ The Stellar is available in Classic Leather, Classic Blue, and IP Bronze finishe
 
 At 43mm with 47.5mm lug-to-lug, it is on the bigger side. If you have wrists under 6.5 inches, try it on before committing. For everyone else, it wears beautifully.
 
-**Why we love it:** Titan went and made an actual celestial-themed timepiece with luminous craters and dual-hemisphere moon tracking for under ten grand. That deserves respect. Genuine kudos.
+**Why we love it:** Titan went and made an actual celestial-themed timepiece with luminous craters and dual-hemisphere moon tracking for under ten grand. That deserves respect. Genuine kudos. It's the kind of unusual piece we love discussing on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/).
 
 <a href="https://amzn.to/3RF9dBf" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
@@ -289,7 +289,7 @@ The ₹5,000 to ₹10,000 segment is where the Indian watch market gets properly
 - **Best for small wrists:** The **Casio G-Shock G1552** at 42mm. Compact G-Shock energy without the bulk.
 - **Best conversation starter:** The **Alba AG8Q37X1** in pink. Not for everyone, massively charming for the right person.
 
-Prices fluctuate constantly, especially during Amazon and Flipkart sales. Always shop around. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for more in a similar budget? The [Best Timex Under ₹10,000](/blog/timex-under-10k/) guide has a Timex-only deep dive. And if Japanese watches are calling, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide awaits.
+Prices fluctuate constantly, especially during Amazon and Flipkart sales. Always shop around. If you want to see all our curated top picks in one place, visit **[The Wrist Journal's Amazon Storefront](https://amzn.in/d/02rgcsOR)**. Want to make sure you are buying from trusted sellers? Our [Where to Buy Watches in India](/blog/where-to-buy-watches-in-india/) guide covers every reliable retailer. Looking for more in a similar budget? The [Best Timex Under ₹10,000](/blog/timex-under-10k/) guide has a Timex-only deep dive. And if Japanese watches are calling, the [Fun Japanese Watches Under ₹50,000](/blog/japanese-watches-under-50k/) guide awaits.
 
 Got a watch in this range that you think we missed? Come tell us on [r/thewristjournal](https://www.reddit.com/r/thewristjournal/) where we talk watches, share collections, and hunt for deals together.
 

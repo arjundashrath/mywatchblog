@@ -7,7 +7,7 @@ tags: ["prime-day", "deals", "casio", "timex", "seiko", "citizen", "alba", "tita
 
 Prime Day is here again. July 4th through 6th, and if last year is anything to go by, the watch section is going to be a mess of flash discounts, "limited time" banners, and prices that swing by the hour. So we did what we always do before a big sale. We went through the listings, cross-checked the specs, and put together a list of what is actually worth clicking "Add to Cart" on.
 
-A quick note before we start: the prices below are our estimates based on MRP and how these specific watches have historically discounted on Flipkart and Amazon. Prime Day pricing can hit or miss, so treat these as a guide, not a guarantee. Always check the live price before you buy.
+A quick note before we start: the prices below are our estimates based on MRP and how these specific watches have historically discounted on Flipkart and Amazon. Prime Day pricing can be a hit or miss, so treat these as a guide, not a guarantee. Always check the live price before you buy.
 
 This list spans the full range, from a ₹1,500 Casio digital that will outlive us all to an automatic Edifice that is barely a month old. If you want more budget picks outside the sale window, our [Best Watches Under ₹5,000](/blog/best-watches-under-5k/) and [Best Watches Under ₹10,000](/blog/best-watches-under-10k/) guides are still the definitive word. And if the ₹800 internet-famous Casio catches your eye anywhere in this sale, we already put it through its paces in our [MRW-200H review](/blog/casio-mrw-200h-review/).
 
@@ -41,7 +41,7 @@ At under 34mm across, it is genuinely tiny by modern standards, which is exactly
 
 ---
 
-# 2. The Moonphase for Loose Change
+# 2. The Affordable Moonphase
 
 ## [Timex TWEG19608](https://amzn.to/3QwfJdG) – Expected around ₹2,400
 

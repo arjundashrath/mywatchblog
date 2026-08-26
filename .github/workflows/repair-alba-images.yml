@@ -1,0 +1,56 @@
+name: Repair ALBA article images
+
+on:
+  push:
+    branches: [article/alba-watches-india]
+
+permissions:
+  contents: write
+
+jobs:
+  repair-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout article branch
+        uses: actions/checkout@v4
+        with:
+          ref: article/alba-watches-india
+
+      - name: Restore uploaded owner close-up
+        run: |
+          cat .github/alba-small.part* | base64 --decode > src/assets/blog/alba-india/ax7019x1-closeup.webp
+
+      - name: Download official article images
+        run: |
+          set -euo pipefail
+          curl -L --fail --retry 3 -o src/assets/blog/alba-india/alba-1979.png \
+            'https://www.seikowatches.com/global-en/special/heritage/assets/img/history/1979.png'
+          curl -L --fail --retry 3 -o src/assets/blog/alba-india/seiko-srpd55k1.png \
+            'https://www.seikowatches.com/in-en/-/media/Images/Product--Image/All/Seiko/2022/02/20/02/14/SRPD55K1/SRPD55K1.png?mh=1200&mw=1200'
+          curl -L --fail --retry 3 -o src/assets/blog/alba-india/alba-as9r17x1.png \
+            'https://www.albawatches.com/storage/product/AS9R17X1.PNG'
+          curl -L --fail --retry 3 -o src/assets/blog/alba-india/casio-efb-730d-7av.png \
+            'https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFB/efb-730d-7av/assets/EFB-730D-7AV.png.transform/main-visual-sp/image.png'
+
+      - name: Validate image files
+        run: |
+          file src/assets/blog/alba-india/ax7019x1-closeup.webp
+          file src/assets/blog/alba-india/alba-1979.png
+          file src/assets/blog/alba-india/seiko-srpd55k1.png
+          file src/assets/blog/alba-india/alba-as9r17x1.png
+          file src/assets/blog/alba-india/casio-efb-730d-7av.png
+
+      - name: Remove obsolete and temporary files
+        run: |
+          rm -f src/assets/blog/alba-india/ax7019x1-wrist-shot.webp
+          rm -f .github/alba-small.part*
+          rm -f .github/alba-closeup.part*
+          rm -f .github/workflows/repair-alba-images.yml
+
+      - name: Commit repaired binaries
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m '[image-repair] Replace ALBA article images with valid binaries'
+          git push origin HEAD:article/alba-watches-india

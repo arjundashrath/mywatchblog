@@ -2,7 +2,7 @@
 title: "ALBA Watches in India: Why Seiko’s Budget Brand Makes Sense in 2026"
 description: "Are ALBA watches worth buying in India? We look at Seiko-owned ALBA, current prices, value vs Casio, and my ₹13,000 AX7019X1 chronograph."
 pubDate: "2026-08-22"
-heroImage: "../../assets/blog/alba-india/ax7019x1-closeup.webp"
+heroImage: "../../assets/blog/alba-india/20260826_115932.jpg"
 tags: ["alba", "seiko", "watches-india", "review", "chronograph", "automatic", "budget-watches", "india"]
 ---
 
@@ -66,7 +66,7 @@ Take one of the most obvious examples, the Seiko 5 Sports SRPD55K1.
 
 Older Indian listings show an MRP of **₹30,000**. Today, Seiko India's own website lists the same reference at **₹40,000**.
 
-![Seiko 5 Sports SRPD55K1 automatic watch](../../assets/blog/alba-india/seiko-srpd55k1.png)
+![Seiko 5 Sports SRPD55K1 automatic watch](../../assets/blog/alba-india/SRPD55K1.png)
 
 That is a ₹10,000 jump.
 
@@ -100,7 +100,7 @@ Nine thousand rupees.
 
 That is genuinely good.
 
-![ALBA AS9R17X1 Asterix blue dial watch with sapphire crystal](../../assets/blog/alba-india/alba-as9r17x1.png)
+![ALBA AS9R17X1 Asterix blue dial watch with sapphire crystal](../../assets/blog/alba-india/AS9R17X1.png)
 
 Move up slightly and things get more interesting.
 
@@ -140,7 +140,7 @@ For that money you get a stainless steel case, stainless steel bracelet, 100 met
 
 That is an annoyingly good specification sheet.
 
-![Casio Edifice EFB-730D-7AV chronograph with sapphire crystal](../../assets/blog/alba-india/casio-efb-730d-7av.png)
+![Casio Edifice EFB-730D-7AV chronograph with sapphire crystal](../../assets/blog/alba-india/edifice.png)
 
 My AX7019X1 has an official MRP of ₹15,000 and uses mineral crystal.
 

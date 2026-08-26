@@ -18,8 +18,6 @@ So I bought it.
 
 And I was not expecting to like it this much.
 
-![ALBA AX7019X1 light blue koi dial chronograph on the wrist](../../assets/blog/alba-india/ax7019x1-wrist-shot.webp)
-
 The bracelet? Fine. Nothing to write home about. It feels slightly light and is probably the first place where you realise this is still a relatively affordable watch.
 
 But the rest of it surprised me.
@@ -46,6 +44,8 @@ Seiko's own company history dates the birth of ALBA to **1979**. During the 1970
 
 The name ALBA itself means "dawn", "daybreak" or "beginning" in Italian.
 
+![ALBA digital watches from Seiko heritage material marking the brand's 1979 origins](../../assets/blog/alba-india/alba-1979.png)
+
 So this is not some new budget brand buying generic movements and trying to borrow credibility from Seiko.
 
 ALBA has been around for more than four decades, and the brand was created by Seiko Watch Corporation itself.
@@ -65,6 +65,8 @@ If you have been following Seiko prices in India, you already know where this is
 Take one of the most obvious examples, the Seiko 5 Sports SRPD55K1.
 
 Older Indian listings show an MRP of **₹30,000**. Today, Seiko India's own website lists the same reference at **₹40,000**.
+
+![Seiko 5 Sports SRPD55K1 automatic watch](../../assets/blog/alba-india/seiko-srpd55k1.png)
 
 That is a ₹10,000 jump.
 
@@ -97,6 +99,8 @@ Stainless steel case. Stainless steel bracelet. Date. And, most importantly, **s
 Nine thousand rupees.
 
 That is genuinely good.
+
+![ALBA AS9R17X1 Asterix blue dial watch with sapphire crystal](../../assets/blog/alba-india/alba-as9r17x1.png)
 
 Move up slightly and things get more interesting.
 
@@ -135,6 +139,8 @@ The Casio Edifice **EFB-730D-7AV**, for example, officially costs ₹11,995 in I
 For that money you get a stainless steel case, stainless steel bracelet, 100 metres of water resistance, a chronograph and **sapphire crystal**.
 
 That is an annoyingly good specification sheet.
+
+![Casio Edifice EFB-730D-7AV chronograph with sapphire crystal](../../assets/blog/alba-india/casio-efb-730d-7av.png)
 
 My AX7019X1 has an official MRP of ₹15,000 and uses mineral crystal.
 
@@ -177,10 +183,6 @@ The official specification sheet for the AX7019X1 reads:
 I got mine for roughly ₹13,000 from Amazon.
 
 Now forget the spec sheet for a second.
-
-Look at it.
-
-![Close-up of the ALBA AX7019X1 metallic light blue dial with koi pattern](../../assets/blog/alba-india/ax7019x1-closeup.webp)
 
 That dial is the reason this watch works.
 

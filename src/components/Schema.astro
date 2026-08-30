@@ -22,7 +22,8 @@ const {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteUrl = Astro.site?.toString();
 
-// Base Organization Schema (Global)
+const authorUrl = new URL("about", siteUrl).toString();
+
 const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
@@ -30,17 +31,18 @@ const organizationSchema = {
     name: "The Wrist Journal",
     logo: new URL("webicon.png", siteUrl).toString(),
     sameAs: [
-        // Add social links here if available in consts
+        "https://www.instagram.com/_thewristjournal_/",
+        "https://www.reddit.com/r/thewristjournal/",
     ],
     contactPoint: {
         "@type": "ContactPoint",
-        contactType: "customer support",
+        contactType: "editorial",
+        email: "arjundashrath@gmail.com",
         areaServed: "IN",
         availableLanguage: "en",
     },
 };
 
-// WebSite Schema (for Home)
 const websiteSchema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -57,7 +59,6 @@ const websiteSchema = {
     },
 };
 
-// BlogPosting Schema (for Posts)
 const blogPostingSchema =
     type === "BlogPosting"
         ? {
@@ -72,8 +73,8 @@ const blogPostingSchema =
               image: image ? new URL(image, siteUrl).toString() : undefined,
               author: {
                   "@type": "Person",
-                  name: "The Wrist Journal Team", // Or dynamic author if available
-                  url: siteUrl,
+                  name: "Arjun Dashrath",
+                  url: authorUrl,
               },
               publisher: {
                   "@type": "Organization",

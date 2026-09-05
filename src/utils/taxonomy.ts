@@ -123,7 +123,6 @@ export function tagLabel(tag: string) {
   const specialLabels: Record<string, string> = {
     "g-shock": "G-Shock",
     hmt: "HMT",
-    gps: "GPS",
     "gps-watch": "GPS Watch",
     "eco-drive": "Eco-Drive",
     "mrw-200h": "MRW-200H",

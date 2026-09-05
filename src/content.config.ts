@@ -4,7 +4,8 @@ import { glob } from 'astro/loaders';
 const blog = defineCollection({
 	// Load Markdown and MDX files in the `src/content/blog/` directory.
 	loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
-	// Type-check frontmatter using a schema
+	// Type-check frontmatter using a schema. Existing posts are normalized through
+	// src/utils/taxonomy.ts so legacy tag spellings do not create duplicate tag pages.
 	schema: ({ image }) =>
 		z.object({
 			title: z.string(),

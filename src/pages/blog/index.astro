@@ -89,11 +89,15 @@ const posts = (await getCollection("blog"))
     <Footer />
 
     <script>
-      const search = document.querySelector('#article-search');
-      const cards = [...document.querySelectorAll('.post-card')];
-      const resultCount = document.querySelector('#result-count');
-      const noResults = document.querySelector('#no-results');
-      const state = { category: 'all', price: 'all' };
+      const search = document.querySelector<HTMLInputElement>('#article-search');
+      const cards = [...document.querySelectorAll<HTMLElement>('.post-card')];
+      const resultCount = document.querySelector<HTMLElement>('#result-count');
+      const noResults = document.querySelector<HTMLElement>('#no-results');
+      const params = new URLSearchParams(window.location.search);
+      const state: Record<'category' | 'price', string> = {
+        category: params.get('category') ?? 'all',
+        price: params.get('price') ?? 'all',
+      };
 
       function applyFilters() {
         const query = search?.value.trim().toLowerCase() ?? '';
@@ -102,7 +106,7 @@ const posts = (await getCollection("blog"))
           const matchesSearch = !query || card.dataset.search?.includes(query);
           const matchesCategory = state.category === 'all' || card.dataset.category === state.category;
           const matchesPrice = state.price === 'all' || card.dataset.price === state.price || card.dataset.price === 'all-prices';
-          const show = matchesSearch && matchesCategory && matchesPrice;
+          const show = Boolean(matchesSearch && matchesCategory && matchesPrice);
           card.hidden = !show;
           if (show) visible++;
         });
@@ -110,18 +114,26 @@ const posts = (await getCollection("blog"))
         if (noResults) noResults.hidden = visible !== 0;
       }
 
-      document.querySelectorAll('[data-filter-group]').forEach((group) => {
-        group.querySelectorAll('button').forEach((button) => {
+      document.querySelectorAll<HTMLElement>('[data-filter-group]').forEach((group) => {
+        const key = group.dataset.filterGroup;
+        if (key !== 'category' && key !== 'price') return;
+        group.querySelectorAll<HTMLButtonElement>('button').forEach((button) => {
+          button.classList.toggle('active', button.dataset.value === state[key]);
           button.addEventListener('click', () => {
             group.querySelectorAll('button').forEach((item) => item.classList.remove('active'));
             button.classList.add('active');
-            state[group.dataset.filterGroup] = button.dataset.value;
+            state[key] = button.dataset.value ?? 'all';
+            const url = new URL(window.location.href);
+            if (state[key] === 'all') url.searchParams.delete(key);
+            else url.searchParams.set(key, state[key]);
+            history.replaceState({}, '', url);
             applyFilters();
           });
         });
       });
 
       search?.addEventListener('input', applyFilters);
+      applyFilters();
     </script>
 
     <style>

@@ -1,0 +1,55 @@
+---
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Footer from "../../components/Footer.astro";
+import Header from "../../components/Header.astro";
+import { SITE_TITLE } from "../../consts";
+import { categoryLabels, getTaxonomy } from "../../utils/taxonomy";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return Object.entries(categoryLabels).map(([category, label]) => ({
+    params: { category },
+    props: {
+      label,
+      posts: posts
+        .filter((post) => getTaxonomy(post).category === category)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { label, posts } = Astro.props;
+---
+
+<html lang="en-IN">
+  <head><BaseHead title={`${label} — ${SITE_TITLE}`} description={`${label} from The Wrist Journal, with an Indian watch buyer's perspective.`} /></head>
+  <body>
+    <Header />
+    <main>
+      <a class="back" href="/blog/">← All articles</a>
+      <h1>{label}</h1>
+      <p class="intro">{posts.length} articles in this section.</p>
+      <div class="list">
+        {posts.map((post) => (
+          <a class="item" href={`/blog/${post.id}/`}>
+            <h2>{post.data.title}</h2>
+            <p>{post.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </main>
+    <Footer />
+    <style>
+      main { width: 760px; max-width: calc(100% - 2em); padding: 3em 1em 4em; }
+      .back { font-size: .9rem; font-weight: 600; }
+      h1 { margin: .5em 0 .15em; }
+      .intro { color: var(--text-secondary); margin-bottom: 2em; }
+      .list { display: grid; gap: 1em; }
+      .item { padding: 1.25em 1.4em; border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; color: inherit; background: var(--bg-card); }
+      .item:hover { border-color: var(--border-hover); box-shadow: var(--shadow-md); color: inherit; }
+      .item h2 { font-size: 1.2rem; margin: 0 0 .35em; }
+      .item p { color: var(--text-secondary); margin: 0; font-size: .9rem; line-height: 1.5; }
+    </style>
+  </body>
+</html>

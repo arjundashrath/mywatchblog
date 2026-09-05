@@ -3,13 +3,8 @@ title: "What Makes a Watch Actually Good? A Practical Guide Beyond the Spec Shee
 description: "What actually makes a good watch? A practical guide to proportions, dial design, finishing, movements, bracelets, crystals, water resistance and value beyond the spec sheet."
 pubDate: "2026-09-05"
 tags: ["guide", "watch-buying-guide", "watch-basics", "horology", "watches-india", "beginner-guide"]
+heroImage: "../../assets/blog/what-makes/hero-image.jpg"
 ---
-
-<!-- HERO IMAGE PLACEHOLDER
-Suggested image: close-up wristwatch shot with enough negative space for a wide crop.
-Source/download: https://unsplash.com/photos/zlqROShBkps
-License: Unsplash License
--->
 
 Open two watch listings and it is very easy to turn the whole thing into a game of Top Trumps. Sapphire crystal beats mineral. Automatic beats quartz. 100 metres of water resistance beats 50. More complications must mean more value. Add enough ticks to the right-hand column and surely you have found the better watch.
 
@@ -47,11 +42,7 @@ Lug-to-lug distance is often more important because it tells you how far the wat
 
 Then there is the dial itself. A 40mm watch with a thin bezel and a huge open dial can look much larger than another 40mm watch with a thick dive bezel. Case shape changes things again. Square and rectangular watches often wear nothing like round watches with similar measurements.
 
-<!-- IMAGE PLACEHOLDER
-Suggested image: watch being worn on wrist, useful for illustrating proportions and how a case actually sits.
-Source/download: https://unsplash.com/photos/person-wearing-watch-at-6-oclock-ZESfUXOM558
-License: Unsplash License
--->
+![Watch worn on the wrist, illustrating fit and proportions](../../assets/blog/what-makes/watch-on-wrist.avif)
 
 This is why I dislike hard rules like "never buy above 40mm" or "small wrists need 36mm." Try the watch if you can. If you cannot, look for the lug-to-lug measurement, thickness and wrist shots from people with a similar wrist size. A well-proportioned 42mm watch can wear beautifully. A badly proportioned 39mm one can feel wrong the moment you put it on.
 
@@ -67,11 +58,7 @@ A good dial has hierarchy. Your eyes should know where to go. The hands need eno
 
 This becomes more important as a watch gets complicated. Chronographs are a perfect example. Three subdials, a date window, tachymeter markings and a large brand logo can either look wonderfully technical or like a printer ran out of margins. The difference is not the number of features. It is whether somebody actually composed the dial properly.
 
-<!-- IMAGE PLACEHOLDER
-Suggested image: macro dial shot showing hands, indices, printing and surface finishing.
-Source/download: https://unsplash.com/photos/a-close-up-of-a-wrist-watch-with-roman-numerals-Z53fqiUb2V0
-License: Unsplash License
--->
+![Macro view of a watch dial, hands and applied indices](../../assets/blog/what-makes/dial-shot.avif)
 
 Legibility is part of this too. There are watches that photograph brilliantly because the hands disappear into a matching dial, polished markers explode under studio lights and every surface reflects something interesting. Then you take the watch outside and realise you have to tilt your wrist around just to tell the time. That can be acceptable on a jewellery-first dress watch, but it is a serious flaw on something pretending to be a tool watch.
 
@@ -99,11 +86,7 @@ A bracelet is responsible for comfort, fit and a huge part of how expensive a wa
 
 Look at how freely the links move. Check whether the end links fit the case properly. See how much the bracelet tapers toward the clasp. A little taper can completely change how elegant a watch feels on the wrist. Then look at the clasp itself. Does it feel secure? Does it have enough micro-adjustment? Can you actually get a comfortable fit without being stuck between too tight and too loose?
 
-<!-- IMAGE PLACEHOLDER
-Suggested image: open watch clasp and bracelet close-up.
-Source/download: https://unsplash.com/photos/close-up-of-a-black-wristwatch-with-open-clasp-PN46qWsydVo
-License: Unsplash License
--->
+![Watch bracelet with its clasp open](../../assets/blog/what-makes/bracelet-open-clasp.avif)
 
 This is one of the places where trying a watch in person pays off. You can read "solid links, milled clasp" online and still dislike how the bracelet drapes around your wrist. Conversely, a fairly simple bracelet can be perfectly good if it is comfortable, sized properly and suits the character of the watch.
 
@@ -117,11 +100,7 @@ Watch enthusiasts love movements, and understandably so. A tiny mechanical machi
 
 Quartz is accurate, robust, affordable and wonderfully low-maintenance. Solar quartz takes that convenience even further. Mechanical movements give you something else: engineering you can feel and interact with, a sweeping seconds hand, a rotor moving on your wrist, the ritual of winding and the knowledge that the thing is running through springs and gears instead of a conventional battery-powered quartz circuit.
 
-<!-- IMAGE PLACEHOLDER
-Suggested image: mechanical movement / display caseback close-up.
-Source/download: https://commons.wikimedia.org/wiki/File:Russian_finished_watch_movement.jpg
-License: CC BY-SA 3.0 / GFDL, attribution required
--->
+![Mechanical watch movement seen through an open caseback](../../assets/blog/what-makes/caseback.jpg)
 
 Neither philosophy wins by default.
 
@@ -161,11 +140,7 @@ Tissot's official guidance says a 3 bar / 30 metre watch is suitable for hand wa
 
 Then look at Suunto. The Suunto Core Alpha is rated to 30 metres, yet Suunto explicitly lists it for snorkelling down to 10 metres and even includes a depth meter. Same headline number, very different intended use.
 
-<!-- IMAGE PLACEHOLDER
-Suggested image: screw-down crown close-up, useful for the water-resistance section.
-Source/download: https://commons.wikimedia.org/wiki/File:Crown_on_mechanical_watch_-_detailed_view.jpg
-License: CC BY-SA 4.0, attribution required
--->
+![Close-up of a watch's screw-down crown](../../assets/blog/what-makes/screw-down.jpg)
 
 That is why I would never use a generic internet chart as the final word on whether a watch is safe for swimming. Check what the manufacturer says for the actual model, ideally in the manual or on its official support page. "30m means splashes, 50m means swimming, 100m means everything" is convenient advice, but watch brands themselves do not apply those labels consistently enough for that to be a universal rule.
 

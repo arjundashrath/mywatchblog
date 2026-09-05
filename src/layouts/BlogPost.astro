@@ -5,205 +5,104 @@ import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import Header from "../components/Header.astro";
+import { categoryLabels, tagLabel, type ArticleCategory, type PriceRange } from "../utils/taxonomy";
 
-type Props = CollectionEntry<"blog">["data"];
+type Props = CollectionEntry<"blog">["data"] & {
+	related?: CollectionEntry<"blog">[];
+	taxonomy?: { category: ArticleCategory; priceRange: PriceRange; tags: string[] };
+};
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, related = [], taxonomy } = Astro.props;
 ---
 
 <html lang="en-IN">
 	<head>
-		<BaseHead
-			title={title}
-			description={description}
-			image={heroImage}
-			pubDate={pubDate}
-			updatedDate={updatedDate}
-			type="BlogPosting"
-		/>
+		<BaseHead title={title} description={description} image={heroImage} pubDate={pubDate} updatedDate={updatedDate} type="BlogPosting" />
 	</head>
-
 	<body>
 		<Header />
 		<main>
 			<article>
-				{
-					heroImage && (
-						<div class="hero-image">
-							<Image
-								width={1020}
-								height={510}
-								src={heroImage}
-								alt={title}
-							/>
-						</div>
-					)
-				}
+				{heroImage && (
+					<div class="hero-image">
+						<Image width={1020} height={510} src={heroImage} alt={title} />
+					</div>
+				)}
 				<div class="prose">
 					<div class="article-header">
 						<div class="date">
 							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<span class="updated">
-										· Updated{" "}
-										<FormattedDate date={updatedDate} />
-									</span>
-								)
-							}
+							{updatedDate && <span class="updated"> · Updated <FormattedDate date={updatedDate} /></span>}
 						</div>
+						{taxonomy && <a class="article-category" href={`/category/${taxonomy.category}/`}>{categoryLabels[taxonomy.category]}</a>}
 						<h1>{title}</h1>
 						<p class="byline">By <a href="/about">Arjun Dashrath</a></p>
+						{taxonomy && taxonomy.tags.length > 0 && (
+							<div class="article-tags">
+								{taxonomy.tags.map((tag) => <a href={`/tags/${tag}/`}>{tagLabel(tag)}</a>)}
+							</div>
+						)}
 					</div>
-					<p class="affiliate-disclosure">
-						Buying through our links supports The Wrist Journal at no extra cost to you. <a href="/affiliate-disclosure">Learn more</a>.
-					</p>
+					<p class="affiliate-disclosure">Buying through our links supports The Wrist Journal at no extra cost to you. <a href="/affiliate-disclosure">Learn more</a>.</p>
 					<slot />
 				</div>
 			</article>
+
+			{related.length > 0 && (
+				<section class="related-section">
+					<p class="related-eyebrow">Continue reading</p>
+					<h2>More from The Wrist Journal</h2>
+					<div class="related-grid">
+						{related.map((post) => (
+							<a class="related-card" href={`/blog/${post.id}/`}>
+								<strong>{post.data.title}</strong>
+								<span>{post.data.description}</span>
+							</a>
+						))}
+					</div>
+				</section>
+			)}
+
 			<div class="community-box">
 				<p class="community-heading">Stay in the Loop</p>
 				<p class="community-text">
-					Talk watches, get recommendations, and find the best deals with us on
-					<a href="https://www.reddit.com/r/thewristjournal/" target="_blank" rel="noopener noreferrer">r/thewristjournal</a>.
-					Follow
-					<a href="https://www.instagram.com/_thewristjournal_/" target="_blank" rel="noopener noreferrer">@_thewristjournal_</a> on Instagram for watch picks and recommendations.
-					Or browse all our curated favourites on the
-					<a href="https://amzn.in/d/02rgcsOR" target="_blank" rel="noopener noreferrer">Amazon Storefront</a>.
+					Talk watches, get recommendations, and find the best deals with us on <a href="https://www.reddit.com/r/thewristjournal/" target="_blank" rel="noopener noreferrer">r/thewristjournal</a>. Follow <a href="https://www.instagram.com/_thewristjournal_/" target="_blank" rel="noopener noreferrer">@_thewristjournal_</a> on Instagram for watch picks and recommendations. Or browse all our curated favourites on the <a href="https://amzn.in/d/02rgcsOR" target="_blank" rel="noopener noreferrer">Amazon Storefront</a>.
 				</p>
 			</div>
 		</main>
-		<p class="amazon-associate-disclosure">
-			As an Amazon Associate I earn from qualifying purchases.
-		</p>
+		<p class="amazon-associate-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 		<Footer />
+
 		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: auto;
-			}
-
-			.hero-image {
-				width: 100%;
-				max-width: 960px;
-				margin: 0 auto;
-				padding: 1em 1em 0;
-			}
-
-			.hero-image img {
-				display: block;
-				width: 100%;
-				border-radius: var(--radius);
-				box-shadow: var(--shadow-md);
-			}
-
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1.5em 1em 3em;
-				color: var(--text);
-			}
-
-			.article-header {
-				margin-bottom: 2em;
-				padding-bottom: 1.5em;
-				border-bottom: 1px solid var(--border);
-			}
-
-			.article-header h1 {
-				margin: 0.4em 0 0;
-				font-size: 2.5rem;
-				line-height: 1.15;
-			}
-
-			.byline {
-				font-size: 0.9rem;
-				color: var(--text-secondary);
-				margin: 0.75em 0 0;
-			}
-
-			.byline a {
-				color: var(--accent);
-				font-weight: 500;
-				text-decoration: none;
-			}
-
-			.date {
-				font-size: 0.85rem;
-				color: var(--text-muted);
-				text-transform: uppercase;
-				letter-spacing: 0.05em;
-			}
-
-			.updated {
-				font-style: italic;
-				text-transform: none;
-				letter-spacing: 0;
-			}
-
-			.affiliate-disclosure {
-				font-size: 0.8rem;
-				color: var(--text-muted);
-				font-style: italic;
-				margin: 0 0 2em 0;
-				padding: 0;
-				line-height: 1.4;
-			}
-
-			.affiliate-disclosure a {
-				color: inherit;
-			}
-
-			.community-box {
-				max-width: 720px;
-				margin: 0 auto 2em;
-				padding: 1.5em 1.75em;
-				background: var(--bg-subtle);
-				border: 1px solid var(--border);
-				border-radius: var(--radius);
-			}
-
-			.community-heading {
-				font-family: "Space Grotesk", sans-serif;
-				font-size: 1rem;
-				font-weight: 600;
-				color: var(--text);
-				margin: 0 0 0.5em 0;
-			}
-
-			.community-text {
-				font-size: 0.9rem;
-				color: var(--text-secondary);
-				line-height: 1.6;
-				margin: 0;
-			}
-
-			.community-text a {
-				color: var(--accent);
-				font-weight: 500;
-				text-decoration: none;
-				transition: color var(--transition);
-			}
-
-			.community-text a:hover {
-				color: var(--accent-hover);
-			}
-
-			.amazon-associate-disclosure {
-				font-size: 0.75rem;
-				color: var(--text-muted);
-				text-align: center;
-				margin: 0;
-				padding: 1.5em 1em;
-			}
-
-			@media (max-width: 720px) {
-				.article-header h1 {
-					font-size: 1.85rem;
-				}
-			}
+			main { width: calc(100% - 2em); max-width: 100%; margin: auto; }
+			.hero-image { width: 100%; max-width: 960px; margin: 0 auto; padding: 1em 1em 0; }
+			.hero-image img { display: block; width: 100%; border-radius: var(--radius); box-shadow: var(--shadow-md); }
+			.prose { width: 720px; max-width: calc(100% - 2em); margin: auto; padding: 1.5em 1em 3em; color: var(--text); }
+			.article-header { margin-bottom: 2em; padding-bottom: 1.5em; border-bottom: 1px solid var(--border); }
+			.article-header h1 { margin: .4em 0 0; font-size: 2.5rem; line-height: 1.15; }
+			.byline { font-size: .9rem; color: var(--text-secondary); margin: .75em 0 0; }
+			.byline a { color: var(--accent); font-weight: 500; text-decoration: none; }
+			.date { font-size: .85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
+			.updated { font-style: italic; text-transform: none; letter-spacing: 0; }
+			.article-category { display: inline-block; margin-top: .8em; color: var(--accent); font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; text-decoration: none; }
+			.article-tags { display: flex; flex-wrap: wrap; gap: .45em; margin-top: 1em; }
+			.article-tags a { padding: .35em .65em; background: var(--bg-subtle); border-radius: 999px; color: var(--text-secondary); font-size: .75rem; text-decoration: none; }
+			.affiliate-disclosure { font-size: .8rem; color: var(--text-muted); font-style: italic; margin: 0 0 2em; line-height: 1.4; }
+			.affiliate-disclosure a { color: inherit; }
+			.related-section { max-width: 720px; margin: 0 auto 2em; padding: 2em 1em; border-top: 1px solid var(--border); }
+			.related-eyebrow { margin: 0 0 .35em; font-size: .75rem; color: var(--accent); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
+			.related-section h2 { margin: 0 0 1em; }
+			.related-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: .75em; }
+			.related-card { display: flex; flex-direction: column; gap: .45em; padding: 1em; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); color: inherit; text-decoration: none; }
+			.related-card:hover { color: inherit; border-color: var(--border-hover); box-shadow: var(--shadow-md); }
+			.related-card strong { line-height: 1.35; }
+			.related-card span { color: var(--text-secondary); font-size: .8rem; line-height: 1.45; }
+			.community-box { max-width: 720px; margin: 0 auto 2em; padding: 1.5em 1.75em; background: var(--bg-subtle); border: 1px solid var(--border); border-radius: var(--radius); }
+			.community-heading { font-family: "Space Grotesk", sans-serif; font-size: 1rem; font-weight: 600; color: var(--text); margin: 0 0 .5em; }
+			.community-text { font-size: .9rem; color: var(--text-secondary); line-height: 1.6; margin: 0; }
+			.community-text a { color: var(--accent); font-weight: 500; text-decoration: none; }
+			.amazon-associate-disclosure { font-size: .75rem; color: var(--text-muted); text-align: center; margin: 0; padding: 1.5em 1em; }
+			@media (max-width: 720px) { .article-header h1 { font-size: 1.85rem; } .related-grid { grid-template-columns: 1fr; } }
 		</style>
 	</body>
 </html>

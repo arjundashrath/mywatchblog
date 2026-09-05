@@ -6,165 +6,154 @@ import Footer from "../../components/Footer.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 import Header from "../../components/Header.astro";
 import { SITE_TITLE } from "../../consts";
+import { categoryLabels, getTaxonomy, priceLabels, tagLabel } from "../../utils/taxonomy";
 
-const posts = (await getCollection("blog")).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const posts = (await getCollection("blog"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .map((post) => ({ post, taxonomy: getTaxonomy(post) }));
 ---
 
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<BaseHead
-			title={`Blog — ${SITE_TITLE}`}
-			description="All posts from The Wrist Journal"
-		/>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<section class="blog-header">
-				<h1>Blog</h1>
-				<p>
-					Reviews, guides, and stories about watches that won't break
-					the bank.
-				</p>
-			</section>
-			<section class="posts-list">
-				{
-					posts.map((post, i) => (
-						<a
-							href={`/blog/${post.id}/`}
-							class:list={["post-card", { featured: i === 0 }]}
-						>
-							{post.data.heroImage && (
-								<div class="card-image">
-									<Image
-										width={i === 0 ? 960 : 480}
-										height={i === 0 ? 480 : 270}
-										src={post.data.heroImage}
-										alt={post.data.title}
-									/>
-								</div>
-							)}
-							<div class="card-body">
-								<time class="card-date">
-									<FormattedDate date={post.data.pubDate} />
-								</time>
-								<h2 class="card-title">{post.data.title}</h2>
-								<p class="card-desc">{post.data.description}</p>
-							</div>
-						</a>
-					))
-				}
-			</section>
-		</main>
-		<Footer />
-		<style>
-			main {
-				width: 960px;
-				max-width: calc(100% - 2em);
-				padding: 2em 1em 4em;
-			}
+<html lang="en-IN">
+  <head>
+    <BaseHead title={`Articles — ${SITE_TITLE}`} description="Search and browse watch reviews, buying guides, deals and horology articles from The Wrist Journal." />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <section class="blog-header">
+        <p class="eyebrow">The Wrist Journal Archive</p>
+        <h1>Find your next watch read</h1>
+        <p>Search by watch, brand or topic, or narrow things down by article type and budget.</p>
+      </section>
 
-			.blog-header {
-				margin-bottom: 2.5em;
-			}
+      <section class="filters" aria-label="Article filters">
+        <label class="search-box">
+          <span class="sr-only">Search articles</span>
+          <input id="article-search" type="search" placeholder="Search watches, brands, guides..." autocomplete="off" />
+        </label>
 
-			.blog-header h1 {
-				margin-bottom: 0.3em;
-			}
+        <div class="filter-group">
+          <span class="filter-label">Article type</span>
+          <div class="filter-buttons" data-filter-group="category">
+            <button class="active" data-value="all">All</button>
+            {Object.entries(categoryLabels).map(([value, label]) => <button data-value={value}>{label}</button>)}
+          </div>
+        </div>
 
-			.blog-header p {
-				color: var(--text-secondary);
-				font-size: 1.1rem;
-				margin: 0;
-			}
+        <div class="filter-group">
+          <span class="filter-label">Budget</span>
+          <div class="filter-buttons" data-filter-group="price">
+            <button class="active" data-value="all">All</button>
+            {Object.entries(priceLabels).filter(([value]) => value !== "all-prices").map(([value, label]) => <button data-value={value}>{label}</button>)}
+          </div>
+        </div>
+      </section>
 
-			.posts-list {
-				display: grid;
-				grid-template-columns: repeat(2, 1fr);
-				gap: 1.5em;
-			}
+      <p id="result-count" class="result-count">{posts.length} articles</p>
 
-			.post-card {
-				display: flex;
-				flex-direction: column;
-				background: var(--bg-card);
-				border: 1px solid var(--border);
-				border-radius: var(--radius);
-				overflow: hidden;
-				text-decoration: none;
-				color: inherit;
-				transition: border-color var(--transition),
-					box-shadow var(--transition), transform var(--transition);
-			}
+      <section class="posts-list" id="posts-list">
+        {posts.map(({ post, taxonomy }) => (
+          <article
+            class="post-card"
+            data-category={taxonomy.category}
+            data-price={taxonomy.priceRange}
+            data-search={`${post.data.title} ${post.data.description} ${taxonomy.tags.join(" ")} ${categoryLabels[taxonomy.category]}`.toLowerCase()}
+          >
+            <a href={`/blog/${post.id}/`} class="card-main-link">
+              {post.data.heroImage && (
+                <div class="card-image">
+                  <Image width={480} height={270} src={post.data.heroImage} alt={post.data.title} />
+                </div>
+              )}
+              <div class="card-body">
+                <div class="card-meta">
+                  <span class="category">{categoryLabels[taxonomy.category]}</span>
+                  <time><FormattedDate date={post.data.pubDate} /></time>
+                </div>
+                <h2>{post.data.title}</h2>
+                <p>{post.data.description}</p>
+              </div>
+            </a>
+            {taxonomy.tags.length > 0 && (
+              <div class="tag-row">
+                {taxonomy.tags.slice(0, 4).map((tag) => <a href={`/tags/${tag}/`}>{tagLabel(tag)}</a>)}
+              </div>
+            )}
+          </article>
+        ))}
+      </section>
 
-			.post-card:hover {
-				border-color: var(--border-hover);
-				box-shadow: var(--shadow-lg);
-				transform: translateY(-2px);
-				color: inherit;
-			}
+      <p id="no-results" class="no-results" hidden>No articles match those filters yet.</p>
+    </main>
+    <Footer />
 
-			.post-card.featured {
-				grid-column: 1 / -1;
-			}
+    <script>
+      const search = document.querySelector('#article-search');
+      const cards = [...document.querySelectorAll('.post-card')];
+      const resultCount = document.querySelector('#result-count');
+      const noResults = document.querySelector('#no-results');
+      const state = { category: 'all', price: 'all' };
 
-			.card-image {
-				overflow: hidden;
-				aspect-ratio: 16 / 9;
-			}
+      function applyFilters() {
+        const query = search?.value.trim().toLowerCase() ?? '';
+        let visible = 0;
+        cards.forEach((card) => {
+          const matchesSearch = !query || card.dataset.search?.includes(query);
+          const matchesCategory = state.category === 'all' || card.dataset.category === state.category;
+          const matchesPrice = state.price === 'all' || card.dataset.price === state.price || card.dataset.price === 'all-prices';
+          const show = matchesSearch && matchesCategory && matchesPrice;
+          card.hidden = !show;
+          if (show) visible++;
+        });
+        if (resultCount) resultCount.textContent = `${visible} article${visible === 1 ? '' : 's'}`;
+        if (noResults) noResults.hidden = visible !== 0;
+      }
 
-			.card-image img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				border-radius: 0;
-				transition: transform 0.3s ease;
-			}
+      document.querySelectorAll('[data-filter-group]').forEach((group) => {
+        group.querySelectorAll('button').forEach((button) => {
+          button.addEventListener('click', () => {
+            group.querySelectorAll('button').forEach((item) => item.classList.remove('active'));
+            button.classList.add('active');
+            state[group.dataset.filterGroup] = button.dataset.value;
+            applyFilters();
+          });
+        });
+      });
 
-			.post-card:hover .card-image img {
-				transform: scale(1.03);
-			}
+      search?.addEventListener('input', applyFilters);
+    </script>
 
-			.card-body {
-				padding: 1.25em 1.5em;
-				flex: 1;
-			}
-
-			.card-date {
-				font-size: 0.8rem;
-				color: var(--text-muted);
-				text-transform: uppercase;
-				letter-spacing: 0.05em;
-			}
-
-			.card-title {
-				font-size: 1.3rem;
-				margin: 0.35em 0 0.4em;
-				line-height: 1.3;
-			}
-
-			.post-card.featured .card-title {
-				font-size: 1.75rem;
-			}
-
-			.card-desc {
-				font-size: 0.9rem;
-				color: var(--text-secondary);
-				margin: 0;
-				line-height: 1.5;
-			}
-
-			@media (max-width: 720px) {
-				.posts-list {
-					grid-template-columns: 1fr;
-				}
-				.post-card.featured .card-title {
-					font-size: 1.3rem;
-				}
-			}
-		</style>
-	</body>
+    <style>
+      main { width: 960px; max-width: calc(100% - 2em); padding: 3em 1em 4em; }
+      .blog-header { max-width: 700px; margin-bottom: 2em; }
+      .eyebrow { color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: .06em; font-size: .8rem; }
+      .blog-header h1 { margin: .25em 0; font-size: 2.6rem; }
+      .blog-header p:last-child { color: var(--text-secondary); font-size: 1.05rem; }
+      .filters { padding: 1.25em; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-card); margin-bottom: 1.25em; }
+      .search-box input { width: 100%; box-sizing: border-box; padding: .9em 1em; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--bg); color: var(--text); font: inherit; }
+      .filter-group { margin-top: 1em; }
+      .filter-label { display: block; font-size: .8rem; font-weight: 600; color: var(--text-muted); margin-bottom: .55em; text-transform: uppercase; letter-spacing: .04em; }
+      .filter-buttons { display: flex; flex-wrap: wrap; gap: .5em; }
+      .filter-buttons button { border: 1px solid var(--border); background: var(--bg); color: var(--text-secondary); border-radius: 999px; padding: .5em .8em; cursor: pointer; font: inherit; font-size: .85rem; }
+      .filter-buttons button.active { background: var(--accent); border-color: var(--accent); color: white; }
+      .result-count { color: var(--text-muted); font-size: .9rem; margin: 1.5em 0 .75em; }
+      .posts-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5em; }
+      .post-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+      .post-card:hover { border-color: var(--border-hover); box-shadow: var(--shadow-md); }
+      .card-main-link { display: block; text-decoration: none; color: inherit; }
+      .card-image { aspect-ratio: 16/9; overflow: hidden; }
+      .card-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; }
+      .card-body { padding: 1.15em 1.25em .8em; }
+      .card-meta { display: flex; gap: .75em; align-items: center; font-size: .75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: .04em; }
+      .category { color: var(--accent); font-weight: 600; }
+      .card-body h2 { font-size: 1.25rem; line-height: 1.3; margin: .45em 0; }
+      .card-body p { color: var(--text-secondary); font-size: .9rem; line-height: 1.5; margin: 0; }
+      .tag-row { display: flex; flex-wrap: wrap; gap: .4em; padding: 0 1.25em 1.1em; }
+      .tag-row a { font-size: .72rem; text-decoration: none; color: var(--text-secondary); background: var(--bg-subtle); padding: .35em .6em; border-radius: 999px; }
+      .no-results { text-align: center; padding: 3em; color: var(--text-secondary); }
+      .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+      @media (max-width: 720px) { .blog-header h1 { font-size: 2rem; } .posts-list { grid-template-columns: 1fr; } }
+    </style>
+  </body>
 </html>

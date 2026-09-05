@@ -14,6 +14,8 @@ const blog = defineCollection({
 			updatedDate: z.coerce.date().optional(),
 			heroImage: image().optional(),
 			tags: z.array(z.string()).optional(),
+			category: z.enum(['buying-guides', 'reviews', 'learn', 'deals']).optional(),
+			priceRange: z.enum(['under-5k', '5k-10k', '10k-25k', '25k-50k', '50k-plus', 'all-prices']).optional(),
 		}),
 });
 

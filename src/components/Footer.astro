@@ -13,6 +13,14 @@ const today = new Date();
 			<a href="https://amzn.in/d/02rgcsOR" target="_blank" rel="noopener noreferrer">Amazon Storefront</a>
 		</p>
 		<p class="footer-links">
+			<a href="/about">About</a>
+			<span class="sep">&middot;</span>
+			<a href="/contact">Contact</a>
+			<span class="sep">&middot;</span>
+			<a href="/editorial-policy">Editorial Policy</a>
+			<span class="sep">&middot;</span>
+			<a href="/affiliate-disclosure">Affiliate Disclosure</a>
+			<span class="sep">&middot;</span>
 			<a href="/privacy">Privacy Policy</a>
 		</p>
 		<p class="copyright">
@@ -42,14 +50,18 @@ const today = new Date();
 		margin: 0 0 0.5em 0;
 	}
 
-	.social-links {
-		font-size: 0.9rem;
-		margin: 0.75em 0;
+	.social-links,
+	.footer-links {
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		gap: 0.5em;
 		flex-wrap: wrap;
+	}
+
+	.social-links {
+		font-size: 0.9rem;
+		margin: 0.75em 0;
 	}
 
 	.social-links a {
@@ -63,13 +75,13 @@ const today = new Date();
 		color: var(--accent);
 	}
 
-	.social-links .sep {
+	.sep {
 		color: var(--text-muted);
 	}
 
 	.footer-links {
 		font-size: 0.85rem;
-		margin: 0.5em 0;
+		margin: 0.75em 0;
 	}
 
 	.footer-links a {

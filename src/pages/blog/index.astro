@@ -105,7 +105,10 @@ const posts = (await getCollection("blog"))
         cards.forEach((card) => {
           const matchesSearch = !query || card.dataset.search?.includes(query);
           const matchesCategory = state.category === 'all' || card.dataset.category === state.category;
-          const matchesPrice = state.price === 'all' || card.dataset.price === state.price || card.dataset.price === 'all-prices';
+          const matchesPrice = state.price === 'all' || (
+            card.dataset.category !== 'learn' &&
+            (card.dataset.price === state.price || card.dataset.price === 'all-prices')
+          );
           const show = Boolean(matchesSearch && matchesCategory && matchesPrice);
           card.hidden = !show;
           if (show) visible++;

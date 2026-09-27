@@ -5,12 +5,46 @@ pubDate: "2026-09-27"
 category: "reviews"
 priceRange: "25k-50k"
 tags: ["seiko", "seiko-5", "snxs", "automatic", "review", "watches-india"]
-# Add heroImage after uploading the review photographs.
+heroImage: "../../assets/blog/Seiko-srpl57k1/individual_shot.jpg"
 ---
 
 I wore the Seiko SRPL57K1 for a few weeks, and the thing that stayed with me was just how good this watch looks. Seiko's familiar dive-style 5 Sports watches tend to get most of the attention, but this little green SNXS deserves a look before you buy one of those. The rounded case, compact proportions and gold accents give it a very different personality. If the usual Seiko 5 is the sporty brother, this is the classier one. It also costs ₹40,000 at MRP, though, which makes the question of whether you should buy it slightly more complicated.
 
-*[Image placeholder: SRPL57K1 on the wrist, showing the green dial and case shape]*
+<style>
+  img[alt="Seiko SRPL57K1 dial in brighter light, showing its emerald-green sunburst finish"] {
+    display: block;
+    width: 50%;
+    margin: 0 auto 1.75em;
+  }
+
+  .prose table {
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .prose th,
+  .prose td {
+    padding: 0.65em 0.75em;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: break-word;
+  }
+
+  .prose table:nth-of-type(1) th:first-child {
+    width: 42%;
+  }
+
+  .prose table:nth-of-type(2) th:nth-child(1) {
+    width: 22%;
+  }
+
+  .prose table:nth-of-type(2) th:nth-child(2) {
+    width: 20%;
+  }
+</style>
+
+![Seiko SRPL57K1 dial in brighter light, showing its emerald-green sunburst finish](../../assets/blog/Seiko-srpl57k1/individual-shot-bg.jpg)
+
 
 ## That Green Dial
 
@@ -18,7 +52,9 @@ The dial is easily my favourite part. Under the right light it turns a beautiful
 
 The gold-coloured hands and hour markers make a huge difference too. Against that green, they give the watch a richness that makes it look more expensive than it is. There is enough shine to catch your attention, but keeping the case and bracelet in steel stops the gold from becoming too much. The combination is easily the biggest reason I would choose this particular version.
 
-*[Image placeholder: Dial close-ups in bright and subdued light, showing emerald green versus near-black]*
+![Seiko SRPL57K1 worn on the wrist, showing its compact case shape](../../assets/blog/Seiko-srpl57k1/looking-black-in-wrist.jpg)
+
+*Seiko SRPL57K1 looking black under indoor lighting.*
 
 ## A Size Seiko Gets Right
 
@@ -48,8 +84,6 @@ Hardlex at ₹40,000 is a fair thing to question. I would have liked sapphire fo
 
 The bracelet is where my enthusiasm settles down a bit. It is neither particularly good nor particularly bad, just okay. It suits the watch visually, but the quality does not impress me in the same way the dial and case do. Based on my Mako 40, I prefer what Orient offers here. At a discounted price I can live with the Seiko's bracelet quite happily; at the full ₹40,000, I would want better.
 
-*[Image placeholder: Bracelet and clasp detail, optionally beside the Orient Mako 40]*
-
 ## Green, Blue or Gold?
 
 This SNXS Vintage Gold collection comes in three colours, all listed at the same Indian MRP. My time on the wrist was with the green SRPL57K1; the other two are alternatives to consider rather than watches I have separately tested.
@@ -62,7 +96,8 @@ This SNXS Vintage Gold collection comes in three colours, all listed at the same
 
 They share the same core specifications, so the choice is mostly about which dial you want to wear. Blue would be my suggestion if green is not your thing, while the gold dial leans further into the vintage look. My pick is still the green. That shift from emerald to almost black, with the gold markers sitting against it, is what sold me on this watch.
 
-*[Image placeholder: SRPL55K1, SRPL57K1 and SRPL59K1 colour comparison]*
+![Seiko SNXS Vintage Gold collection in gold, green and blue](../../assets/blog/Seiko-srpl57k1/all-3colours.webp)
+
 
 ## Would I Buy It at ₹40,000?
 

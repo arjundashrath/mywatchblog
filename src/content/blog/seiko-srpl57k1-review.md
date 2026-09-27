@@ -52,9 +52,9 @@ The dial is easily my favourite part. Under the right light it turns a beautiful
 
 The gold-coloured hands and hour markers make a huge difference too. Against that green, they give the watch a richness that makes it look more expensive than it is. There is enough shine to catch your attention, but keeping the case and bracelet in steel stops the gold from becoming too much. The combination is easily the biggest reason I would choose this particular version.
 
-![Seiko SRPL57K1 worn on the wrist, showing its compact case shape](../../assets/blog/Seiko-srpl57k1/looking-black-in-wrist.jpg)
+![Seiko SRPL57K1 worn on the wrist, showing its compact case shape](../../assets/blog/Seiko-srpl57k1/almost_blac.jpg)
 
-*Seiko SRPL57K1 looking black under indoor lighting.*
+*Seiko SRPL57K1 looking greenish-black under indoor lighting.*
 
 ## A Size Seiko Gets Right
 

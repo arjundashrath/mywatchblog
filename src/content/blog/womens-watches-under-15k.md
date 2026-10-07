@@ -14,6 +14,10 @@ Before we start, all watches can be worn by anyone. We have said this before and
 
 The picks below run from cheapest to most expensive, with two clearly marked options just above ₹15,000 at the end. This is a researched buying guide built around our shortlist and design preferences, rather than a claim that we have worn every watch here. Prices marked **shortlisted offer** are the deals used to build the list, not guaranteed current checkout prices; **MRP** means the brand's listed price. Offers and stock change, and some Casios are easier to find at an offline counter. We have checked offline availability while putting the shortlist together, but call your local store before making the trip.
 
+**Jump to a price range:** [Under ₹3,000](#under-3000) · [₹3,000–₹5,000](#3000-to-5000) · [₹5,000–₹8,000](#5000-to-8000) · [₹8,000–₹10,000](#8000-to-10000) · [₹10,000–₹15,000](#10000-to-15000) · [Just above ₹15,000](#above-15000)
+
+<a id="under-3000"></a>
+
 ## 1. Burgundy on a Budget
 
 ### [Timex TWTL121SMU02](https://link.amazon/B0hqkvEXp) | ₹1,747 shortlisted offer
@@ -97,6 +101,8 @@ If your idea of a nice watch is something small, neat and slightly old-fashioned
 Not everyone wants a tiny dial, and this is a nice way to go larger without buying something chunky. The white sunray face, polished gold-tone case and blue strap make a clean combination. At 38mm, it is one of the broader dressy options here, but the slim case should make it easier to fit under a sleeve. The strap colour is what makes it for us. Black would have been predictable, while the blue makes the whole thing feel a little fresher. Worth considering for work if you like a watch with visible wrist presence and a fairly quiet design.
 
 <a href="https://link.amazon/B0d6cFowh" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
+<a id="3000-to-5000"></a>
 
 ## 8. A Tiny Gold Digital
 
@@ -230,6 +236,8 @@ The Milano is one of the strongest jewellery-style designs in this shortlist. Th
 
 <a href="https://link.amazon/B059YCpuh" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
 
+<a id="5000-to-8000"></a>
+
 ## 19. A Small Watch With Better Angles
 
 ### [Timex Trendline TWEL26902](https://link.amazon/B05kn1C84) | ₹5,295 shortlisted price
@@ -290,6 +298,8 @@ The deep pink is excellent. It gives the familiar G-Shock square a much more che
 
 <a href="https://www.casio.com/in/watches/gshock/product.GLX-S5610-4/" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Casio India</a>
 
+<a id="8000-to-10000"></a>
+
 ## 24. The Legacy With the Warm Dial
 
 ### [Timex Trend Legacy TW2V31800UJ](https://link.amazon/B00d1OP6P) | ₹8,046 listed offer
@@ -349,6 +359,8 @@ The day window across the top of the dial gives this Timex much of its character
 If you like the CasiOak but find the regular GA-2100 a little too large, this is where to look. The GMA-S2100 keeps the octagonal bezel and clean analog-digital layout in a smaller, lighter package, and the pink finish suits the shape really well. You still get the useful G-Shock features, including shock resistance, world time and a timer, so choosing the colour does not mean giving up the practical bits. At 42.9mm wide it is smaller by G-Shock standards, rather than tiny in absolute terms. Try it if your wrist is particularly small. For someone who wants one fun watch for busy everyday use, this is an easy option to like.
 
 <a href="https://link.amazon/B0hVwizNx" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
+<a id="10000-to-15000"></a>
 
 ## 29. The Q Timex in Aquamarine
 
@@ -445,6 +457,8 @@ If the striped Marlin feels a little too playful, this goes in a quieter directi
 The metal bezel and textured silver dial make this a noticeably dressier G-Shock. The octagonal shape is still recognisable, but the monochrome colours let it sit much more easily with a shirt or office clothes than the brightly coloured resin versions. We would call it a good smart-casual option, particularly for someone who dislikes traditional dress watches. It is also smaller than the pink GMA-S2100 above, although the metal adds some weight. Be clear about what the extra money buys: the bezel is steel, while the strap remains resin, and there is no solar charging. You are paying for the finish and the appearance, with the familiar G-Shock practicality underneath.
 
 <a href="https://link.amazon/B01HPrcug" target="_blank" rel="noopener noreferrer" class="buy-cta">→ Buy on Amazon</a>
+
+<a id="above-15000"></a>
 
 ## Two Picks Just Above the Budget
 

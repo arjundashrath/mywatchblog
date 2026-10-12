@@ -6,6 +6,7 @@ category: "reviews"
 priceRange: "25k-50k"
 tags: ["seiko", "seiko-5", "snxs", "automatic", "review", "watches-india"]
 heroImage: "../../assets/blog/Seiko-srpl57k1/individual_shot.jpg"
+relatedPosts: ["japanese-watches-under-50k", "seiko-alternatives-citizen", "where-to-buy-watches-in-india"]
 ---
 
 I wore the Seiko SRPL57K1 for a few weeks, and the thing that stayed with me was just how good this watch looks. Seiko's familiar dive-style 5 Sports watches tend to get most of the attention, but this little green SNXS deserves a look before you buy one of those. The rounded case, compact proportions and gold accents give it a very different personality. If the usual Seiko 5 is the sporty brother, this is the classier one. It also costs ₹40,000 at MRP, though, which makes the question of whether you should buy it slightly more complicated.

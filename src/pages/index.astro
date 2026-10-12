@@ -6,7 +6,8 @@ import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
-import { categoryLabels, priceLabels } from "../utils/taxonomy";
+import { categoryLabels } from "../utils/taxonomy";
+import { budgetGuides } from "../utils/discovery";
 
 const allPosts = (await getCollection("blog")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -27,7 +28,7 @@ const startHere = preferred.map((id) => allPosts.find((post) => post.id === id))
         <h1>The Wrist Journal: Watches in India</h1>
         <p class="hero-subtitle">Watch reviews, buying guides and horology stories built around what actually matters to Indian collectors.</p>
         <div class="hero-actions">
-          <a href="/blog/" class="cta-button">Explore all articles</a>
+          <a href="/watch-buying-guides/" class="cta-button">Find your next watch</a>
           <a href="/blog/#article-search" class="secondary-link">Search the journal →</a>
         </div>
       </section>
@@ -35,11 +36,11 @@ const startHere = preferred.map((id) => allPosts.find((post) => post.id === id))
       <section class="discovery-section">
         <div class="section-heading">
           <div><p class="section-eyebrow">Shop by budget</p><h2>What are you looking to spend?</h2></div>
-          <p>Start with a budget and find guides and reviews that make sense for it.</p>
+          <p>Go straight to a recommendation guide, or <a href="/watch-buying-guides/">browse by brand and style</a>.</p>
         </div>
         <div class="budget-grid">
-          {Object.entries(priceLabels).filter(([key]) => key !== "all-prices").map(([key, label]) => (
-            <a class="discovery-card" href={`/blog/?price=${key}`}><span>{label}</span><small>Browse watches →</small></a>
+          {budgetGuides.map(({ id, label }) => (
+            <a class="discovery-card" href={`/blog/${id}/`}><span>{label}</span><small>Read the guide →</small></a>
           ))}
         </div>
       </section>

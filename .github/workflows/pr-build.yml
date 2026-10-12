@@ -29,3 +29,6 @@ jobs:
 
       - name: Build Astro site
         run: npm run build
+
+      - name: Check article discovery and internal links
+        run: npm run check:discovery

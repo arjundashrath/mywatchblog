@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { budgetGuides } from '../utils/discovery';
+
+const posts = await getCollection('blog');
+const sections = [
+  { title: 'Watch recommendations by budget', intro: 'A smaller budget does not mean settling for a watch you do not like. Start with what you actually want to spend. Each guide explains the appeal of the picks, with stretch options called out where included.', ids: budgetGuides.map((guide) => guide.id) },
+  { title: 'A brand or a job in mind?', intro: 'Perhaps you already know you want a Timex, or you need something that can survive a weekend outdoors. These guides narrow things down without asking you to read every watch catalogue on the internet.', ids: ['timex-under-10k', 'which-gshock-to-buy-part-1', 'japanese-watches-under-50k', 'seiko-alternatives-citizen', 'best-outdoor-watches'] },
+  { title: 'Before you buy your first watch', intro: 'The spec sheet is only part of the decision. These are the useful next reads when you are deciding what matters to you, or where to buy once you have chosen a watch.', ids: ['what-makes-a-good-watch', 'where-to-buy-watches-in-india'] },
+  { title: 'A closer look at watches we have worn', intro: 'Shortlists help you find options. Time on the wrist helps explain what living with a particular watch is like. Start with these reviews if one of them is already on your radar.', ids: ['casio-mrw-200h-review', 'seiko-srpl57k1-review', 'garmin-instinct-2x-review'] },
+].map((section) => ({ ...section, articles: section.ids.map((id) => {
+  const post = posts.find((entry) => entry.id === id);
+  if (!post) throw new Error(`Missing buying guide: ${id}`);
+  return post;
+}) }));
+---
+
+<!doctype html>
+<html lang="en-IN">
+  <head><BaseHead title="Watch Buying Guides in India: Budget Picks, Brands & Reviews" description="Find watch recommendations in India under ₹3,000, ₹5,000, ₹10,000 and ₹20,000, women's watches under ₹15,000, brand guides and hands-on reviews." /></head>
+  <body>
+    <Header />
+    <main>
+      <p class="eyebrow">Find your next watch</p>
+      <h1>Watch buying guides for India</h1>
+      <p class="intro">Buying a watch should be fun. Opening twenty tabs and forgetting which silver Casio you liked is less fun. This is the way into our recommendations: pick a budget, follow a brand you like, or read up before committing. The guides are written with Indian pricing and availability in mind, though the price you see at checkout always gets the final say.</p>
+      {sections.map((section) => (
+        <section>
+          <h2>{section.title}</h2>
+          <p>{section.intro}</p>
+          <div class="guide-grid">
+            {section.articles.map((post) => <a class="guide-card" href={`/blog/${post.id}/`}><h3>{post.data.title}</h3><p>{post.data.description}</p><span>Read the article →</span></a>)}
+          </div>
+        </section>
+      ))}
+      <p class="closing">Looking for a sale rather than a shortlist? Our <a href="/category/deals/">watch deals articles</a> live separately. Check the article date and current retailer price before treating a past offer as today's bargain. For everything else, <a href="/blog/">browse or search all articles</a>.</p>
+    </main>
+    <Footer />
+    <style>
+      main { width: 960px; }
+      .eyebrow { color: var(--accent); font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
+      h1 { font-size: 2.8rem; }
+      .intro { font-size: 1.1rem; }
+      section { padding: 2em 0; border-bottom: 1px solid var(--border); }
+      section > p,.intro,.closing { color: var(--text-secondary); }
+      h2 { font-size: 1.7rem; }
+      .guide-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 1em; margin-top: 1.5em; }
+      .guide-card { display: flex; flex-direction: column; padding: 1.4em; color: inherit; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-card); }
+      .guide-card:hover { color: inherit; border-color: var(--border-hover); box-shadow: var(--shadow-md); }
+      .guide-card h3 { font-size: 1.15rem; line-height: 1.4; }
+      .guide-card p { font-size: .9rem; color: var(--text-secondary); }
+      .guide-card span { margin-top: auto; color: var(--accent); font-size: .85rem; font-weight: 600; }
+      .closing { margin-top: 2em; }
+      @media(max-width: 640px) { h1 { font-size: 2.1rem; } .guide-grid { grid-template-columns: 1fr; } }
+    </style>
+  </body>
+</html>

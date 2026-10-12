@@ -1,11 +1,12 @@
 ---
 title: "Best Watches Under ₹20,000 in India (2026 Edition)"
-description: "Our picks for watches under ₹20,000 in India, from Timex Marlins and automatic GMTs to G-Shock, Edifice, Titan and Swatch, plus one stretch pick."
+description: "Watches under ₹20,000 in India: Timex automatics, Ratio GMT, Boderry titanium, G-Shock and Edifice picks, plus a Timex chronograph stretch option."
 pubDate: "2026-09-28"
 category: "buying-guides"
 priceRange: "10k-25k"
 tags: ["budget", "guide", "timex", "boderry", "ratio", "titan", "g-shock", "casio", "swatch", "india"]
 heroImage: "../../assets/blog/under-20k/marlin-gmt.webp"
+relatedPosts: ["best-watches-under-10k", "japanese-watches-under-50k", "which-gshock-to-buy-part-1"]
 ---
 
 We have done [under ₹5,000](https://thewristjournal.com/blog/best-watches-under-5k/) and [under ₹10,000](https://thewristjournal.com/blog/best-watches-under-10k/). Naturally, the next step is to help you spend more money. Very responsible of us. But ₹20,000 is a slightly awkward watch budget. There are some lovely watches here, alongside quite a few that make you wonder what the extra money actually bought. Spending twice as much does not automatically get you twice the watch.
@@ -13,6 +14,8 @@ We have done [under ₹5,000](https://thewristjournal.com/blog/best-watches-unde
 This list is for the ones that give you a reason to move up. A dressy little automatic with an unusual case, a titanium field watch, an affordable automatic GMT, and a few chronographs that earn their place largely by looking very, very good. There is also one Timex above the limit, clearly marked as a stretch pick. We have not discovered a new way of rounding down.
 
 *Prices are indicative and can change. Timex estimates below use the listed MRP less 10%, subject to the offer applying at checkout. Other retailer prices reflect the shortlist used for this guide, rather than guaranteed live offers.*
+
+If the metal G-Shock is what brought you here, our [guide to choosing a G-Shock](/blog/which-gshock-to-buy-part-1/) explains the wider lineup. Still deciding whether the extra budget is worth it? [What makes a good watch](/blog/what-makes-a-good-watch/) is a useful read before paying for a feature you may never use.
 
 ## 1. The Marlin That Dressed Up
 

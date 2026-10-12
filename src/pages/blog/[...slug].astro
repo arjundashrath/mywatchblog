@@ -2,6 +2,7 @@
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import { getTaxonomy } from '../../utils/taxonomy';
+import { getRelatedPosts } from '../../utils/discovery';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -13,23 +14,13 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 const allPosts = await getCollection('blog');
 const taxonomy = getTaxonomy(post);
-const related = allPosts
-	.filter((candidate) => candidate.id !== post.id)
-	.map((candidate) => {
-		const candidateTaxonomy = getTaxonomy(candidate);
-		const sharedTags = candidateTaxonomy.tags.filter((tag) => taxonomy.tags.includes(tag)).length;
-		const sameCategory = candidateTaxonomy.category === taxonomy.category ? 2 : 0;
-		return { post: candidate, score: sharedTags * 3 + sameCategory };
-	})
-	.filter((item) => item.score > 0)
-	.sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
-	.slice(0, 3)
-	.map((item) => item.post);
+const related = getRelatedPosts(post, allPosts);
+const contents = headings.filter((heading) => heading.depth === 2);
 ---
 
-<BlogPost {...post.data} related={related} taxonomy={taxonomy}>
+<BlogPost {...post.data} related={related} taxonomy={taxonomy} contents={contents}>
 	<Content />
 </BlogPost>

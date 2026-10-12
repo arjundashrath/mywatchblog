@@ -27,10 +27,11 @@ for (const [path, html] of pages) {
   if (!/^dist\/blog\/[^/]+\/index\.html$/.test(path)) continue;
   assert.equal([...html.matchAll(/<h1[ >]/g)].length, 1, `${path}: expected one article H1`);
   const related = [...html.matchAll(/<a class="related-card" href="([^"]+)"/g)].map((item) => item[1]);
-  assert.equal(related.length, 3, `${path}: expected three reading recommendations`);
-  assert.equal(new Set(related).size, 3, `${path}: duplicate reading recommendation`);
+  // New specialist articles may have fewer than three relevant recommendations.
+  assert(related.length <= 3, `${path}: too many reading recommendations`);
+  assert.equal(new Set(related).size, related.length, `${path}: duplicate reading recommendation`);
   assert(!related.includes('/' + relative('dist', path).replace('index.html', '')), `${path}: self recommendation`);
-  assert(related.every((url) => !/prime-day|great-indian-festival/.test(url)), `${path}: seasonal reading recommendation`);
+  assert(!/<a class="related-card"[^>]*data-category="deals"/.test(html), `${path}: seasonal reading recommendation`);
   const canonical = [...html.matchAll(/<link rel="canonical" href="([^"]+)"/g)].map((item) => item[1]);
   assert.deepEqual(canonical, ['https://thewristjournal.com/' + relative('dist', path).replace('index.html', '')]);
 }

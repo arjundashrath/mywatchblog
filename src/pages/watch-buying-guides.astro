@@ -8,10 +8,10 @@ import { budgetGuides } from '../utils/discovery';
 const posts = await getCollection('blog');
 const sections = [
   { title: 'Watch recommendations by budget', intro: 'A smaller budget does not mean settling for a watch you do not like. Start with what you actually want to spend. Each guide explains the appeal of the picks, with stretch options called out where included.', ids: budgetGuides.map((guide) => guide.id) },
-  { title: 'A brand or a job in mind?', intro: 'Perhaps you already know you want a Timex, or you need something that can survive a weekend outdoors. These guides narrow things down without asking you to read every watch catalogue on the internet.', ids: ['timex-under-10k', 'which-gshock-to-buy-part-1', 'japanese-watches-under-50k', 'seiko-alternatives-citizen', 'best-outdoor-watches'] },
+  { title: 'A brand or a job in mind?', intro: 'Perhaps you already know you want a Timex, or you need something that can survive a weekend outdoors. These guides narrow things down without asking you to read every watch catalogue on the internet.', ids: ['timex-under-10k', 'which-gshock-to-buy-part-1', 'seiko-alternatives-citizen', 'best-outdoor-watches'] },
   { title: 'Before you buy your first watch', intro: 'The spec sheet is only part of the decision. These are the useful next reads when you are deciding what matters to you, or where to buy once you have chosen a watch.', ids: ['what-makes-a-good-watch', 'where-to-buy-watches-in-india'] },
-  { title: 'A closer look at watches we have worn', intro: 'Shortlists help you find options. Time on the wrist helps explain what living with a particular watch is like. Start with these reviews if one of them is already on your radar.', ids: ['casio-mrw-200h-review', 'seiko-srpl57k1-review', 'garmin-instinct-2x-review'] },
-].map((section) => ({ ...section, articles: section.ids.map((id) => {
+  { title: 'A closer look at watches we have worn', intro: 'Shortlists help you find options. Time on the wrist helps explain what living with a particular watch is like. Start with these reviews if one of them is already on your radar.', ids: ['casio-mrw-200h-review', 'seiko-srpl57k1-review', 'garmin-instinct-2x-review', 'alba-watches-india'] },
+].map((section, index) => ({ ...section, anchor: ['budget', 'brands-and-uses', 'before-you-buy', 'reviews'][index], articles: section.ids.map((id) => {
   const post = posts.find((entry) => entry.id === id);
   if (!post) throw new Error(`Missing buying guide: ${id}`);
   return post;
@@ -27,8 +27,14 @@ const sections = [
       <p class="eyebrow">Find your next watch</p>
       <h1>Watch buying guides for India</h1>
       <p class="intro">Buying a watch should be fun. Opening twenty tabs and forgetting which silver Casio you liked is less fun. This is the way into our recommendations: pick a budget, follow a brand you like, or read up before committing. The guides are written with Indian pricing and availability in mind, though the price you see at checkout always gets the final say.</p>
+      <nav class="guide-sections" aria-label="Buying guide sections">
+        <a href="#budget">By budget</a>
+        <a href="#brands-and-uses">Brands and uses</a>
+        <a href="#before-you-buy">Before you buy</a>
+        <a href="#reviews">Hands-on reviews</a>
+      </nav>
       {sections.map((section) => (
-        <section>
+        <section id={section.anchor}>
           <h2>{section.title}</h2>
           <p>{section.intro}</p>
           <div class="guide-grid">
@@ -44,7 +50,9 @@ const sections = [
       .eyebrow { color: var(--accent); font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
       h1 { font-size: 2.8rem; }
       .intro { font-size: 1.1rem; }
-      section { padding: 2em 0; border-bottom: 1px solid var(--border); }
+      section { padding: 2em 0; border-bottom: 1px solid var(--border); scroll-margin-top: 80px; }
+      .guide-sections { display: flex; flex-wrap: wrap; gap: .6em; margin: 1.5em 0; }
+      .guide-sections a { padding: .45em .8em; border: 1px solid var(--border); border-radius: var(--radius-sm); font-size: .9rem; }
       section > p,.intro,.closing { color: var(--text-secondary); }
       h2 { font-size: 1.7rem; }
       .guide-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 1em; margin-top: 1.5em; }

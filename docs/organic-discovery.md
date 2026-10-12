@@ -3,7 +3,7 @@
 ## Implemented in this change
 
 - Evergreen `/watch-buying-guides/` hub, linked from navigation and buying-guide articles.
-- Direct homepage links to the ₹3,000, ₹5,000, ₹10,000, ₹20,000 and women's ₹15,000 guides.
+- Direct homepage links to the ₹3,000, ₹5,000, ₹10,000, ₹20,000, women's ₹15,000 and Japanese watches up to ₹50,000 guides.
 - Concise India-specific titles and descriptions for six recommendation articles, with discount and stretch-pick context preserved.
 - Curated related reading for all 19 current articles. Automatic fallback ignores generic tags and excludes deal articles.
 - Section navigation on longer articles, and contextual links in the ₹20,000 and women's guides.
@@ -11,6 +11,24 @@
 - Build-output checks for internal destinations, section anchors, article headings, recommendations and the hub sitemap entry, run in PR CI.
 
 Existing article URLs and publication dates remain unchanged. Metadata edits do not claim that watch prices or availability were freshly verified.
+
+## Review against the objective
+
+This PR implements the discovery foundation of Phase 3. It does not complete the acquisition goal: there is no Search Console baseline, measured keyword opportunity list or new researched evergreen article yet. Navigation, headings and descriptions alone are not evidence of ranking or traffic improvement.
+
+The review restored the homepage's higher-budget route, made watch-list section menus identify models rather than only editorial nicknames, and tightened related-article selection. A shared category alone no longer qualifies a fallback recommendation; fewer useful recommendations are preferable to unrelated filler. Deal exclusions use article category rather than a fixed list of sale URL names.
+
+Use existing pages as the starting point for search intent instead of producing near-duplicate articles:
+
+| Search intent hypothesis | Existing destination | Next editorial action |
+| --- | --- | --- |
+| Watches under 3000 / 5000 / 10000 / 20000 in India | Corresponding budget guide | Verify current availability and price basis before a substantive refresh |
+| Timex watches under 10000 in India | Timex guide | Check overlap with the general ₹10,000 guide and improve model comparisons where useful |
+| Women's watches under 15000 in India | Women's guide | Expand fit guidance using verified dimensions if queries support it |
+| Which G-Shock to buy in India | G-Shock guide | Identify common comparison questions from queries before adding sections |
+| Where to buy watches online in India | Retailer guide | Verify current warranty and seller guidance before expanding marketplace advice |
+
+These are content-to-intent mappings, not claims about search volume or current rankings. Search Console should determine which page gets refreshed first. Add a separate article only when it answers a distinct question in enough depth to justify its own page.
 
 ## Search Console review still required
 

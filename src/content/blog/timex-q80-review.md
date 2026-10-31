@@ -5,19 +5,24 @@ pubDate: "2026-11-01"
 category: "reviews"
 priceRange: "5k-10k"
 tags: ["timex", "q-timex", "digital", "retro-watches", "review", "watches-india"]
+heroImage: "../../assets/blog/timex-q80/TW2Y09700_J.webp"
 ---
 
 I have a soft spot for watches that look a little different, and the Timex Q80 is exactly that kind of watch. A gold digital watch with a round dial, an angular case and styling straight out of the 1980s. It is not trying to look modern, sporty or particularly sophisticated. It is just unapologetically retro, and I absolutely love it.
 
 What made the Q80 even more interesting was the price. You can find it for under ₹9,000 in India, and during Flipkart's Big Billion Days sale, the gold version dropped below ₹4,500. That is a pretty ridiculous price for something that looks this distinctive. I went in expecting a fun little retro watch, but what I got was something that felt considerably more premium than I had anticipated. The finishing was excellent, the watch looked even better in person, and the bracelet genuinely caught me off guard.
 
-<!-- IMAGE 1 PLACEHOLDER: Hero shot of the gold Timex Q80, showing the dial and angular case. Add a local image under src/assets/blog/timex-q80/ and set heroImage in frontmatter when available. -->
+![Timex Q80 in gold with a pen and Indian coins, highlighting its everyday value](../../assets/blog/timex-q80/20261101_035819(1).jpg)
+
+*Photographed at night under warm yellow light.*
 
 ## Gold, But Not the Kind That Hurts Your Eyes
 
 Let's start with the colour, because I think Timex absolutely nailed it. Gold watches can be a little tricky. Get the shade wrong and you end up with something that looks excessively flashy, the kind of watch that announces its arrival five minutes before you enter the room. Thankfully, the Q80 does not have that problem.
 
 The gold here is a much softer, more subdued shade. It has a lovely warmth to it without being overly bright or yellow. Combined with the brushed finishing, it gives the watch a surprisingly elegant appearance. It still looks unmistakably gold, but in a way that feels tasteful rather than excessive. I honestly did not expect to find a gold digital watch this versatile, but it works beautifully with everyday outfits. Whether I am wearing something casual or dressing up a little, the Q80 somehow fits right in.
+
+![Timex Q80 gold digital watch styled with a retro blue telephone](../../assets/blog/timex-q80/TW2Y09700_W.webp)
 
 Then there is the design itself. The round dial surrounding a rectangular digital display, paired with the more angular outer case, is such an interesting combination. The brushed surface around the display catches the light nicely, while the polished edges add just enough contrast to keep things interesting. It is a design that could easily have looked awkward, but everything comes together beautifully. The result is a watch that looks properly vintage without feeling like a cheap retro novelty.
 
@@ -33,7 +38,8 @@ Someone at Timex clearly forgot that this was supposed to be an affordable digit
 
 There is one annoyance, though. **The bracelet has no micro-adjustment**, which means getting that absolutely perfect fit can be a little difficult. Depending on your wrist, you might find yourself choosing between slightly tighter and slightly looser. It is not a dealbreaker for me, but with how good the bracelet is otherwise, having some additional adjustment would have been lovely.
 
-<!-- IMAGE 2 PLACEHOLDER: Close-up of the gold bracelet, finishing and clasp. Suggested alt text: Timex Q80 gold-tone stainless steel bracelet and clasp. -->
+![Close-up wrist shot of the Timex Q80 showing its brushed gold-tone bracelet and angular case](../../assets/blog/timex-q80/20261029_113542.jpg)
+*Photographed in the morning under natural daylight.*
 
 ## How Does It Wear?
 
@@ -43,7 +49,8 @@ What I particularly enjoy is how naturally it sits on the wrist. The relatively 
 
 There is also something refreshing about wearing a digital watch that does not look like it belongs in a gym. I love my G-Shocks, but the Q80 offers a completely different experience. It has the convenience of a digital display while looking more like a piece of vintage jewellery or an old-school dress watch. It is fun, a little unusual and surprisingly easy to wear.
 
-<!-- IMAGE 3 PLACEHOLDER: Timex Q80 gold wrist shot in natural light, showing its proportions and soft gold colour. -->
+![Timex Q80 on the wrist in warm natural light, showing its slim profile and proportions](../../assets/blog/timex-q80/20261101_040310.jpg)
+*Photographed at night under warm yellow light.*
 
 ## Simple Functions, and That Is Perfectly Fine
 
@@ -57,19 +64,25 @@ It is a minor nitpick, and certainly not something that would stop me from recom
 
 ## The Specifications
 
-| Specification | Timex Q80 Gold |
-| --- | --- |
-| Reference | TW2Y09700UJ |
-| Case diameter | 39mm |
-| Case thickness | 9.5mm |
-| Case material | Stainless steel |
-| Bracelet | Gold-tone stainless steel |
-| Movement | Quartz digital |
-| Crystal | Mineral glass |
-| Water resistance | 50 metres |
-| Backlight | Timex INDIGLO |
-| Functions | Time, calendar, alarm, stopwatch |
-| Battery | CR2016 |
+<div style="overflow-x: auto; margin: 1.5rem 0 2rem;">
+  <table style="width: 100%; min-width: 420px; border-collapse: collapse; text-align: left;">
+    <thead>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Reference</td><td style="padding: 0.7rem 1rem;">TW2Y09700UJ</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Case diameter</td><td style="padding: 0.7rem 1rem;">39mm</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Case thickness</td><td style="padding: 0.7rem 1rem;">9.5mm</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Case material</td><td style="padding: 0.7rem 1rem;">Stainless steel</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Bracelet</td><td style="padding: 0.7rem 1rem;">Gold-tone stainless steel</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Movement</td><td style="padding: 0.7rem 1rem;">Quartz digital</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Crystal</td><td style="padding: 0.7rem 1rem;">Mineral glass</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Water resistance</td><td style="padding: 0.7rem 1rem;">50 metres</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Backlight</td><td style="padding: 0.7rem 1rem;">Timex INDIGLO</td></tr>
+      <tr style="border-bottom: 1px solid var(--border);"><td style="padding: 0.7rem 1rem;">Functions</td><td style="padding: 0.7rem 1rem;">Time, calendar, alarm, stopwatch</td></tr>
+      <tr><td style="padding: 0.7rem 1rem;">Battery</td><td style="padding: 0.7rem 1rem;">CR2016</td></tr>
+    </tbody>
+  </table>
+</div>
 
 On paper, there is nothing especially extraordinary here. Mineral glass, a standard digital movement and 50 metres of water resistance are perfectly reasonable for an everyday watch. This is not something I would buy for swimming or outdoor adventures, and it is certainly not competing with a G-Shock on functionality.
 
@@ -103,8 +116,5 @@ Not every watch needs to be a technical marvel. Sometimes it just needs to look 
 
 The Q80 does all three.
 
-<a href="https://shop.timexindia.com/products/q-timex-grey-round-dial-digital-mens-watch-tw2y09700uj" target="_blank" rel="noopener noreferrer" class="buy-cta">→ View on Timex India</a>
-
-<!-- FLIPKART LINK PLACEHOLDER: Insert the correct affiliate/product link for TW2Y09700UJ here, using the buy-cta class. -->
 
 If you are looking for more watches that offer great value without sacrificing personality, take a look at our [best watches under ₹10,000](/blog/best-watches-under-10k/) guide.

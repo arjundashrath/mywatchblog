@@ -3,6 +3,7 @@ title: "Prime Day 2026 Part 2: 16 More Watches, Now With Live Sale Prices"
 description: "The Prime Day sale is live. We are back with Part 2, tracking real, current prices (after card discounts) on 16 more watches, from a ₹1,200 Timex to a ₹45,000 Seiko GMT."
 pubDate: "2026-07-05"
 tags: ["prime-day", "deals", "casio", "timex", "seiko", "citizen", "alba", "boderry", "g-shock", "india"]
+relatedPosts: ["best-watches-under-20k", "seiko-alternatives-citizen", "japanese-watches-under-50k"]
 ---
 
 The sale is live, and the prices are moving fast. [Part 1](/blog/prime-day-2026-part-1/) covered our estimated picks going into Prime Day. This is Part 2, and the big difference is that everything below is a real, current price, checked while the sale is actually running, including card discounts. No more "expected around." These are the numbers you can actually go check right now.
@@ -15,9 +16,9 @@ Let's get into it.
 
 ---
 
-# 1. The Cheapest Watch Across Both Parts
+## 1. The Cheapest Watch Across Both Parts
 
-## [Timex Classics TW000R432](https://amzn.to/4f3Dr9n) – ₹1,200 (Live Price)
+### [Timex Classics TW000R432](https://amzn.to/4f3Dr9n) – ₹1,200 (Live Price)
 
 Timex Classics TW000R432 White Dial
 
@@ -40,9 +41,9 @@ This is not a watch trying to impress anyone with complications. It is a plain t
 
 ---
 
-# 2. The Mesh Band Debut
+## 2. The Mesh Band Debut
 
-## [Casio Vintage A158WEM-3DF](https://amzn.to/4few28h) – ₹3,400 (Live Price)
+### [Casio Vintage A158WEM-3DF](https://amzn.to/4few28h) – ₹3,400 (Live Price)
 
 Casio Vintage A158WEM-3DF Mesh Band Green Dial
 
@@ -66,9 +67,9 @@ The mesh band is treated with a specialized pressing process that adds a bit of 
 
 ---
 
-# 3. The Gateway Drug, Now Cheaper
+## 3. The Gateway Drug, Now Cheaper
 
-## [Timex Weekender T2N654UJ](https://amzn.to/44Jz8ej) – ₹3,700 (Live Price)
+### [Timex Weekender T2N654UJ](https://amzn.to/44Jz8ej) – ₹3,700 (Live Price)
 
 Timex Weekender T2N654UJ Cream Dial
 
@@ -91,9 +92,9 @@ The Indiglo backlight remains the party trick that no other brand offers at this
 
 ---
 
-# 4. The Illuminator Turns 30
+## 4. The Illuminator Turns 30
 
-## [Casio Vintage A168WGG-1A](https://amzn.to/4vmPx3y) – ₹4,500 (Live Price)
+### [Casio Vintage A168WGG-1A](https://amzn.to/4vmPx3y) – ₹4,500 (Live Price)
 
 Casio Vintage A168WGG-1A Black Dial Gray Metal
 
@@ -117,9 +118,9 @@ This particular version pairs an all-black chrome case with a gray ion-plated me
 
 ---
 
-# 5. The Square That Never Gets Old
+## 5. The Square That Never Gets Old
 
-## [Casio G-Shock DW-5600UE-1DR](https://amzn.to/4fiOixf) – ₹5,000 (Live Price)
+### [Casio G-Shock DW-5600UE-1DR](https://amzn.to/4fiOixf) – ₹5,000 (Live Price)
 
 Casio G-Shock DW-5600UE-1DR Black Square
 
@@ -142,9 +143,9 @@ At under 53 grams and rated to 200 metres of water resistance, it remains one of
 
 ---
 
-# 6. The Everyday Leather Chronograph
+## 6. The Everyday Leather Chronograph
 
-## [Casio Edifice EFR-526L-7BVUDF](https://amzn.to/4w419cV) – ₹6,600 (Live Price)
+### [Casio Edifice EFR-526L-7BVUDF](https://amzn.to/4w419cV) – ₹6,600 (Live Price)
 
 Casio Edifice EFR-526L-7BVUDF Beige Dial Brown Leather
 
@@ -168,9 +169,9 @@ Under the hood, it is a proper three-subdial chronograph: a 60-minute counter at
 
 ---
 
-# 7. The Sapphire Dress Watch Nobody's Talking About
+## 7. The Sapphire Dress Watch Nobody's Talking About
 
-## [Casio Enticer BMS-100L-1AVDF](https://amzn.to/4gEj7xN) – ₹8,100 (Live Price)
+### [Casio Enticer BMS-100L-1AVDF](https://amzn.to/4gEj7xN) – ₹8,100 (Live Price)
 
 Casio Enticer BMS-100L-1AVDF Black Dial Leather
 
@@ -194,9 +195,9 @@ The black dial with a 24-hour sub-dial keeps things simple and formal, the kind 
 
 ---
 
-# 8. The Golden Twin
+## 8. The Golden Twin
 
-## [Alba AS9R10X1](https://amzn.to/4vfvDYa) – ₹9,500 (Live Price)
+### [Alba AS9R10X1](https://amzn.to/4vfvDYa) – ₹9,500 (Live Price)
 
 Alba AS9R10X1 Black Dial Golden Case
 
@@ -219,9 +220,9 @@ The brushed metal dial finish combined with the golden accents gives this versio
 
 ---
 
-# 9. The Titanium Field Watch You've Never Heard Of
+## 9. The Titanium Field Watch You've Never Heard Of
 
-## [Boderry Voyager Automatic Titanium](https://amzn.to/4woL9Sg) – ₹9,600 (Live Price)
+### [Boderry Voyager Automatic Titanium](https://amzn.to/4woL9Sg) – ₹9,600 (Live Price)
 
 Boderry Voyager Titanium Field Watch
 
@@ -246,9 +247,9 @@ At 74 grams for a full titanium case, it is noticeably lighter than an equivalen
 
 ---
 
-# 10. The Green Diver With a Day-Date
+## 10. The Green Diver With a Day-Date
 
-## [Alba AL4371X1](https://amzn.to/4y2GF5B) – ₹10,700 (Live Price)
+### [Alba AL4371X1](https://amzn.to/4y2GF5B) – ₹10,700 (Live Price)
 
 Alba AL4371X1 Green Dial Automatic Diver
 
@@ -272,9 +273,9 @@ At 42.4mm in stainless steel with a screw-down case back, it has enough wrist pr
 
 ---
 
-# 11. The Slim Chronograph With Racing Green Accents
+## 11. The Slim Chronograph With Racing Green Accents
 
-## [Casio Edifice EFR-S567DC-1AVUDF](https://amzn.to/4y4jO9C) – ₹11,800 (Live Price)
+### [Casio Edifice EFR-S567DC-1AVUDF](https://amzn.to/4y4jO9C) – ₹11,800 (Live Price)
 
 Casio Edifice EFR-S567DC-1AVUDF Black Slim Sapphire
 
@@ -298,9 +299,9 @@ The green accents on the four bezel screws are a small but effective detail that
 
 ---
 
-# 12. The Metal-Clad Giant
+## 12. The Metal-Clad Giant
 
-## [Casio G-Shock GM-110BB-1ADR](https://amzn.to/4p2VoJq) – ₹15,600 (Live Price)
+### [Casio G-Shock GM-110BB-1ADR](https://amzn.to/4p2VoJq) – ₹15,600 (Live Price)
 
 Casio G-Shock GM-110BB-1ADR Black Metal Bezel
 
@@ -324,9 +325,9 @@ This particular colorway goes fully monochromatic: black ion-plated bezel, black
 
 ---
 
-# 13. The 70s Throwback in a Post-Hike World
+## 13. The 70s Throwback in a Post-Hike World
 
-## [Seiko 5 SRPK89K1](https://amzn.to/3TiyPVl) – ₹27,000 (Live Price)
+### [Seiko 5 SRPK89K1](https://amzn.to/3TiyPVl) – ₹27,000 (Live Price)
 
 Seiko 5 SRPK89K1 Black Wash Dial Orange Hand
 
@@ -350,9 +351,9 @@ The deep black wash dial uses diamond-cut, finely grooved hour markers and non-t
 
 ---
 
-# 14. The Teal Dial Everyone's Talking About
+## 14. The Teal Dial Everyone's Talking About
 
-## [Citizen Tsuyosa NJ0151-88X](https://amzn.to/44aYCkQ) – ₹33,000 (Live Price)
+### [Citizen Tsuyosa NJ0151-88X](https://amzn.to/44aYCkQ) – ₹33,000 (Live Price)
 
 Citizen Tsuyosa NJ0151-88X Teal Gradient Dial
 
@@ -377,9 +378,9 @@ The 316L stainless steel case is finished to a level well above what you would e
 
 ---
 
-# 15. Tsuyosa's Dressier Sibling
+## 15. Tsuyosa's Dressier Sibling
 
-## [Citizen Tsuyosa NK5010-01H](https://amzn.to/4fiABhN) – ₹40,000 (Live Price)
+### [Citizen Tsuyosa NK5010-01H](https://amzn.to/4fiABhN) – ₹40,000 (Live Price)
 
 Citizen Tsuyosa NK5010-01H Gray Leather Small Seconds
 
@@ -404,9 +405,9 @@ The recessed crown at 4 o'clock keeps the sleek integrated silhouette that defin
 
 ---
 
-# 16. The GMT for the Splurge List
+## 16. The GMT for the Splurge List
 
-## [Seiko 5 Sports SKX GMT SSK033K1](https://amzn.to/448bok3) – ₹45,000 (Live Price)
+### [Seiko 5 Sports SKX GMT SSK033K1](https://amzn.to/448bok3) – ₹45,000 (Live Price)
 
 Seiko 5 Sports SKX GMT SSK033K1 Blue White
 
@@ -430,7 +431,7 @@ The "beads of rice" bracelet is a direct callback to the classic SKX heritage, i
 
 ---
 
-# Final Thoughts
+## Final Thoughts
 
 That is Part 2 done: sixteen more watches, real live pricing, and a range that finally stretches all the way up to ₹45,000. Between this and [Part 1](/blog/prime-day-2026-part-1/), that is 34 watches covered across this Prime Day, so between the two guides there really should be something for every budget.
 

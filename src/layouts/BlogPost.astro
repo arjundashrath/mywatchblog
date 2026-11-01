@@ -5,14 +5,15 @@ import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import FormattedDate from "../components/FormattedDate.astro";
 import Header from "../components/Header.astro";
-import { categoryLabels, tagLabel, type ArticleCategory, type PriceRange } from "../utils/taxonomy";
+import { categoryLabels, getTaxonomy, tagLabel, type ArticleCategory, type PriceRange } from "../utils/taxonomy";
 
 type Props = CollectionEntry<"blog">["data"] & {
 	related?: CollectionEntry<"blog">[];
+	contents?: { depth: number; slug: string; text: string }[];
 	taxonomy?: { category: ArticleCategory; priceRange: PriceRange; tags: string[] };
 };
 
-const { title, description, pubDate, updatedDate, heroImage, related = [], taxonomy } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, related = [], taxonomy, contents = [] } = Astro.props;
 ---
 
 <html lang="en-IN">
@@ -44,6 +45,13 @@ const { title, description, pubDate, updatedDate, heroImage, related = [], taxon
 						)}
 					</div>
 					<p class="affiliate-disclosure">Buying through our links supports The Wrist Journal at no extra cost to you. <a href="/affiliate-disclosure">Learn more</a>.</p>
+					{taxonomy?.category === 'buying-guides' && <p class="guide-link"><a href="/watch-buying-guides/">Find a watch guide by budget or style →</a></p>}
+					{contents.length >= 5 && (
+						<details class="article-contents">
+							<summary>Jump to a section</summary>
+							<nav aria-label="Article sections"><ul>{contents.map((heading) => <li><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ul></nav>
+						</details>
+					)}
 					<slot />
 				</div>
 			</article>
@@ -54,7 +62,7 @@ const { title, description, pubDate, updatedDate, heroImage, related = [], taxon
 					<h2>More from The Wrist Journal</h2>
 					<div class="related-grid">
 						{related.map((post) => (
-							<a class="related-card" href={`/blog/${post.id}/`}>
+							<a class="related-card" href={`/blog/${post.id}/`} data-category={getTaxonomy(post).category}>
 								<strong>{post.data.title}</strong>
 								<span>{post.data.description}</span>
 							</a>
@@ -89,6 +97,11 @@ const { title, description, pubDate, updatedDate, heroImage, related = [], taxon
 			.article-tags a { padding: .35em .65em; background: var(--bg-subtle); border-radius: 999px; color: var(--text-secondary); font-size: .75rem; text-decoration: none; }
 			.affiliate-disclosure { font-size: .8rem; color: var(--text-muted); font-style: italic; margin: 0 0 2em; line-height: 1.4; }
 			.affiliate-disclosure a { color: inherit; }
+			.guide-link { font-size: .9rem; }
+			.article-contents { padding: 1em; margin-bottom: 2em; border: 1px solid var(--border); border-radius: var(--radius); background: var(--bg-subtle); }
+			.article-contents summary { cursor: pointer; font-weight: 600; }
+			.article-contents ul { padding-left: 1.3em; font-size: .9rem; }
+			.prose :global(h2), .prose :global(h3) { scroll-margin-top: 90px; }
 			.related-section { max-width: 720px; margin: 0 auto 2em; padding: 2em 1em; border-top: 1px solid var(--border); }
 			.related-eyebrow { margin: 0 0 .35em; font-size: .75rem; color: var(--accent); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
 			.related-section h2 { margin: 0 0 1em; }

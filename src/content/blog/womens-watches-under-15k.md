@@ -6,6 +6,7 @@ category: "buying-guides"
 priceRange: "10k-25k"
 tags: ["budget", "guide", "womens-watches", "casio", "timex", "swatch", "g-shock", "india"]
 heroImage: "../../assets/blog/womens-watches/TWEL21401_3.webp"
+relatedPosts: ["best-watches-under-5k", "what-makes-a-good-watch", "where-to-buy-watches-in-india"]
 ---
 
 We have spent quite a bit of time finding watches [under ₹5,000](https://thewristjournal.com/blog/best-watches-under-5k/), [under ₹10,000](https://thewristjournal.com/blog/best-watches-under-10k/) and, more recently, [under ₹20,000](https://thewristjournal.com/blog/best-watches-under-20k/). This time, we are looking at the part of the watch counter that usually gets described with some combination of “elegant,” “timeless” and “perfect for her.” Which tells you approximately nothing about the watch. There are some lovely options here, from tiny gold digitals and proper sports watches to dials that deserve much better product photographs.
@@ -17,6 +18,8 @@ The picks below run from cheapest to most expensive, with two clearly marked opt
 **Jump to a price range:** [Under ₹3,000](#under-3000) · [₹3,000–₹5,000](#3000-to-5000) · [₹5,000–₹8,000](#5000-to-8000) · [₹8,000–₹10,000](#8000-to-10000) · [₹10,000–₹15,000](#10000-to-15000) · [Just above ₹15,000](#above-15000)
 
 <a id="under-3000"></a>
+
+If you are shopping at the lower end of this range, our [watch picks under ₹5,000](/blog/best-watches-under-5k/) offer more designs to compare. A watch does not have to live in the women's catalogue to suit a smaller wrist; the case dimensions and fit matter more than the label.
 
 ## 1. Burgundy on a Budget
 

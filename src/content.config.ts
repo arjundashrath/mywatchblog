@@ -10,6 +10,7 @@ const blog = defineCollection({
 		z.object({
 			title: z.string(),
 			description: z.string(),
+			relatedPosts: z.array(z.string()).max(3).refine((ids) => new Set(ids).size === ids.length, 'Related articles must be unique').optional(),
 			// Transform string to Date object
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),

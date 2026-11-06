@@ -1,0 +1,14 @@
+{
+  // A preview-only mirror of the Astro site. GitHub Pages remains production.
+  "name": "thewristjournal-preview",
+  "compatibility_date": "2026-11-06",
+  "workers_dev": false,
+  "preview_urls": true,
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  // Worker Previews require a previews block even when no extra bindings are needed.
+  "previews": {}
+}

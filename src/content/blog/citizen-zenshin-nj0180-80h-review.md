@@ -8,6 +8,26 @@ tags: ["citizen", "zenshin", "super-titanium", "automatic", "review", "watches-i
 heroImage: "../../assets/blog/zenshin/NJ0180-80H_1.jpg"
 ---
 
+<style>
+  .prose table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .prose table th,
+  .prose table td {
+    padding: 0.55em 0.65em;
+    text-align: left;
+    vertical-align: top;
+    overflow-wrap: break-word;
+  }
+
+  .prose table th:first-child {
+    width: 40%;
+  }
+</style>
+
 There are some watches that you fall in love with the moment you see them, and then there are watches that convince you to buy them after you spend a little too much time reading their specifications. The Citizen Zenshin Super Titanium Automatic falls somewhere in between. A beautifully textured dial, an integrated titanium bracelet, sapphire crystal, 100 metres of water resistance and a Japanese automatic movement. It sounds like Citizen decided to take everything watch enthusiasts complain about and fix it in one go.
 
 The problem is that its Indian MRP is ₹64,900, which is a fair bit of money for a Citizen automatic. However, during Flipkart's Big Billion Days sale, I managed to pick up the grey NJ0180-80H for approximately ₹35,000. That is nearly half its MRP, and at that price, the watch becomes a considerably more interesting proposition.

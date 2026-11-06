@@ -5,6 +5,7 @@ pubDate: "2026-11-07"
 category: "reviews"
 priceRange: "25k-50k"
 tags: ["citizen", "zenshin", "super-titanium", "automatic", "review", "watches-india"]
+heroImage: "../../assets/blog/zenshin/NJ0180-80H_1.jpg"
 ---
 
 There are some watches that you fall in love with the moment you see them, and then there are watches that convince you to buy them after you spend a little too much time reading their specifications. The Citizen Zenshin Super Titanium Automatic falls somewhere in between. A beautifully textured dial, an integrated titanium bracelet, sapphire crystal, 100 metres of water resistance and a Japanese automatic movement. It sounds like Citizen decided to take everything watch enthusiasts complain about and fix it in one go.
@@ -13,17 +14,13 @@ The problem is that its Indian MRP is ₹64,900, which is a fair bit of money fo
 
 Having spent time with it, I have slightly mixed feelings. There is plenty to love about the Zenshin, particularly the dial and just how ridiculously light it feels. But for all its impressive specifications, I cannot say it completely blew me away in person. It is a very good watch, just not quite the extraordinary one that the spec sheet had me expecting.
 
-<!-- PHOTO TODO: Add an owned NJ0180-80H full-watch photo here, showing the grey textured dial and titanium bracelet. Also set heroImage in frontmatter once the image is available. -->
-
 ## That Dial Is Something Else in Sunlight
 
 The dial is undoubtedly the biggest visual attraction of the Zenshin, and under the right lighting, it is absolutely beautiful. Citizen has given it a wonderfully detailed texture that catches sunlight in a way that photographs struggle to reproduce. As you move your wrist, the light plays across the surface, revealing different shades of grey and making the pattern look almost three-dimensional. It is the kind of dial that makes you spend a few extra seconds staring at your wrist when you really should be doing something more productive.
 
 Unfortunately, the magic depends quite heavily on the lighting. Indoors, particularly under dim or flat lighting, the grey dial loses much of its character and starts looking like a fairly ordinary dark grey watch face. The texture is still there, of course, but it is far less noticeable. I found this a little disappointing because the spectacular dial you see in promotional photographs is not necessarily the dial you will be looking at throughout the day.
 
-<!-- PHOTO TODO: Add a close-up of the grey textured dial in direct sunlight. -->
-
-<!-- PHOTO TODO: Add a photo of the same dial in normal indoor lighting to show the difference. -->
+![Citizen Zenshin NJ0180-80H on the wrist, highlighting its textured grey dial](../../assets/blog/zenshin/Hand-zenshin.jpg)
 
 I also noticed that the darker dial and black outer minute ring do not always provide the visual contrast I would have liked, particularly when seeing the watch on some darker skin tones. The lighter dial variants might be worth considering if you prefer a watch that stands out a little more against your wrist. Of course, this comes down to personal taste, but it is one of those things that is difficult to judge from product photographs alone.
 
@@ -39,7 +36,7 @@ It is almost confusing at first. We have become so accustomed to associating hea
 
 But that is precisely the appeal of titanium. Once you get used to it, the comfort is fantastic. The watch does not disappear completely on your wrist, but it comes surprisingly close for something with these dimensions. If you regularly wear heavier stainless steel watches, the difference is immediately noticeable, and I can see this being a major selling point for someone looking for an everyday automatic.
 
-<!-- PHOTO TODO: Add an owned NJ0180-80H wrist shot showing the case and integrated titanium bracelet. -->
+![Citizen Zenshin NJ0180-80H wrist shot showing the Super Titanium case and integrated bracelet](../../assets/blog/zenshin/Wrist-Shot.jpg)
 
 The case and bracelet have a predominantly brushed finish with polished accents, giving the watch a fairly understated appearance. I like the overall design, particularly how the bracelet flows into the case rather than looking like a separate component attached to it. The finishing is good, and the watch certainly looks well put together, although I would not describe it as exceptionally luxurious.
 
@@ -93,16 +90,6 @@ My hands-on impressions in this review are based on the grey variant. The other 
 | NJ0180-80X | Green |
 | NJ0180-80Z | Salmon / orange |
 
-<!-- PHOTO TODO: Add Citizen Zenshin NJ0180-80A white dial image. -->
-
-<!-- PHOTO TODO: Add Citizen Zenshin NJ0180-80L blue dial image. -->
-
-<!-- PHOTO TODO: Add Citizen Zenshin NJ0180-80M light blue dial image. -->
-
-<!-- PHOTO TODO: Add Citizen Zenshin NJ0180-80X green dial image. -->
-
-<!-- PHOTO TODO: Add Citizen Zenshin NJ0180-80Z salmon/orange dial image. -->
-
 Personally, I think the lighter blue and green variants are particularly interesting because they give the textured dial a more distinctive appearance. The white version looks like a sensible choice if you want something understated, while the salmon/orange version has a little more personality. I would strongly recommend seeing these watches in person before deciding, because my experience with the grey dial has shown just how dramatically the lighting can change their appearance.
 
 The core specifications are largely the same across these variants, so your decision really comes down to which colour appeals to you. I would not necessarily recommend choosing the most popular colour or the one that looks best in a carefully lit product photograph. Try it on, look at it under normal indoor lighting, and then see what happens when you take it outside. You might end up preferring a completely different version.
@@ -118,11 +105,6 @@ For that money, you are getting a full Super Titanium automatic with a sapphire 
 I recently [reviewed the Seiko SRPL57K1](/blog/seiko-srpl57k1-review/), and while I genuinely love that watch's design, its ₹40,000 MRP and Hardlex crystal are difficult to ignore when something like the Zenshin can occasionally be found for less. The Seiko has its own character, and I actually find its dial more consistently appealing in everyday lighting. But if we are comparing what you get for your money, a heavily discounted Zenshin is an extremely convincing alternative.
 
 I would consider anything below ₹40,000 a very attractive deal, provided you like the design. Between ₹40,000 and ₹50,000, I would be a little more selective. At the full ₹65,000, I would personally look at other options before making the decision.
-
-<!-- AFFILIATE TODO: Add verified Amazon affiliate URL using an <a class="buy-cta"> button once available. -->
-<!-- AFFILIATE TODO: Add verified Flipkart affiliate URL using an <a class="buy-cta"> button only if approved. -->
-
-<a href="https://www.citizenwatches.store/products/zenshin/nj0180-80h" target="_blank" rel="noopener noreferrer" class="buy-cta">View on Citizen India</a>
 
 ## The Verdict
 

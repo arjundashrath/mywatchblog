@@ -1,0 +1,90 @@
+name: Import two new Orient Mako photos
+
+on:
+  push:
+    branches:
+      - article/orient-mako-40-review
+    paths:
+      - .github/workflows/import-orient-additional-photos.yml
+
+permissions:
+  contents: write
+
+jobs:
+  import-photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install image download and verification libraries
+        run: python -m pip install gdown==5.2.0 Pillow==11.3.0
+      - name: Download, inspect, and commit authentic images
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from tempfile import TemporaryDirectory
+          import hashlib
+          import gdown
+          from PIL import Image, ImageOps, ImageStat
+          
+          # The links were supplied in this order: indoor artificial light, then normal shot.
+          photos = [
+              ("artificial-lighting", "1HCGfdUGAhsJ_7tPiQqWx555XNYwKuXIc", "mako-40-artificial-lighting.jpg"),
+              ("normal", "12oi4068oQDvYtaP8pX7FG8y6KP9EZdC1", "mako-40-normal-shot.jpg"),
+          ]
+          out = Path('src/assets/blog/orient-mako-40')
+          out.mkdir(parents=True, exist_ok=True)
+          with TemporaryDirectory() as temp:
+              for label, drive_id, filename in photos:
+                  src = Path(temp) / (label + ".download")
+                  if not gdown.download(id=drive_id, output=str(src), quiet=False):
+                      raise RuntimeError(f'Could not download {label} from shared Drive URL')
+                  if not src.is_file() or not (10000 < src.stat().st_size < 15000000):
+                      raise RuntimeError(f'Unexpected {label} file size')
+                  with Image.open(src) as raw:
+                      raw.verify()
+                  with Image.open(src) as raw:
+                      if raw.format not in ('JPEG', 'WEBP', 'PNG'):
+                          raise RuntimeError(f'Expected image, received {raw.format}')
+                      im = ImageOps.exif_transpose(raw).convert('RGB')
+                      original_size = im.size
+                      stats = ImageStat.Stat(im.resize((100, 100))).mean
+                      if min(im.size) < 450:
+                          raise RuntimeError(f'Image resolution too low for {label}: {im.size}')
+                      im.thumbnail((2200, 2200), Image.Resampling.LANCZOS)
+                      dst = out / filename
+                      im.save(dst, "JPEG", quality=90, optimize=True, progressive=True)
+                  with Image.open(dst) as verify:
+                      verify.verify()
+                  print(f'VERIFIED {label}: source {original_size}, RGB mean {[round(x,1) for x in stats]}, output {dst.stat().st_size} bytes, sha256 {hashlib.sha256(dst.read_bytes()).hexdigest()}')
+          # Patch the existing approved review only after both images are verified.
+          article_path = Path('src/content/blog/orient-mako-40-review.md')
+          article = article_path.read_text()
+          old_hero = 'heroImage: "../../assets/blog/orient-mako-40/mako-40-wrist-shot.jpg"'
+          new_hero = 'heroImage: "../../assets/blog/orient-mako-40/mako-40-normal-shot.jpg"'
+          if article.count(old_hero) != 1:
+              raise RuntimeError('Unexpected heroImage in article; refusing to overwrite')
+          article = article.replace(old_hero, new_hero)
+          # Avoid repeating the new hero inline; show the original wrist photo for context.
+          heading = '## White and Silver Done Right'
+          if article.count(heading) != 1:
+              raise RuntimeError('Expected exactly one dial section heading')
+          article = article.replace(heading, '![White Orient Mako 40 photographed on the wrist, showing its silver bracelet and bezel](../../assets/blog/orient-mako-40/mako-40-wrist-shot.jpg)\n\n' + heading, 1)
+          dial_section = '## The Beater Watch That Actually Takes a Beating'
+          if article.count(dial_section) != 1:
+              raise RuntimeError('Expected exactly one durability section heading')
+          article = article.replace(dial_section, '![White Orient Mako 40 photographed under artificial indoor lighting](../../assets/blog/orient-mako-40/mako-40-artificial-lighting.jpg)\n\n' + dial_section, 1)
+          article_path.write_text(article)
+          PY
+      - name: Push only verified images and article update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/assets/blog/orient-mako-40/mako-40-artificial-lighting.jpg src/assets/blog/orient-mako-40/mako-40-normal-shot.jpg src/content/blog/orient-mako-40-review.md
+          git diff --cached --check
+          git diff --cached --quiet && exit 0
+          git commit -m "Add two Mako photos and switch to product hero image"
+          git push origin HEAD:article/orient-mako-40-review

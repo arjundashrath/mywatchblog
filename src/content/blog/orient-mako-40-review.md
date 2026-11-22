@@ -34,8 +34,6 @@ But what really sold me on this watch wasn't the specifications. It was how effo
 
 And here's the thing. Even though I paid ₹23,000, I honestly wouldn't mind paying ₹35,000 for it. That's how highly I rate this watch.
 
-*Original wrist photograph of my white-dial Orient Mako 40. The same image appears as the article hero.*
-
 ## White and Silver Done Right
 
 The first thing that attracted me to this particular Mako 40 was the colour combination. White dial, silver case, silver bracelet and a matching stainless steel bezel. It's incredibly clean, and there's something about how understated the whole design is that makes it look far more sophisticated than a typical sports watch.

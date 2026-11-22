@@ -4,6 +4,7 @@ description: "A long-term Orient Mako 40 RA-AC0Q03S review in India, covering it
 pubDate: "2026-11-22"
 category: "reviews"
 priceRange: "25k-50k"
+heroImage: "../../assets/blog/orient-mako-40/mako-40-wrist-shot.jpg"
 tags: ["orient", "mako-40", "kamasu", "bambino", "automatic", "review", "watches-india"]
 ---
 
@@ -32,6 +33,8 @@ I bought the white-dial RA-AC0Q03S in 2024 for approximately ₹23,000, and it h
 But what really sold me on this watch wasn't the specifications. It was how effortlessly it fitted into my life. I've worn it with just about everything, subjected it to the sort of everyday use a proper sports watch should be able to handle, and received more compliments and questions about it than I ever expected. It's become my favourite beater watch, which is rather impressive considering how good it looks.
 
 And here's the thing. Even though I paid ₹23,000, I honestly wouldn't mind paying ₹35,000 for it. That's how highly I rate this watch.
+
+*Original wrist photograph of my white-dial Orient Mako 40. The same image appears as the article hero.*
 
 ## White and Silver Done Right
 
@@ -122,6 +125,8 @@ I've also had the opportunity to try several Mako and Kamasu models at a store, 
 
 The Kamasu is particularly worth considering if you prefer a more traditional-looking dive watch. Common Kamasu variants have a larger case, a day-date display and the same broad value-first attitude that makes Orient so appealing.
 
+![Blue Orient Kamasu on a stainless steel bracelet, shown as an alternative to the Mako 40](../../assets/blog/orient-mako-40/orient-kamasu.jpg)
+
 Personally, I love how restrained the Mako 40 looks. The smaller case and cleaner dial make it more versatile for my wardrobe, and I wouldn't necessarily trade that simplicity for a busier design. But I can absolutely understand why someone would prefer the more traditional appearance of a Kamasu.
 
 My experience with the Mako 40 has made me a huge fan of Orient as a brand, and I'd happily recommend exploring the rest of its Mako and Kamasu collections.
@@ -129,6 +134,8 @@ My experience with the Mako 40 has made me a huge fan of Orient as a brand, and 
 And we haven't even talked about the Bambino yet.
 
 It's one of the most highly regarded affordable automatic dress-watch collections, and for good reason. The vintage-inspired designs, elegant proportions and old-school charm make these watches incredibly appealing. If you're considering a Seiko Presage, I genuinely think the Bambino deserves a look too. The Presage collection has some fantastic dials, but the Bambino is such a lovely, credible alternative for someone who wants a stylish automatic dress watch without getting carried away.
+
+![Orient Bambino automatic dress watch with a light dial and dark leather strap](../../assets/blog/orient-mako-40/orient-bambino.jpg)
 
 I haven't spent extended time wearing a Bambino, so I won't pretend this is a hands-on comparison. But between my experience with the Mako 40, trying the other sports models and the reputation the Bambino has earned among enthusiasts, Orient is a brand I would strongly encourage Indian buyers to explore. Just keep an eye on the pricing, because even a fantastic watch can become a questionable deal if the Indian markup gets too ambitious.
 

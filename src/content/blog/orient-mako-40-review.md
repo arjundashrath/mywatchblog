@@ -4,7 +4,7 @@ description: "A long-term Orient Mako 40 RA-AC0Q03S review in India, covering it
 pubDate: "2026-11-22"
 category: "reviews"
 priceRange: "25k-50k"
-heroImage: "../../assets/blog/orient-mako-40/mako-40-wrist-shot.jpg"
+heroImage: "../../assets/blog/orient-mako-40/mako-40-normal-shot.jpg"
 tags: ["orient", "mako-40", "kamasu", "bambino", "automatic", "review", "watches-india"]
 ---
 
@@ -34,6 +34,8 @@ But what really sold me on this watch wasn't the specifications. It was how effo
 
 And here's the thing. Even though I paid ₹23,000, I honestly wouldn't mind paying ₹35,000 for it. That's how highly I rate this watch.
 
+![White Orient Mako 40 photographed on the wrist, showing its silver bracelet and bezel](../../assets/blog/orient-mako-40/mako-40-wrist-shot.jpg)
+
 ## White and Silver Done Right
 
 The first thing that attracted me to this particular Mako 40 was the colour combination. White dial, silver case, silver bracelet and a matching stainless steel bezel. It's incredibly clean, and there's something about how understated the whole design is that makes it look far more sophisticated than a typical sports watch.
@@ -45,6 +47,8 @@ What I particularly love is how versatile it is. The white and silver combinatio
 And people notice it. I've genuinely had so many people ask me about this watch, which is funny because it isn't particularly flashy. There are no wild colours or complicated details demanding attention. It just looks incredibly good.
 
 Some people might find this particular version a little too plain, and I can understand that. If you prefer bold colours or watches that immediately grab attention, the white Mako might not be your first choice. Personally, though, that simplicity is exactly what makes it so appealing. It feels subtle, versatile and sophisticated without looking like it's trying too hard.
+
+![White Orient Mako 40 photographed under artificial indoor lighting](../../assets/blog/orient-mako-40/mako-40-artificial-lighting.jpg)
 
 ## The Beater Watch That Actually Takes a Beating
 

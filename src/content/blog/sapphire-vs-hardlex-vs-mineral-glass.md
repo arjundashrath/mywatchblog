@@ -81,11 +81,13 @@ And this brings us to the main complaint enthusiasts have with Hardlex: its pric
 
 My [Seiko SRPL57K1](/blog/seiko-srpl57k1-review/) has a curved Hardlex crystal and an Indian MRP of ₹40,000. At that price, I absolutely think it is fair to expect sapphire, particularly when competing watches offer it. Seiko isn't selling us a ₹5,000 beater here, and at ₹40,000, compromises deserve a little more scrutiny.
 
-That said, I wouldn't automatically dismiss Hardlex either. Its usefulness depends on the complete crystal construction and the watch surrounding it. A well-shaped, properly fitted Hardlex crystal can still be a lovely part of a watch, even if the material itself is less impressive on a specification sheet.
+I originally felt quite forgiving about it because the curved crystal looked excellent on the watch. But there's an important update to that experience. My Seiko had been worn fewer than ten times when I discovered a deep scratch along one side after leaving it in a drawer with other things. I'm not especially precious about how I store my watches, and the others have survived the same treatment without a scratch like this. This Seiko didn't, which was a rather unpleasant surprise for something practically new.
+
+I can't tell you exactly what it rubbed against in the drawer, and this isn't a controlled test proving sapphire would have survived the same contact. But it's no longer a hypothetical complaint about Hardlex on a spec sheet. I now have a deep scratch on a watch with a ₹40,000 MRP, and that genuinely changes how I feel about the compromise. A crystal can look beautiful and still leave you wishing the manufacturer had chosen something more scratch-resistant.
 
 ![Seiko SRPL57K1 on the wrist, showing the dark green dial beneath its curved Hardlex crystal](../../assets/blog/Seiko-srpl57k1/almost_blac.jpg)
 
-*The curved Hardlex on my Seiko SRPL57K1 complements the watch's rounded case.*
+*An existing photograph of the Seiko from its original review. The newer scratch isn't documented in this image.*
 
 ## Mineral Glass and Acrylic: Are They Really That Bad?
 
@@ -137,7 +139,7 @@ Two watches I've reviewed illustrate why I find this topic particularly interest
 
 The Seiko SRPL57K1 uses curved Hardlex, while the [Citizen Zenshin NJ0180-80H](/blog/citizen-zenshin-nj0180-80h-review/) comes with sapphire crystal. The Citizen has the clear technical advantage in scratch resistance, but my experience with the two watches was quite different.
 
-I absolutely loved the Seiko's emerald-green dial, gold accents and rounded case. Its curved Hardlex crystal suited the design beautifully, and I found the dial clear and attractive throughout my time with the watch. I would still have preferred sapphire at its asking price, but the crystal didn't make the Seiko feel cheap or unpleasant to wear.
+I absolutely loved the Seiko's emerald-green dial, gold accents and rounded case. Its curved Hardlex crystal suited the design beautifully, and I found the dial clear and attractive when I reviewed it. Since then, the deep scratch it picked up in the drawer has made me much less willing to overlook the crystal choice. The design hasn't become any less lovely, but the ownership experience has taken a hit.
 
 The Citizen, meanwhile, impressed me with its specifications, particularly the sapphire crystal and lightweight titanium construction. However, I had more mixed feelings about the watch itself. Its textured grey dial looked fantastic in sunlight but became considerably less interesting under ordinary indoor lighting.
 
@@ -145,7 +147,7 @@ The Citizen, meanwhile, impressed me with its specifications, particularly the s
 
 Now, that doesn't mean Hardlex looks better than sapphire, or that the Seiko has superior optical performance. I haven't conducted controlled tests of the crystals, and the watches have very different dials and designs. What it does illustrate is how differently two complete watches can make you feel, even when one has a clear advantage in materials.
 
-The Seiko's crystal is a specification I would criticise, but it hasn't stopped me from appreciating the watch. The Citizen's sapphire is an advantage I genuinely value, even though I wasn't quite as enthusiastic about the overall ownership experience.
+The Seiko is still the watch whose design I prefer, but I can't dismiss its Hardlex as a minor compromise after seeing that scratch. The Citizen's sapphire is an advantage I value more now, even though I wasn't quite as enthusiastic about its overall design.
 
 ## Can You Replace Hardlex or Mineral Glass With Sapphire?
 
@@ -177,8 +179,8 @@ We've discussed this broader idea in [What Makes a Watch Actually Good?](/blog/w
 
 If I had to choose one crystal material for an everyday watch without knowing anything else about it, I would choose sapphire. Its scratch resistance is excellent, and for something that spends years exposed on your wrist, that's a benefit I genuinely value.
 
-But Hardlex, mineral glass and even acrylic still have their place. A ₹5,000 watch with mineral glass can offer excellent value, while a ₹40,000 Seiko with Hardlex deserves some criticism even if the watch itself is beautiful. What matters is whether the crystal makes sense for the watch, its price and how you intend to use it.
+But Hardlex, mineral glass and even acrylic still have their place. A ₹5,000 watch with mineral glass can offer excellent value. My ₹40,000 Seiko, on the other hand, has already picked up a deep scratch despite being worn fewer than ten times, and I can't pretend that hasn't affected my opinion. That doesn't make every Hardlex crystal destined to scratch, but it does make the price and the way you store and wear a watch more important considerations.
 
-I would love to see sapphire become standard across more affordable and mid-range watches, particularly in India where buyers have plenty of competing options. There is no reason to pretend Hardlex offers the same scratch resistance when it clearly doesn't, but there is equally little reason to dismiss a watch you genuinely love because of one material choice.
+I would love to see sapphire become standard across more affordable and mid-range watches, particularly in India where buyers have plenty of competing options. I still love the Seiko's design, but I'd be much more cautious about recommending it at full price now. There is no reason to pretend Hardlex offers the same scratch resistance when it clearly doesn't.
 
 After all, the crystal is supposed to help you appreciate the dial underneath. It would be a shame to become so obsessed with the glass that we forget to look at the watch.

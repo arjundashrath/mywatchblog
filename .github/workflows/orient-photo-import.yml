@@ -28,7 +28,7 @@ jobs:
           import hashlib
           import tempfile
           import gdown
-          from PIL import Image
+          from PIL import Image, ImageOps
           ids = [
               '177x2JjHgyThUGJfuCixOSHz7qdcqXnto',
               '1_Dmeg8ie3PGZEXXz3wI1s6fRsnjxgE6L',
@@ -47,34 +47,25 @@ jobs:
                       raise RuntimeError(f'File {number}: exceeds the 15 MB safety limit')
                   with Image.open(path) as im:
                       im.verify()
-                  with Image.open(path) as im:
-                      width, height = im.size
-                      kind = im.format
-                  if kind not in ('JPEG', 'WEBP', 'PNG'):
-                      raise RuntimeError(f'File {number}: unsupported image type {kind}')
-                  # Identify by photo proportions, not the order in which the links were pasted.
-                  if width > height:
-                      label = 'kamasu'
-                  elif width / height > 0.70:
-                      label = 'mako'
-                  else:
-                      label = 'bambino'
-                  if label in mapped:
-                      raise RuntimeError(f'Duplicate photo classification: {label}')
+                  # The public Drive links were supplied in the same order as the three photos.
+                  label = ('mako', 'kamasu', 'bambino')[number - 1]
                   destination = output / {
                     'mako':'mako-40-wrist-shot.jpg',
                     'kamasu':'orient-kamasu.jpg',
                     'bambino':'orient-bambino.jpg'
                   }[label]
-                  if kind != 'JPEG':
-                      with Image.open(path) as im:
-                          im.convert('RGB').save(destination, 'JPEG', quality=91, optimize=True)
-                  else:
-                      destination.write_bytes(path.read_bytes())
+                  with Image.open(path) as im:
+                      if im.format not in ('JPEG', 'WEBP', 'PNG'):
+                          raise RuntimeError(f'File {number}: unsupported image type {im.format}')
+                      # Respect phone-camera EXIF orientation and make sensible web-sized JPEGs.
+                      im = ImageOps.exif_transpose(im).convert('RGB')
+                      width, height = im.size
+                      im.thumbnail((2000, 2000), Image.Resampling.LANCZOS)
+                      im.save(destination, 'JPEG', quality=90, optimize=True, progressive=True)
                   mapped[label] = destination
                   with Image.open(destination) as check:
                       check.verify()
-                  print(f'Verified {label}: {width}x{height}; {destination.stat().st_size} bytes; SHA256 {hashlib.sha256(destination.read_bytes()).hexdigest()}')
+                  print(f'Verified {label}: source {width}x{height}; output {destination.stat().st_size} bytes; SHA256 {hashlib.sha256(destination.read_bytes()).hexdigest()}')
           if set(mapped) != {'mako', 'kamasu', 'bambino'}:
               raise RuntimeError(f'Expected all three photographs; found {list(mapped)}')
 

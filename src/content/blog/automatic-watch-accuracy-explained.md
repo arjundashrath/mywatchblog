@@ -3,6 +3,7 @@ title: "Why Does Your Automatic Watch Gain or Lose Time? And How Much Is Normal?
 description: "Automatic watch running fast or slow? Understand daily accuracy, Seiko movement tolerances, magnetism, and how to check your watch at home."
 pubDate: "2026-11-23"
 category: "learn"
+heroImage: "../../assets/blog/automatic-watch-accuracy/hero.jpg"
 tags: ["automatic", "mechanical-watches", "accuracy", "seiko", "watch-care", "horology", "watches-india"]
 ---
 

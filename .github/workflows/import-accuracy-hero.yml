@@ -26,8 +26,8 @@ jobs:
           from PIL import Image
           from pathlib import Path
           src = Path('/tmp/automatic-watch-hero')
-          url = 'https://drive.google.com/file/d/1_Np5UA_6VTWNKGShumN_3czFyWdg2xvH/view'
-          result = gdown.download(url=url, output=str(src), fuzzy=True, quiet=False)
+          file_id = '1_Np5UA_6VTWNKGShumN_3czFyWdg2xvH'
+          result = gdown.download(id=file_id, output=str(src), quiet=False)
           if not result:
               raise RuntimeError('Could not download Google Drive image. Ensure link access is enabled.')
           with Image.open(src) as im:

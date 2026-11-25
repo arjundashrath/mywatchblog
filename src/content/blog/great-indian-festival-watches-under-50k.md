@@ -6,6 +6,7 @@ category: "deals"
 priceRange: "25k-50k"
 tags: ["great-indian-festival", "deals", "casio", "timex", "citizen", "seiko", "ratio", "boderry", "alba", "invicta", "ciga-design", "india"]
 heroImage: "../../assets/blog/GIF-2026/NJ0152-51X.jpg"
+relatedPosts: ["best-watches-under-10k", "best-watches-under-20k", "japanese-watches-under-50k"]
 ---
 
 The Great Indian Festival is nearly here, which means the watch section is about to become a sea of crossed-out prices, countdown timers and discounts large enough to make you wonder whether anyone ever paid the original amount. Sometimes there is a properly good watch hiding underneath all of that. Sometimes the watch was cheaper two months ago. We would quite like you to end up with the first kind.

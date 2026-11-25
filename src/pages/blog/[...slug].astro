@@ -2,6 +2,7 @@
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import { getTaxonomy } from '../../utils/taxonomy';
+import { getRelatedPosts } from '../../utils/discovery';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -13,23 +14,23 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 const allPosts = await getCollection('blog');
 const taxonomy = getTaxonomy(post);
-const related = allPosts
-	.filter((candidate) => candidate.id !== post.id)
-	.map((candidate) => {
-		const candidateTaxonomy = getTaxonomy(candidate);
-		const sharedTags = candidateTaxonomy.tags.filter((tag) => taxonomy.tags.includes(tag)).length;
-		const sameCategory = candidateTaxonomy.category === taxonomy.category ? 2 : 0;
-		return { post: candidate, score: sharedTags * 3 + sameCategory };
-	})
-	.filter((item) => item.score > 0)
-	.sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
-	.slice(0, 3)
-	.map((item) => item.post);
+const related = getRelatedPosts(post, allPosts);
+const contents = headings.flatMap((heading, index) => {
+	if (heading.depth !== 2) return [];
+	const next = headings[index + 1];
+	const label = heading.text.match(/^(?:\d+\.|[^:]*Pick:)/i)?.[0];
+	// Keep the original section anchor, but identify the watch in numbered lists.
+	// The article itself retains its editorial heading and humour.
+	if (label && next?.depth === 3) {
+		return [{ ...heading, text: `${label} ${next.text}` }];
+	}
+	return [heading];
+});
 ---
 
-<BlogPost {...post.data} related={related} taxonomy={taxonomy}>
+<BlogPost {...post.data} related={related} taxonomy={taxonomy} contents={contents}>
 	<Content />
 </BlogPost>

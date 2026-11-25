@@ -3,6 +3,7 @@ title: "Which G-Shock to buy Part 1: The Best Under ₹15,000 Budget (2026)"
 description: "If you're asking whether you should buy a G-Shock, the answer is an automatic yes. From NASA-approved squares to the Ben 10-coded GA-2300, here are the best budget beaters under ₹15,000."
 pubDate: "2026-06-25"
 tags: ["g-shock", "casio", "budget", "guide", "india"]
+relatedPosts: ["best-outdoor-watches", "best-watches-under-10k", "womens-watches-under-15k"]
 ---
 
 Quick gut check: should you buy a G-Shock?
@@ -15,7 +16,7 @@ But before we get to the recommendations, you need the origin story, because G-S
 
 ---
 
-## The Story of the Triple 10
+### The Story of the Triple 10
 
 In 1981, Kikuo Ibe, a lead watch designer at Casio, dropped and destroyed a pocket watch his father had given him. Instead of just buying a replacement, he became obsessed with one idea: build a watch that would never break, no matter what.
 
@@ -25,7 +26,7 @@ For months, his team dropped over 200 prototypes out of a third storey bathroom 
 
 That observation became the **hollow case structure**. The timekeeping module floats inside the case, suspended at only a few contact points rather than bolted rigidly in place. In 1983, that idea became the DW-5000C, and the whole G-Shock empire was born from a guy refusing to accept that watches just break sometimes.
 
-## Fun Facts You Probably Did Not Know
+### Fun Facts You Probably Did Not Know
 
 - **The Hockey Puck Controversy:** A US launch commercial showed a player slap-shotting a DW-5000C into a net like it was just another puck. Viewers accused Casio of faking it. So a TV news show tested it live on air with a professional player. The watch survived without a scratch.
 - **The 25-Ton Truck:** In 2017, Casio set a Guinness World Record by driving a 24.97-ton truck over a standard, off-the-shelf G-Shock. It kept ticking afterward. That is the level of violence you are casually strapping to your wrist for the price of a nice dinner.
@@ -37,9 +38,9 @@ Ranked from lowest price to highest.
 
 ---
 
-# 1. The Gateway Drug
+## 1. The Gateway Drug
 
-## [G-Shock GD-010-1DR](https://amzn.to/4wbjjZO) - ₹4,896
+### [G-Shock GD-010-1DR](https://amzn.to/4wbjjZO) - ₹4,896
 
 G-Shock GD-010-1DR Black Tactical
 
@@ -63,9 +64,9 @@ At 52mm it sits big, like most G-Shocks do, and the plain single tone black case
 
 ---
 
-# 2. The Living Legend
+## 2. The Living Legend
 
-## [G-Shock DW-5600PT-5DR (G1334)](https://amzn.to/4eHNUqP) - ₹5,596
+### [G-Shock DW-5600PT-5DR (G1334)](https://amzn.to/4eHNUqP) - ₹5,596
 
 G-Shock DW-5600PT-5DR Golden Brown with Bullbars
 
@@ -89,9 +90,9 @@ This particular variant takes that historical square and drenches it in a golden
 
 ---
 
-# 3. The Dragon Eye
+## 3. The Dragon Eye
 
-## [G-Shock GA-110CD-1A3](https://amzn.to/4xO1S31) - ₹8,186
+### [G-Shock GA-110CD-1A3](https://amzn.to/4xO1S31) - ₹8,186
 
 G-Shock GA-110CD-1A3 Emerald Green
 
@@ -115,9 +116,9 @@ Here's a thing a lot of people don't talk about with ana-digi G-Shocks: the LCD 
 
 ---
 
-# 4. The Stealth CasiOak
+## 4. The Stealth CasiOak
 
-## [G-Shock GMA-P2100BA-7ADR](https://amzn.to/4oJf3y2) - ₹8,494
+### [G-Shock GMA-P2100BA-7ADR](https://amzn.to/4oJf3y2) - ₹8,494
 
 G-Shock GMA-P2100BA-7ADR Off-White
 
@@ -141,9 +142,9 @@ This GMA-P2100 takes that exact octagonal DNA and shrinks it into a 40mm case, w
 
 ---
 
-# 5. The Unexpected Matte
+## 5. The Unexpected Matte
 
-## [G-Shock GMA-S140-2A2DR](https://amzn.to/4vFkgJK) - ₹8,794
+### [G-Shock GMA-S140-2A2DR](https://amzn.to/4vFkgJK) - ₹8,794
 
 G-Shock GMA-S140-2A2DR Matte Navy
 
@@ -166,9 +167,9 @@ Then there's the hazard orange detail on the hands, which is small but does a lo
 
 ---
 
-# 6. The Omnitrix
+## 6. The Omnitrix
 
-## [Casio G-Shock G1552 (GA-2300)](https://amzn.to/3R4e27j) - ₹8,995
+### [Casio G-Shock G1552 (GA-2300)](https://amzn.to/3R4e27j) - ₹8,995
 
 Casio G-Shock GA-2300 Black
 
@@ -191,9 +192,9 @@ You put this on and some childish part of your brain genuinely expects something
 
 ---
 
-# 7. The Origami Engineer
+## 7. The Origami Engineer
 
-## [G-Shock GBA-950-7ADR](https://amzn.to/4oJn0TU) - ₹10,995
+### [G-Shock GBA-950-7ADR](https://amzn.to/4oJn0TU) - ₹10,995
 
 G-Shock GBA-950-7ADR Minty Green
 
@@ -217,9 +218,9 @@ On the tech side, the watch adds Bluetooth for step tracking and automatic time 
 
 ---
 
-# 8. The Vampire of Watches
+## 8. The Vampire of Watches
 
-## [G-Shock GA-B2100BBR-1A](https://amzn.to/4uX4gSr) - ₹11,995
+### [G-Shock GA-B2100BBR-1A](https://amzn.to/4uX4gSr) - ₹11,995
 
 G-Shock GA-B2100BBR-1A All Black / Red
 
@@ -243,9 +244,9 @@ What pushes this one above the basic CasiOak though is what's hiding under the h
 
 ---
 
-# 9. The Absolute Cutest
+## 9. The Absolute Cutest
 
-## [G-Shock GA-100SHB-5A](https://amzn.to/3Stslmj) - ₹11,995
+### [G-Shock GA-100SHB-5A](https://amzn.to/3Stslmj) - ₹11,995
 
 G-Shock GA-100SHB-5A Shiba Inu Edition
 
@@ -268,9 +269,9 @@ The detail work is what sells it. The top surface of the dual-colour band repres
 
 ---
 
-# 10. The Bluetooth Beater
+## 10. The Bluetooth Beater
 
-## [G-Shock GBD-300-7](https://amzn.to/4aTKLmv) - ₹12,215
+### [G-Shock GBD-300-7](https://amzn.to/4aTKLmv) - ₹12,215
 
 G-Shock GBD-300-7 White High Contrast
 
@@ -293,7 +294,7 @@ So why does it still make the list? Because my older GBD-100 has quietly become 
 
 ---
 
-# Final Thoughts
+## Final Thoughts
 
 Here's the honest truth after going through all ten of these. Whether you spend five grand on a classic DW-5600 or stretch the budget for the Shiba Inu edition, you genuinely cannot lose. A G-Shock is one of the only watches that belongs just as naturally on a billionaire's wrist as it does on a student's. They're classless, in the best possible sense of that word.
 

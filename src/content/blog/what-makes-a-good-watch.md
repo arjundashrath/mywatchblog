@@ -4,6 +4,7 @@ description: "What actually makes a good watch? A practical guide to proportions
 pubDate: "2026-09-05"
 tags: ["guide", "watch-buying-guide", "watch-basics", "horology", "watches-india", "beginner-guide"]
 heroImage: "../../assets/blog/what-makes/hero-image.jpg"
+relatedPosts: ["where-to-buy-watches-in-india", "best-watches-under-5k", "best-watches-under-20k"]
 ---
 
 Open two watch listings and it is very easy to turn the whole thing into a game of Top Trumps. Sapphire crystal beats mineral. Automatic beats quartz. 100 metres of water resistance beats 50. More complications must mean more value. Add enough ticks to the right-hand column and surely you have found the better watch.
@@ -20,7 +21,7 @@ For us, it comes down to how well the entire thing works together. Design, propo
 
 ---
 
-# The Spec Sheet Trap
+## The Spec Sheet Trap
 
 Specifications are useful. Very useful, in fact. If I am choosing between two watches I will absolutely look at the crystal, movement, water resistance, case dimensions and bracelet construction. Ignoring specifications completely would be just as silly as treating them like a final score.
 
@@ -32,7 +33,7 @@ A good watch is not the watch with the most features. It is the watch where the 
 
 ---
 
-# 1. Proportions Matter More Than the Diameter
+## 1. Proportions Matter More Than the Diameter
 
 A lot of watch shopping starts with one number: case diameter.
 
@@ -50,7 +51,7 @@ We saw a version of this with the [ALBA AX7019X1](/blog/alba-watches-india/). On
 
 ---
 
-# 2. A Good Dial Is More Than a Nice Colour
+## 2. A Good Dial Is More Than a Nice Colour
 
 The dial is the part you will look at hundreds of times, so it is strange how often watch comparisons reduce it to "blue dial" or "sunburst finish."
 
@@ -66,7 +67,7 @@ Character matters as well, although that is harder to put into a table. The koi-
 
 ---
 
-# 3. Finishing Is Where the Watch Starts to Feel Expensive
+## 3. Finishing Is Where the Watch Starts to Feel Expensive
 
 Watch specifications are very good at telling you what a case is made from and not very good at telling you how well that material has been used.
 
@@ -78,7 +79,7 @@ The crown is another small giveaway. A crown that is easy to grip, turns cleanly
 
 ---
 
-# 4. The Bracelet Can Make or Break the Entire Watch
+## 4. The Bracelet Can Make or Break the Entire Watch
 
 This might be the most underrated part of a watch.
 
@@ -94,7 +95,7 @@ The [Casio MRW-200H](/blog/casio-mrw-200h-review/) is a great example of price c
 
 ---
 
-# 5. The Movement Should Suit the Watch
+## 5. The Movement Should Suit the Watch
 
 Watch enthusiasts love movements, and understandably so. A tiny mechanical machine sitting on your wrist is a fascinating thing. But somewhere along the way, "automatic" started becoming shorthand for "better," and that is not always helpful.
 
@@ -112,7 +113,7 @@ The right movement is the one that makes sense for the watch, the price and the 
 
 ---
 
-# 6. Sapphire Is Great. It Is Still Not the Whole Watch
+## 6. Sapphire Is Great. It Is Still Not the Whole Watch
 
 I like sapphire crystal. Most watch enthusiasts do.
 
@@ -128,7 +129,7 @@ This is also why I would not dismiss a watch I genuinely love simply because it 
 
 ---
 
-# 7. Water Resistance Needs Context, Not Just a Bigger Number
+## 7. Water Resistance Needs Context, Not Just a Bigger Number
 
 Water resistance is probably the most misunderstood specification in the entire watch industry.
 
@@ -152,7 +153,7 @@ Official references: [Tissot water-resistance guide](https://www.tissotwatches.c
 
 ---
 
-# 8. The Tiny Details Are Usually What You Remember
+## 8. The Tiny Details Are Usually What You Remember
 
 Once the obvious specifications are out of the way, small details start carrying a surprising amount of weight.
 
@@ -166,7 +167,7 @@ This is also why real ownership impressions matter. A specification sheet can te
 
 ---
 
-# 9. Price Changes What "Good" Means
+## 9. Price Changes What "Good" Means
 
 There is no single standard for a good watch because a ₹2,000 watch and a ₹2,00,000 watch are not trying to solve the same problem.
 
@@ -182,7 +183,7 @@ A watch only needs to justify its own price, not win every spreadsheet.
 
 ---
 
-# 10. The Best Watches Feel Intentional
+## 10. The Best Watches Feel Intentional
 
 This is the hardest thing to quantify and probably the most important.
 
@@ -198,7 +199,7 @@ When all of that lines up, the watch tends to feel better than its individual sp
 
 ---
 
-# The Wrist Journal Test
+## The Wrist Journal Test
 
 So when we look at a watch, these are the six things I think matter most.
 
@@ -220,7 +221,7 @@ I do not think these six points need to become another rigid scoring system. Tha
 
 ---
 
-# So, What Makes a Watch Good?
+## So, What Makes a Watch Good?
 
 A good watch gets the important things right for the kind of watch it wants to be.
 

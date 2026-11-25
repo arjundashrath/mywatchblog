@@ -3,6 +3,7 @@ title: "Casio MRW-200H Review — The 850 Rupee Watch That Took the Internet by 
 description: "The Casio MRW-200H has become the most posted watch on Indian watch Reddit. Retailing at ₹2,195 but regularly available for under ₹900, we bought one, wore it, and put it through its paces. Here is what we found."
 pubDate: "2026-06-20"
 tags: ["casio", "review", "budget", "india"]
+relatedPosts: ["best-watches-under-3k", "best-outdoor-watches", "which-gshock-to-buy-part-1"]
 ---
 
 Every single day, without fail, there is a new post on Indian watch Reddit.
@@ -15,7 +16,7 @@ A Casio watch for 800 rupees. Sounds like there has to be a catch. So we bought 
 
 ---
 
-# The Deal
+## The Deal
 
 The MRW-200H has an MRP of around ₹2,200. But here is the thing: it almost never sells at that price. Flipkart regularly drops this watch to more than half off, and if you time it right during a sale, you can snap it up for ₹800-900. That is not a typo. Eight hundred rupees for a Casio.
 
@@ -25,7 +26,7 @@ We tested the **MRW-200H-2B3V**, the variant with the black case, blue dial, and
 
 ---
 
-# Specifications
+## Specifications
 
 **Key Specifications:**
 - **Case Diameter:** 44.6mm (bezel measures ~41mm)
@@ -45,7 +46,7 @@ If you do not care about the numbers, here is the short version: the dial sits w
 
 ---
 
-# The "Diet G-Shock" and Why It Exists
+## The "Diet G-Shock" and Why It Exists
 
 The MRW-200H first appeared in Casio's lineup around 2011, designed as a dead-simple analog sports watch that borrows heavily from the visual language of classic dive watches. Rotating bezel. Bold markers. High-contrast dial. 100 metres of water resistance. All the diver cues, none of the diver price.
 
@@ -53,7 +54,7 @@ The watch community has since given it the nickname "Diet G-Shock," and it makes
 
 ---
 
-# On the Wrist
+## On the Wrist
 
 The 100 metres of water resistance is genuinely great at this price. You can take this thing swimming without giving it a second thought. Most watches under ₹2,000 tap out at 30 metres (which, let us be honest, means "try not to wash your hands too aggressively"). The MRW-200H actually lets you get in the water. That alone makes it worth the asking price.
 
@@ -67,7 +68,7 @@ Now here is the important caveat: the 2B3V variant we tested has no lume and no 
 
 ---
 
-# The Day-Date Window
+## The Day-Date Window
 
 This is the thing that genuinely amazed me. There is a day *and* a date window on this watch. Both of them. On a watch that costs 800 rupees.
 
@@ -77,7 +78,7 @@ The blue dial with the golden accents is gorgeous. The golden seconds hand catch
 
 ---
 
-# The Social Experiment
+## The Social Experiment
 
 Here is where it gets fun. As a small test, I asked several colleagues to guess how much this watch costs. Two rounds: before touching it, and after.
 
@@ -89,7 +90,7 @@ But even ₹3,000-3,500 is a massive win. The shock on people's faces when I tol
 
 ---
 
-# Where the Costs Were Cut
+## Where the Costs Were Cut
 
 Let us be honest about the compromises, because there are some.
 
@@ -103,7 +104,7 @@ Let us be honest about the compromises, because there are some.
 
 ---
 
-# Battery and Durability
+## Battery and Durability
 
 Casio claims a 3-year battery life on the SR626SW cell. We have not tested this for obvious reasons (reviewing a watch after three years would be funny content but terrible journalism). Given Casio's track record with quartz accuracy and battery life claims, there is no reason to doubt it.
 
@@ -111,7 +112,7 @@ The accuracy is rated at ±20 seconds per month, which is standard for a quartz 
 
 ---
 
-# The Verdict
+## The Verdict
 
 Here is the real question: what can you realistically expect for ₹800?
 
@@ -129,7 +130,7 @@ I grew fond of this watch. I did not expect to. It was supposed to be a quick te
 
 ---
 
-# Variant Guide: Know Before You Buy
+## Variant Guide: Know Before You Buy
 
 The MRW-200H comes in a surprisingly large number of colourways and dial configurations. Some things to keep in mind:
 
